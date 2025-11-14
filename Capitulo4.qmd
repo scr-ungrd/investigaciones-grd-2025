@@ -1,0 +1,783 @@
+---
+title: "4. Resiliencia comunitaria ante eventos tecnológicos"
+author:
+  - name: Evelin Langebeck Cuéllar
+    orcid: 0000-0003-2243-0899
+  - name: Nicolás Giraldo Hernández
+date: "2025"
+title-block-banner: bannerc1.png
+title-block-banner-color: "white"
+css:
+  - custom.css
+  - pdf-styles.css
+format:
+  html:
+    theme: cosmo
+    toc: true
+    number-sections: false
+  pdf:
+    documentclass: article
+    geometry: margin=1in
+    number-sections: false
+    prefer-html: true
+    include-in-header:
+      - text: |
+          \usepackage{graphicx}
+          \usepackage{xcolor}
+          \usepackage{fancyhdr}
+          \usepackage{wallpaper}
+    title-block-banner: bannerc1.png
+    colorlinks: true
+    keep-tex: true
+keywords: [community resilience, technological risk, ARC-D tool, disaster risk management, multi-temporal resilience, risk perception]
+bibliography: capitulo4-references.bib
+csl: vancouver-brackets.csl
+crossref:
+  fig-prefix: "Figura"
+  tbl-prefix: "Tabla"
+  chapters: false
+---
+
+::: {#resumen style="padding-top: 0.5rem; padding-bottom: 0.5rem;"}
+# Resumen
+
+La resiliencia comunitaria es la capacidad de una población a enfrentar, responder y adaptarse a emergencias y desastres manteniendo su estructura básica, función e identidad. Sin embargo, la resiliencia comunitaria ante eventos tecnológicos ha sido escasamente estudiada en Colombia. Aquí se mide y evalúa la resiliencia comunitaria ante desastres empleando la aplicación de la herramienta ARC-D en una población del municipio de Dosquebradas (barrio Villa Carola) dónde en 2011 ocurrió un proceso de remoción en masa que desencadenó un derrame de hidrocarburos generando la pérdida de 33 vidas debido a una explosión y desbordando las capacidades de respuesta del municipio. Seguimos una metodología con enfoque cualitativo para la interacción comunidad-territorio y una con enfoque cuantitativo para el procesamiento de datos. Para la discusión comunitaria se empleó un instrumento tipo encuesta medida por grupo focal con facilitador, en la que se evaluaron cuatro áreas temáticas. La aplicación de la herramienta tuvo un diagnóstico de resiliencia previo y una prueba piloto de ajuste al grupo focal. Encontramos un nivel bajo de resiliencia para el año (2011) con un mayor énfasis en la baja comprensión del riesgo, contrario al componente más alto que corresponde a cohesión social en el territorio. El año (2021) registró un nivel de mediana resiliencia con mejores resultados en el fortalecimiento de la gobernanza para gestionar el riesgo de desastres, reflejado en su componente destacado, que fue la participación de las mujeres. Concluimos que en la Comuna 10 de Dosquebradas mejoró sus capacidades de resiliencia comunitaria ante desastres por riesgo tecnológico de 30,08% a 60,18%, destacando el aumento de la participación comunitaria, la organización social y la apropiación de la cultura de la prevención del riesgo.
+:::
+
+::: {#abstract style="padding-top: 0.5rem; padding-bottom: 0.5rem;"}
+# Multi-temporal Evaluation of Community Resilience to Disasters Due to Technological Risk in Commune 10 of the Municipality of Dosquebradas
+
+**Abstract**. Community resilience is the capacity of a population to face, respond to, and adapt to emergencies and disasters while maintaining its basic structure, function, and identity. However, community resilience in the face of technological events has been scarcely studied in Colombia. This study measures and evaluates community resilience to disasters by applying the ARC-D tool in a population in the municipality of Dosquebradas (Villa Carola neighborhood), where in 2011, a mass removal event triggered a hydrocarbon spill, causing the loss of 33 lives due to an explosion and overwhelming the municipality's response capacity. A qualitative methodology was followed for the community-territory interaction, and a quantitative approach was used for data processing. For the community discussion, a survey-type instrument was used, measured through a focus group with a facilitator, in which four thematic areas were assessed. The application of the tool included a preliminary resilience diagnosis and a pilot adjustment test for the focus group. We found a low resilience level in 2011, primarily due to a low understanding of risk, which contrasted with the highest component, social cohesion in the territory. The year 2021 recorded a medium resilience level, with improved results in strengthening governance to manage disaster risk, reflected in the highlighted component: women's participation. We concluded that the resilience capacity of Community 10 in Dosquebradas improved its community resilience to technological disaster risks from 30.08% to 60.18%, with notable increases in community participation, social organization, and the appropriation of risk prevention culture.
+:::
+
+# 1. INTRODUCCIÓN
+
+La resiliencia comunitaria es la capacidad de las comunidades y hogares que viven dentro de sistemas complejos para anticiparse y adaptarse a los riesgos, para absorber, responder y recuperarse de las amenazas y estresores de una manera oportuna y efectiva sin comprometer sus posibilidades a largo plazo, mejorando finalmente su bienestar [@cruzroja2006]. Este definición sigue la del grupo de trabajo intergubernamental de expertos de composición abierta sobre los indicadores mundiales para las metas mundiales del Marco de Sendai que define la resiliencia como "la capacidad que tiene un sistema, una comunidad o una sociedad expuestos a una amenaza para resistir, absorber, adaptarse, transformarse y recuperarse de sus efectos de manera oportuna y eficiente, en particular mediante la preservación y la restauración de sus estructuras y funciones básicas por conducto de la gestión de riesgos" [@onu2016]. Otras aproximaciones definen la resiliencia comunitaria como la capacidad de los sistemas para hacer frente y adaptarse a eventos extremos, sin perder su estructura básica, y hace énfasis en que la cultura de la resiliencia permite reducir pérdidas humanas, socioeconómicas y ambientales [@ciccotti2020]
+
+La resiliencia comunitaria tiene dos componentes. Primero, la capacidad de adaptación, que se define como las condiciones que permiten a las personas y/o comunidades anticipar y responder al cambio, minimizar las consecuencias, recuperarse y aprovechar las nuevas oportunidades [@unisdr2009]. Segundo, la percepción del riesgo, en el cual las comunidades perciben el riesgo basado en procesos cognitivos influidos por diversos factores, tales como las características y la gravedad del riesgo, experiencias previas, la cantidad y calidad de la información disponible, así como los valores individuales y sociales y el conocimiento sobre el fenómeno que genera el riesgo [@mccaul2016].
+
+La importancia de considerar la percepción del riesgo de desastres como una necesidad reciente, especialmente en el contexto del cambio climático y el incremento de desastres, ha sido abordado en análisis de percepción del riesgo, a partir de métodos psicosociales sustentados en la subjetividad de los seres humanos ante los escenarios de riesgo presentes en sus entornos [@sandoval2022]. Sin embargo, los enfoques se han direccionado a eventos de tipo natural y socio-natural dejando a un lado los escenarios de riesgo antrópico-tecnológicos. Los riesgos tecnológicos en Sudamérica han sido poco explorados a partir de ejercicios de percepción del riesgo que permitan establecer niveles de resiliencia comunitaria ante este tipo de eventos.
+
+Los autores Sandoval, Navarrete, & Cuadra [@sandoval2022] resaltan que la resiliencia comunitaria se ha estudiado en Latinoamérica principalmente en países como Chile, seguido de Puerto Rico y Brasil. Los principales riesgos estudiados son terremotos (12), inundaciones (11) y tsunamis (7), y los escasamente estudiados son sequías, erupciones volcánicas y eventos extremos vinculados al cambio climático [@sandoval2022]. Los autores afirman que en Latinoamérica una de las principales barreras para el desarrollo o despliegue de la resiliencia comunitaria, son las condiciones de vulnerabilidad en las dimensiones políticas, sociales, económicas y ambientales. Frente a este panorama, en Colombia la resiliencia comunitaria ha sido escasamente estudiada y los trabajos realizados se han enfocado en análisis comparativos a partir de índices compuestos de resiliencia para dimensiones ecosistémicas [@sandoval2022].
+
+Aquí presentamos la evaluación de la resiliencia comunitaria multitemporal entre los años 2011 y 2021 el municipio de Dosquebradas en el barrio Villa Carola, dónde en 2011 ocurrió un evento de origen natural que desencadenó un accidente tecnológico o Natech, debido a un proceso de remoción en masa que causó el derrame de hidrocarburos ocasionando 33 muertes debido a una explosión por el hidrocarburo derramado en un punto caliente y desbordando las capacidades de respuesta municipales (Ver [Caja 1](#box1)).
+
+Actualmente, la Comuna 10 donde se ubica el barrio Villa Carola, presenta múltiples amenazas socio-naturales por deslizamientos y amenazas tecnológicas por actividades industriales, transporte de hidrocarburos a partir de infraestructura como poliductos y gasoductos, transporte de sustancias peligrosas a partir de vehículos cisterna, aglomeración de público, entre otras.
+
+::: {#box1 .callout-important style="background-color: #e3f0fbff; border-left: 4px solid #d4e8f9ff;" appearance="minimal" icon="false"}
+<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;">
+Caja 1. Desastre tecnológico en la Comuna 10 de Dosquebradas en el año 2011
+</h2>
+
+El 23 de diciembre de 2011 ocurrió en la Comuna 10 de Dosquebradas una de las tragedias más graves asociadas a riesgo tecnológico en Colombia. Una fuga de combustible en el poliducto Puerto Salgar--Cartago descendió por la quebrada Aguazul y al entrar en contacto con una fuente de calor, desencadenó una serie de explosiones. El evento afectó principalmente a los barrios Villa Carola, La Divisa, La Romelia en la Comuna 10 del municipio, dejando 33 personas fallecidas, 110 heridas, más de cien viviendas afectadas y 38 destruidas, además de pérdidas en establecimientos comerciales.
+
+![Escena del desastre tecnológico de 2011 en Villa Carola, Dosquebradas.](images/capitulo4/Figura%20Caja%201.%20Sitio%20del%20evento%20en%20Villa%20Carola%202011.png){#fig-desastre2011 width="500"}
+
+Las causas se atribuyeron tanto a factores antrópicos, como la presencia de válvulas ilegales en el poliducto, como a factores naturales, en particular la reptación del terreno producto de la ola invernal de 2011, que generó tensiones y la fractura de la tubería. El desastre también impactó ambientalmente la quebrada Aguazul, contaminada con más de 1,400 galones de gasolina que afectaron su ronda hídrica y la bocatoma que abastecía a cerca de 25,000 personas.
+
+La atención inmediata contó con la participación de la comunidad, organismos de socorro, autoridades locales y nacionales, así como la empresa Ecopetrol. Posteriormente, se desarrollaron procesos de diálogo y reparación, que permitieron una recuperación colectiva menos traumática y consolidaron aprendizajes comunitarios sobre la gestión del riesgo.
+:::
+
+# 2. METODOLOGÍA
+
+## 2.1. Municipio de Dosquebradas y contexto de la Comuna 10
+
+El municipio de Dosquebradas pertenece al departamento de Risaralda en Colombia. Se encuentra en el sector oriental del departamento y se ubica en la parte occidental de la Cordillera Central. Sus límites municipales son al norte y al este con el municipio de Santa Rosa, al sur con la ciudad de Pereira, y al noroeste con el municipio de Marsella. Dosquebradas se compone de su casco urbano con más de trescientos barrios, dos centros poblados y veinticinco veredas. La población es de 217,178 habitantes, distribuidos en 77,387 unidades de vivienda y 64,576 hogares. La proyección poblacional ajustada indica que el 94.6% pertenece a la cabecera municipal, mientras que el 5.4% pertenece a los centros poblados y rurales dispersos.
+
+En la @fig-mapa-dosquebradas se visualiza la localización de la Comuna 10 del municipio de Dosquebradas y la distribución espacial del estado de la comuna frente a escenarios de amenaza o riesgo, tanto de tipo tecnológico como socio-natural, identificados en el territorio. Se observan las amenazas tecnológicas, entre ellas las áreas de aglomeración, las rutas de transporte de carga y los sectores de almacenamiento de carga, en el contexto de la dinámica urbana y social de la comuna. Además, zonas con amenaza por movimientos en masa, red hidrográfica y líneas de tensión eléctrica que atraviesan el área también se diferencian en sectores clasificados como de alto riesgo mitigable y alto riesgo no mitigable por fenómenos recurrentes.
+
+![Mapa de localización del municipio de Dosquebradas y la Comuna 10.](images/capitulo4/Figura%201.%20Mapa%20de%20localización%20del%20municipio%20de%20Dosquebradas.png){#fig-mapa-dosquebradas width="600"}
+
+## 2.2. Herramienta ARC-D para evaluación de resiliencia comunitaria
+
+Se utilizó la herramienta ARC-D para medir la resiliencia comunitaria ante desastres desarrollada por la organización GOAL (https://www.goalglobal.org/). Esta herramienta tiene un enfoque mixto, con elementos cualitativos y cuantitativos. El enfoque cualitativo hace referencia a la interacción con la comunidad de los territorios, con los cuales se recoge la información desde una perspectiva social y comunitaria, a través de un instrumento tipo encuesta de 30 preguntas (@fig-arcd-componentes), las cuales cuentan con instrumentos de verificación. El enfoque cuantitativo se refiere al procesamiento de los datos y permite obtener gráficos de red para la sistematización y presentación de la información de tipo numérico y jerárquico. La herramienta cuenta con dos etapas. Una etapa A que realiza un diagnóstico general de la comunidad y una etapa B, que se enfoca en las preguntas de evaluación en el grupo focal (@fig-arcd-componentes). De acuerdo con GOAL \[5\], esta herramienta se construye de acuerdo al trabajo en resiliencia ante desastres \[5\] comprende dos etapas (**Caja 2 y** @fig-arcd-componentes**).**
+
+::: {#caja2 .callout-important style="background-color: #e3f0fbff; border-left: 4px solid #d4e8f9ff;" appearance="minimal" icon="false"}
+<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;">
+Caja 2. Etapas de la herramienta ARC-D de GOAL y glosario de términos
+</h2>
+![Componentes herramienta ARC-D. La herramienta de evaluación de resiliencia comunitaria establecida por GOAL evalúa cuatro áreas temáticas que conforman 30 componentes.](images/capitulo4/Figura 2. Componentes herramienta ARC-D..png){#fig-arcd-componentes width="500"}
+
+**Categorías de evaluación de la herramienta ARC-D de GOAL:**
+
+| **%** | **Nivel** | **Categoría** | **Descripción** |
+|:---------------------:|:--------------:|:----------:|:----------------------------------:|
+| 0-20 | 1 | Mínima Resiliencia | Poca conciencia del problema o poca motivación. Acciones limitadas. |
+| 21-40 | 2 | Baja Resiliencia | Conciencia del problema con capacidad limitada de actuar. |
+| 41-60 | 3 | Mediana Resiliencia | Desarrollo de soluciones con capacidad mejorada de actuar. |
+| 61-80 | 4 | Resiliencia | Coherencia e integración con intervenciones amplias y estratégicas. |
+| 81-100 | 5 | Alta Resiliencia | Cultura de seguridad integrada en políticas y comportamientos. |
+
+: Categorías de evaluación de la herramienta ARC-D. {#tbl-categorias-arcd}
+
+**Glosario de términos relacionados con la herramienta ARC-D:**
+
+-   **Capacidad:** Es la habilidad de las personas, instituciones y sociedades para llevar a cabo funciones, resolver problemas y fijarse y obtener objetivos. La capacidad puede incluir infraestructura y medios físicos, instituciones, habilidades de adaptación de las sociedades, así como conocimiento humano, habilidades y atributos colectivos.
+-   **Estresores:** Los estresores son tendencias a largo plazo que socavan el potencial de un sistema o proceso y que aumentan la vulnerabilidad de los actores dentro de ella. Estos pueden ser degradación de los recursos naturales, pérdida en la producción agrícola, urbanización, cambios demográficos, cambio climático, inestabilidad política y reducción en los ingresos.
+-   **Gobernanza:** La gobernanza es el proceso de toma de decisiones y la subsecuente implementación de esas decisiones. Es el ejercicio de la autoridad política, económica y administrativa en el manejo de los asuntos de un país en todos los niveles.
+:::
+
+### 2.3. Componentes evaluativos del ARC-D
+
+La herramienta ARC-D estructura la resiliencia comunitaria en cuatro áreas temáticas que responden a los objetivos del marco de Sendai, que permiten analizar de manera ampla las capacidades de una comunidad frente a situaciones de desastre.
+
+La primera área temática corresponde a comprender el riesgo de desastres, la cual busca identificar en qué medida la comunidad reconoce y se apropia del conocimiento sobre sus amenazas, así como de las estrategias de sensibilización y educación. Se agrupa en cuatro componentes: evaluación participativa y evaluación científica del riesgo, la difusión de información y la educación de los niños en reducción de riesgo.
+
+La segunda área temática se orienta a fortalecer la gobernanza para gestionar el riesgo de desastres y reúne siete componentes. En este caso, los componentes que se abordan son los mecanismos de planificación del desarrollo y planificación territorial, la toma de decisiones colectivas, la inclusión de grupos vulnerables y de mujeres, el conocimiento de derechos, así como las alianzas para la reducción de riesgo y los procesos de recuperación.
+
+La tercera área temática corresponde a reducir la vulnerabilidad a desastres para mejorar la resiliencia que contempla doce componentes: la gestión ambiental sostenible, la seguridad y gestión del agua, el acceso y conciencia de la salud, el suministro seguro de alimentos, las prácticas de medios de vida resistentes a amenazas, el acceso a mercado, el acceso a servicios financieros, la protección de ingresos y activos, el acceso a protección social, la cohesión social y prevención de conflictos, la infraestructura crítica y la vivienda.
+
+Finalmente, la cuarta área temática se dedica a mejorar la preparación ante desastres para lograr respuestas efectivas y promover la reconstrucción resiliente después de una emergencia y se conformada por siete componentes que abarcan: la planificación de contingencia y recuperación, los sistemas de alerta temprana, la capacidad de preparación y respuesta, los servicios de salud y educación durante emergencias, la infraestructura en contextos de crisis y el liderazgo comunitario en la respuesta y la recuperación.
+
+::: {#caja3 .callout-important style="background-color: #e3f0fbff; border-left: 4px solid #d4e8f9ff;" appearance="minimal" icon="false"}
+<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;">
+
+Caja 3. Glosario de términos relacionados con el riesgo tecnológico
+
+</h2>
+
+-   **Accidente tecnológico:** Eventos generados por el uso y acceso a la tecnología, originados por eventos antrópicos, naturales, socio-naturales y propios de la operación. Comprende fugas, derrames, incendios y explosiones asociados a la liberación súbita de sustancias y/o energías con características de peligrosidad.
+
+-   **Amenaza tecnológica:** Amenaza relacionada con accidentes tecnológicos o industriales, procedimientos peligrosos, fallos de infraestructura o de ciertas actividades humanas, que pueden causar muerte o lesiones, daños materiales, interrupción de la actividad social y económica o degradación ambiental.
+
+-   **Riesgo tecnológico:** Daños o pérdidas potenciales que pueden presentarse debido a los eventos generados por el uso y acceso a la tecnología, originados en sucesos antrópicos, naturales, socio-naturales y propios de la operación.
+:::
+
+## 2.4. Recolección y procesamiento de datos de percepción del riesgo comunitario
+
+### 2.4.1 Reconocimiento de la Comuna 10 y sus líderes
+
+La fase exploratoria consistió en actividades encaminadas a la revisión de información bibliográfica de artículos, publicaciones y metodologías relacionadas con resiliencia comunitaria, riesgo tecnológico, percepción del riesgo e instrumentos de planificación de gestión del riesgo de orden local.
+
+Previo a la aplicación de la herramienta, se realizó el acercamiento al territorio y la comunidad mediante una visita de campo, tres reuniones preliminares virtuales y una reunión presencial con los líderes comunitarios para socializar el objetivo de la aplicación de la herramienta ARC-D. Igualmente, se efectuó una prueba piloto que permitió ajustar la herramienta de manera conceptual y metodológica, generando adaptaciones a los formatos de aplicación y a una mejor contextualización del ejercicio.
+
+El riesgo considerado en la Comuna 10 fue ante eventos tecnológicos, dados los antecedentes de la explosión de Villa Carola en el año 2011 y la presencia de zonas potenciales de riesgo tecnológico en varias zonas de la comuna. Esto, a su vez, permitió establecer el criterio de multitemporalidad en la medición de la resiliencia comunitaria, algo innovador en la aplicación del ARC-D.
+
+### 2.4.2 Aplicación de la herramienta ARC-D en el grupo focal
+
+Durante octubre de 2021, se llevó a cabo en el barrio Villa Carola del municipio de Dosquebradas la sesión de grupo focal con 14 líderes comunitarios de diferentes barrios de la Comuna 10, en donde se evaluaron los 30 componentes de la herramienta ARC-D.
+
+![Introducción al grupo focal con líderes comunitarios de la Comuna 10 de Dosquebradas.](images/capitulo4/Figura%204.%20Introducción%20al%20grupo%20focal..png){#fig-grupo-focal-intro width="600"}
+
+El desarrollo de la actividad consistió en la evaluación por la comunidad de la percepción de riesgo frente a escenarios de riesgo de tipo tecnológico, entendiendo los antecedentes de emergencias y desastres ocurridos en la Comuna por este tipo de eventos, específicamente el evento del año 2011. Con base en lo anterior, y dado que la comunidad había presenciado el evento de 2011, así como la etapa de rehabilitación y reconstrucción del barrio Villa Carola, se propuso a los asistentes que la evaluación de la aplicación de la herramienta ARC-D se dividiera en dos momentos. El primer momento era la evaluación en retrospectiva de cómo se percibían los componentes evaluados del 2011 hacia atrás, y un segundo momento, en el que se evaluara la percepción actual de riesgo (año 2021) considerando los mismos 30 componentes del ARC-D frente a eventos tecnológicos.
+
+![Aplicación de la herramienta ARC-D con grupo focal, líderes de la Comuna 10 el 09 de octubre de 2021.](images/capitulo4/Figura%203.%20Aplicación%20de%20la%20herramienta%20ARC-D.png){#fig-grupo-focal-1 width="600"}
+
+![Cierre del grupo focal con líderes de la Comuna 10 de Dosquebradas.](images/capitulo4/Figura%205.%20Cierre%20del%20grupo%20focal%20Comuna%2010.png){#fig-grupo-focal-cierre width="600"}
+
+### 2.4.3 Análisis de datos
+
+Se analizó la información obtenida en campo y en el grupo focal, la cual consistió en las siguientes actividades. La primera parte consiste en el análisis de las encuestas, el cual se realizó mediante el procesamiento de la información en el software CommCare, donde se registraron los datos y posteriormente se integraron a la plataforma de GOAL. El diligenciamiento de la información permitió obtener el registro de la Comuna 10 en la plataforma Nexus, donde la información fue representada a través de gráficos de red.
+
+Se consideró el análisis de entrevistas previas, y se examinó la información cualitativa aportada por los participantes, lo que permitió contextualizar los resultados de las encuestas y profundizar en las percepciones de la comunidad sobre los diferentes componentes de la resiliencia, útiles en el análisis y comprensión de la comunidad frente a los riesgos tecnológicos presentados en su localidad.
+
+Posteriormente, se realizó el análisis comparativo de resultados de la evaluación, considerando cada componente de la herramienta y estableciendo un contraste temporal entre los años 2011 antes de la explosión y 2021 después de la explosión y de los procesos de recuperación y reconstrucción, con el fin de identificar los cambios, las mejoras y los aspectos que requieren mayor intervención en las capacidades de resiliencia de la comunidad frente a eventos tecnológicos.
+
+## 2.5. Caracterización del riesgo tecnológico y condiciones de la Comuna 10
+
+La caracterización de riesgos tecnológicos en el municipio de Dosquebradas se identifican sectorialmente por comunas. Esta caracterización se basa en la información disponible en los instrumentos de planificación del municipio de Dosquebradas (@tbl-riesgos-tecnologicos).
+
+| **Comuna o Corregimiento** | **Riesgo tecnológico asociado** |
+|:------------------:|:--------------------------------------------------:|
+| Comuna 10 (Villa Carola) | Estaciones de servicio, sector industrial, circulación de hidrocarburos |
+| Alto del Nudo | Tuberías de conducción, sector industrial, comercial y particulares |
+
+: Riesgos tecnológicos asociados por comuna para el municipio de Dosquebradas. {#tbl-riesgos-tecnologicos}
+
+Las condiciones comunitarias de la Comuna 10 de Dosquebradas incluyen barrios, organizaciones comunitarias y características económicas (@fig-caracteristicas-comuna). La comuna se conforma de 19 barrios incluyendo Villa Carola, La Romelia, La Divisa, Galaxia, Las Acacias, Los Pinos, Los Guamos, y otros sectores de importancia socioeconómica.
+
+![Características comunitarias de la Comuna 10 de Dosquebradas.](images/capitulo4/Figura%206.%20Características%20comunitarias%20de%20la%20comuna%2010.png){#fig-caracteristicas-comuna width="500"}
+
+# 3. RESULTADOS
+
+## 3.1 Evaluación de los componentes de resiliencia comunitaria ante desastres
+
+Los resultados obtenidos mediante la calificación de la comunidad dan cuenta de la multitemporalidad. Se identificó el nivel de resiliencia comunitaria ante desastres en el año 2011, en el cual ocurrió el evento, y en el año 2021, con el fin de hacer un contraste de las condiciones y poder generar recomendaciones. En la @tbl-resultados-arcd se presentan los resultados por componentes y por temporalidad.
+
+| **Áreas Temáticas** | **Componentes de Resiliencia a Desastres** | **Calificación 2011** | **Calificación 2021** |
+|:--------------:|:------------------------:|:--------------:|:--------------:|
+| 1\. Comprender el riesgo de desastres | Evaluación comunitaria participativa | 2 | 4 |
+|  | Evaluación científica del riesgo | 2 | 3 |
+|  | Diseminación de información en RRD | 2 | 4 |
+|  | Educación de los niños en RRD | 1 | 3 |
+| 2\. Fortalecer la Gobernanza | RRD en planificación del desarrollo | 1 | 2 |
+|  | RRD en planificación territorial | 1 | 1 |
+|  | Toma comunitaria de decisiones | 1 | 4 |
+|  | Inclusión de grupos vulnerables | 2 | 3 |
+|  | Participación de las mujeres | 2 | 5 |
+|  | Conocimiento de derechos e incidencia | 2 | 4 |
+|  | Alianzas para la RRD | 1 | 4 |
+| 3\. Reducir la Vulnerabilidad | Gestión ambiental sostenible | 2 | 3 |
+|  | Seguridad y gestión del agua | 2 | 4 |
+|  | Acceso y conciencia de la salud | 2 | 4 |
+|  | Suministro seguro de alimentos | 2 | 4 |
+|  | Prácticas de medios de vida resistentes | 1 | 2 |
+|  | Acceso a mercado | 1 | 3 |
+|  | Acceso a servicios financieros | 1 | 2 |
+|  | Protección de ingresos y activos | 2 | 2 |
+|  | Acceso a protección social | 2 | 3 |
+|  | Cohesión social y prevención de conflictos | 4 | 2 |
+|  | Infraestructura Crítica | 1 | 3 |
+|  | Vivienda | 1 | 3 |
+| 4\. Mejorar la Preparación | Planificación de contingencia y recuperación | 1 | 3 |
+|  | Sistema de alerta temprana | 1 | 4 |
+|  | Capacidad de preparación, respuesta y recuperación | 2 | 4 |
+|  | Servicios de salud durante emergencias | 2 | 4 |
+|  | Servicios de educación en emergencias | 2 | 4 |
+|  | Infraestructura en emergencias | 1 | 1 |
+|  | Liderazgo y voluntariado en respuesta | 3 | 4 |
+| **TOTAL** |  | **50** | **96** |
+| **NIVEL DE RESILIENCIA COMUNITARIA** |  | **30.08% BAJA** | **60.18% MEDIANA** |
+
+: Calificaciones de los componentes de resiliencia comunitaria ante desastres según ARC-D. {#tbl-resultados-arcd}
+
+### 3.1.1 Evaluación de resiliencia comunitaria - Año 2011
+
+En los resultados de medición de resiliencia comunitaria se observa que para el año 2011, se obtuvo una calificación del 30.08% categorizada como baja resiliencia según los criterios de la @tbl-categorias-arcd. La comunidad calificó 14 componentes con un nivel de 1, valoración que corresponde a la mínima resiliencia, que se describe como poca conciencia del problema o poca motivación para abordarlo, lo que limita la respuesta durante la crisis.
+
+Lo anterior concuerda con lo expresado en el grupo focal, por parte de los líderes, quienes aseguran que, en ese año, no se contaba con un escenario fortalecido de gobernanza para gestionar el riesgo de desastres. Asimismo, el área temática de la reducción de la vulnerabilidad evidenció la falta de preparación del municipio y su comunidad para abordar el evento de riesgo tecnológico que cobró 33 vidas en la Comuna 10. Frente a la preparación del desastre para una respuesta efectiva, se considera una mínima planificación de contingencia y recuperación durante el año 2011 en la comuna, lo que conllevó a agudizar el evento (@fig-resultados-2011).
+
+Por su parte, la medición arrojó 15 componentes con un nivel 2, los cuales se describen como de baja resiliencia, en donde se tiene conciencia del problema, se cuenta con capacidad para actuar, pero de manera limitada, con intervenciones fragmentadas y a corto plazo. El tema del liderazgo y voluntariado, arrojó una puntuación con un valor de 3, que corresponde a mediana resiliencia, en dónde se caracteriza por el desarrollo e implementación de soluciones.
+
+Finalmente se obtuvo una calificación con un nivel de 4, en donde la comunidad le otorgó la categoría de resiliencia al componente dirigido a la cohesión social y prevención de conflictos, dado a que en la Comuna 10 siempre ha existido una organización social y comunitaria, fortalecida y participativa lo que en el 2011 les permitió hacerle frente al desastre.
+
+
+```{ojs}
+//| echo: false
+//| label: fig-resultados-2011
+//| fig-cap: "Resultado de la evaluación de resiliencia comunitaria ante desastres del año 2011 (Gráfico radar de 30 componentes). Calificación de resiliencia 30.8% (mediana)"
+
+data = [
+  {axis: "1. Evaluación comunitaria", value: 3},
+  {axis: "2. Evaluación científica del riesgo", value: 2.0},
+  {axis: "3. Diseminación de información en RRD", value: 2},
+  {axis: "4. Educación de los niños en RRD", value: 2},
+  {axis: "5. RRD en la planificación del desarrollo", value: 1},
+  {axis: "6. RRD en la planificación territorial", value: 1},
+  {axis: "7. Toma comunitaria de decisiones", value: 1},
+  {axis: "8. Inclusión de grupos vulnerables", value: 2},
+  {axis: "9. Participación de las mujeres", value: 2},
+  {axis: "10. Conocimiento de derechos", value: 2},
+  {axis: "11. Alianzas para la RRD", value: 1},
+  {axis: "12. Gestión ambiental sostenible", value: 2},
+  {axis: "13. Seguridad y gestión del agua", value: 2},
+  {axis: "14. Acceso y conciencia de la salud", value: 2},
+  {axis: "15. Suministro seguro de alimentos", value: 2},
+  {axis: "16. Prácticas de medios de vida", value: 1},
+  {axis: "17. Acceso a mercado", value: 1},
+  {axis: "18. Acceso a servicios financieros", value: 1.2},
+  {axis: "19. Protección de ingresos y activos", value: 2},
+  {axis: "20. Acceso a protección social", value: 2},
+  {axis: "21. Cohesión social", value: 4},
+  {axis: "22. Infraestructura crítica", value: 1},
+  {axis: "23. Vivienda", value: 1},
+  {axis: "24. Planificación de contingencia", value: 1},
+  {axis: "25. Sistema de alerta temprana", value: 1},
+  {axis: "26. Capacidad de preparación", value: 2},
+  {axis: "27. Servicios de salud", value: 2},
+  {axis: "28. Servicios de educación", value: 2},
+  {axis: "29. Infraestructura en emergencias", value: 1},
+  {axis: "30. Liderazgo y voluntariado", value: 1}
+]
+
+// Radar chart con D3
+{
+  const width = 550, height = 550;
+  const radius = Math.min(width, height) / 2 - 60;
+  const levels = 4; // número de círculos concéntricos
+  const maxValue = 4; // escala máxima
+
+  const angleSlice = (Math.PI * 2) / data.length;
+
+  const rScale = d3.scaleLinear()
+    .domain([0, maxValue])
+    .range([0, radius]);
+
+  const svg = d3.create("svg")
+    .attr("width", width)
+    .attr("height", height);
+
+  const g = svg.append("g")
+    .attr("transform", `translate(${width/2},${height/2})`);
+
+  // Dibujar círculos concéntricos
+  for (let i = 0; i <= levels; i++) {
+    g.append("circle")
+      .attr("r", radius/levels * i)
+      .attr("fill", "none")
+      .attr("stroke", "#ccc");
+  }
+
+  // Agregar etiquetas de escala en el eje vertical superior
+  for (let i = 1; i <= levels; i++) {
+    g.append("text")
+      .attr("x", 5)
+      .attr("y", -radius/levels * i)
+      .attr("dy", "0.35em")
+      .style("font-size", "11px")
+      .style("font-weight", "bold")
+      .style("fill", "#666")
+      .text(i);
+  }
+
+  // Ejes radiales
+  data.forEach((d, i) => {
+    const angle = angleSlice * i - Math.PI/2;
+    g.append("line")
+      .attr("x1", 0)
+      .attr("y1", 0)
+      .attr("x2", rScale(maxValue) * Math.cos(angle))
+      .attr("y2", rScale(maxValue) * Math.sin(angle))
+      .attr("stroke", "#999");
+
+    // Etiquetas
+    g.append("text")
+      .attr("x", (rScale(maxValue + 0.2)) * Math.cos(angle))
+      .attr("y", (rScale(maxValue + 0.2)) * Math.sin(angle))
+      .attr("dy", "0.35em")
+      .style("font-size", "10px")
+      .style("text-anchor", angle > Math.PI/2 && angle < 3*Math.PI/2 ? "end" : "start")
+      .text(d.axis);
+  });
+
+  // Línea de valores
+  const line = d3.lineRadial()
+    .radius(d => rScale(d.value))
+    .angle((d,i) => i * angleSlice)
+    .curve(d3.curveLinearClosed);
+
+  g.append("path")
+    .datum(data)
+    .attr("d", line)
+    .attr("fill", "rgba(255,235,100,0.5)")
+    .attr("stroke", "goldenrod")
+    .attr("stroke-width", 2);
+
+  return svg.node();
+}
+```
+
+### 3.1.2 Evaluación de resiliencia comunitaria - Año 2021
+
+Para el año 2021 la comunidad calificó los componentes de acuerdo con la experiencia vivida, y a los aprendizajes que han surgido después del desastre durante esta década. La calificación más baja con un nivel de 1, categoría de mínima resiliencia, lo otorgaron al componente de planificación territorial y infraestructura en emergencias.
+
+La comunidad otorgó un nivel de 2 en la categoría de baja resiliencia a cinco componentes para el año 2021, enfocados en la planificación del desarrollo, prácticas de medios de vida resistente a amenazas, protección de ingresos y activos y acceso a servicios financieros.
+
+La comunidad otorgó a nueve componentes de la evaluación, un nivel de 3, que corresponde a la categoría de mediana resiliencia. Lo anterior permite contrastar mejoras en temas como la educación en gestión del riesgo y evaluación científica del riesgo, participación de grupos vulnerables, gestión ambiental, infraestructura crítica y vivienda.
+
+La comunidad le otorgó a trece componentes de la evaluación, un nivel de 4, considerándolos en la categoría de resilientes. Esta calificación fue dirigida a componentes como evaluación comunitaria participativa del riesgo, diseminación de información, toma de decisiones comunitaria, conocimiento de derechos e incidencia, alianzas para la reducción del riesgo, acceso a servicios básicos, planificación de contingencia, sistema de alerta temprana, y capacidad de preparación respuesta y recuperación.
+
+Finalmente, la comunidad otorgó un valor de 5, de alta resiliencia, a la participación de la mujer en la gestión del riesgo de desastres, ya que en el año 2021 el porcentaje de mujeres que participan en la toma de decisiones aumentó significativamente.
+
+```{ojs}
+//| echo: false
+//| label: fig-resultados-2021
+//| fig-cap: "Resultado de la evaluación de resiliencia comunitaria ante desastres del año 2021 (Gráfico radar de 30 componentes). Calificación de resiliencia 60.2% (mediana)"
+
+// Radar chart con D3
+{
+  // Datos de evaluación 2021
+  const data = [
+    {axis: "1. Evaluación comunitaria", value: 4},
+    {axis: "2. Evaluación científica del riesgo", value: 4},
+    {axis: "3. Diseminación de información en RRD", value: 3},
+    {axis: "4. Educación de los niños en RRD", value: 4},
+    {axis: "5. RRD en la planificación del desarrollo", value: 3},
+    {axis: "6. RRD en la planificación territorial", value: 2},
+    {axis: "7. Toma comunitaria de decisiones", value: 1},
+    {axis: "8. Inclusión de grupos vulnerables", value: 4},
+    {axis: "9. Participación de las mujeres", value: 3},
+    {axis: "10. Conocimiento de derechos", value: 5},
+    {axis: "11. Alianzas para la RRD", value: 4},
+    {axis: "12. Gestión ambiental sostenible", value: 4},
+    {axis: "13. Seguridad y gestión del agua", value: 3},
+    {axis: "14. Acceso y conciencia de la salud", value: 4},
+    {axis: "15. Suministro seguro de alimentos", value: 4},
+    {axis: "16. Prácticas de medios de vida", value: 4},
+    {axis: "17. Acceso a mercado", value: 2},
+    {axis: "18. Acceso a servicios financieros", value: 3},
+    {axis: "19. Protección de ingresos y activos", value: 2},
+    {axis: "20. Acceso a protección social", value: 2},
+    {axis: "21. Cohesión social", value: 3},
+    {axis: "22. Infraestructura crítica", value: 2},
+    {axis: "23. Vivienda", value: 3},
+    {axis: "24. Planificación de contingencia", value: 3},
+    {axis: "25. Sistema de alerta temprana", value: 3},
+    {axis: "26. Capacidad de preparación", value: 4},
+    {axis: "27. Servicios de salud", value: 4},
+    {axis: "28. Servicios de educación", value: 4},
+    {axis: "29. Infraestructura en emergencias", value: 4},
+    {axis: "30. Liderazgo y voluntariado", value: 1}
+  ];
+
+  const width = 550, height = 550;
+  const radius = Math.min(width, height) / 2 - 60;
+  const levels = 5; // número de círculos concéntricos (ahora 5 para escala 1-5)
+  const maxValue = 5; // escala máxima (ahora 5 porque hay valores de 5)
+
+  const angleSlice = (Math.PI * 2) / data.length;
+
+  const rScale = d3.scaleLinear()
+    .domain([0, maxValue])
+    .range([0, radius]);
+
+  const svg = d3.create("svg")
+    .attr("width", width)
+    .attr("height", height);
+
+  const g = svg.append("g")
+    .attr("transform", `translate(${width/2},${height/2})`);
+
+  // Dibujar círculos concéntricos
+  for (let i = 0; i <= levels; i++) {
+    g.append("circle")
+      .attr("r", radius/levels * i)
+      .attr("fill", "none")
+      .attr("stroke", "#ccc");
+  }
+
+  // Agregar etiquetas de escala en el eje vertical superior
+  for (let i = 1; i <= levels; i++) {
+    g.append("text")
+      .attr("x", 5)
+      .attr("y", -radius/levels * i)
+      .attr("dy", "0.35em")
+      .style("font-size", "11px")
+      .style("font-weight", "bold")
+      .style("fill", "#666")
+      .text(i);
+  }
+
+  // Ejes radiales
+  data.forEach((d, i) => {
+    const angle = angleSlice * i - Math.PI/2;
+    g.append("line")
+      .attr("x1", 0)
+      .attr("y1", 0)
+      .attr("x2", rScale(maxValue) * Math.cos(angle))
+      .attr("y2", rScale(maxValue) * Math.sin(angle))
+      .attr("stroke", "#999");
+
+    // Etiquetas
+    g.append("text")
+      .attr("x", (rScale(maxValue + 0.2)) * Math.cos(angle))
+      .attr("y", (rScale(maxValue + 0.2)) * Math.sin(angle))
+      .attr("dy", "0.35em")
+      .style("font-size", "10px")
+      .style("text-anchor", angle > Math.PI/2 && angle < 3*Math.PI/2 ? "end" : "start")
+      .text(d.axis);
+  });
+
+  // Línea de valores
+  const line = d3.lineRadial()
+    .radius(d => rScale(d.value))
+    .angle((d,i) => i * angleSlice)
+    .curve(d3.curveLinearClosed);
+
+  g.append("path")
+    .datum(data)
+    .attr("d", line)
+    .attr("fill", "rgba(50,150,250,0.5)")
+    .attr("stroke", "steelblue")
+    .attr("stroke-width", 2);
+
+  return svg.node();
+}
+```
+
+
+## 3.2 Análisis comparativo multitemporal
+
+En la @fig-analisis-comparativo se evidencian los contrastes entre las dos evaluaciones, hallando contrastes significativos en ciertos componentes. La diseminación de la información de reducción del riesgo de desastres pasó de un nivel 1 a 4, debido al proceso que ha surgido con la comunidad, sobre capacitación, formación y sensibilización en materia de reducción del riesgo de desastres.
+
+Lo anterior está muy relacionado con la toma de decisiones comunitaria, esto se evidencia, del paso de 1 a 4, en dónde la comunidad ha tenido un nivel de empoderamiento en las decisiones que se tomen en su territorio.
+
+El caso atípico, fue el valor dado a la reducción del riesgo de desastres en la planificación territorial, debido a que los líderes consideran que, en estos diez años, no se ha tenido un avance significativo en este componente.
+
+La calificación más alta otorgada, fue la participación de las mujeres, pasando de un nivel de 2 a 5, siendo significativo su avance, ya que son las mujeres las que en la actualidad más participan en los temas de gestión de riesgo de desastres en la comuna 10 y están liderando diferentes procesos.
+
+En el caso de las alianzas para la reducción del riesgo de desastres y recuperación, se tuvo un paso de 0 a 4 en la calificación, lo que muestra la mejora de las condiciones y capacidades de recuperación en la comuna.
+
+Frente a la cohesión social y prevención de conflictos, se consideró que en el 2011 las condiciones de seguridad eran mejores que en la actualidad, pasando de un nivel de 4 a 2.
+
+```{ojs}
+//| echo: false
+//| label: fig-analisis-comparativo
+//| fig-cap: "Análisis comparativo de la evaluación de resiliencia comunitaria años 2011 y 2021."
+
+// Radar chart comparativo con D3
+{
+  // Datos de evaluación 2011 (amarillo)
+  const data2011 = [
+    {axis: "1. Evaluación comunitaria", value: 3},
+    {axis: "2. Evaluación científica del riesgo", value: 2.0},
+    {axis: "3. Diseminación de información en RRD", value: 2},
+    {axis: "4. Educación de los niños en RRD", value: 2},
+    {axis: "5. RRD en la planificación del desarrollo", value: 1},
+    {axis: "6. RRD en la planificación territorial", value: 1},
+    {axis: "7. Toma comunitaria de decisiones", value: 1},
+    {axis: "8. Inclusión de grupos vulnerables", value: 2},
+    {axis: "9. Participación de las mujeres", value: 2},
+    {axis: "10. Conocimiento de derechos", value: 2},
+    {axis: "11. Alianzas para la RRD", value: 1},
+    {axis: "12. Gestión ambiental sostenible", value: 2},
+    {axis: "13. Seguridad y gestión del agua", value: 2},
+    {axis: "14. Acceso y conciencia de la salud", value: 2},
+    {axis: "15. Suministro seguro de alimentos", value: 2},
+    {axis: "16. Prácticas de medios de vida", value: 1},
+    {axis: "17. Acceso a mercado", value: 1},
+    {axis: "18. Acceso a servicios financieros", value: 1.2},
+    {axis: "19. Protección de ingresos y activos", value: 2},
+    {axis: "20. Acceso a protección social", value: 2},
+    {axis: "21. Cohesión social", value: 4},
+    {axis: "22. Infraestructura crítica", value: 1},
+    {axis: "23. Vivienda", value: 1},
+    {axis: "24. Planificación de contingencia", value: 1},
+    {axis: "25. Sistema de alerta temprana", value: 1},
+    {axis: "26. Capacidad de preparación", value: 2},
+    {axis: "27. Servicios de salud", value: 2},
+    {axis: "28. Servicios de educación", value: 2},
+    {axis: "29. Infraestructura en emergencias", value: 1},
+    {axis: "30. Liderazgo y voluntariado", value: 1}
+  ];
+
+  // Datos de evaluación 2021 (azul)
+  const data2021 = [
+    {axis: "1. Evaluación comunitaria", value: 4},
+    {axis: "2. Evaluación científica del riesgo", value: 4},
+    {axis: "3. Diseminación de información en RRD", value: 3},
+    {axis: "4. Educación de los niños en RRD", value: 4},
+    {axis: "5. RRD en la planificación del desarrollo", value: 3},
+    {axis: "6. RRD en la planificación territorial", value: 2},
+    {axis: "7. Toma comunitaria de decisiones", value: 1},
+    {axis: "8. Inclusión de grupos vulnerables", value: 4},
+    {axis: "9. Participación de las mujeres", value: 3},
+    {axis: "10. Conocimiento de derechos", value: 5},
+    {axis: "11. Alianzas para la RRD", value: 4},
+    {axis: "12. Gestión ambiental sostenible", value: 4},
+    {axis: "13. Seguridad y gestión del agua", value: 3},
+    {axis: "14. Acceso y conciencia de la salud", value: 4},
+    {axis: "15. Suministro seguro de alimentos", value: 4},
+    {axis: "16. Prácticas de medios de vida", value: 4},
+    {axis: "17. Acceso a mercado", value: 2},
+    {axis: "18. Acceso a servicios financieros", value: 3},
+    {axis: "19. Protección de ingresos y activos", value: 2},
+    {axis: "20. Acceso a protección social", value: 2},
+    {axis: "21. Cohesión social", value: 3},
+    {axis: "22. Infraestructura crítica", value: 2},
+    {axis: "23. Vivienda", value: 3},
+    {axis: "24. Planificación de contingencia", value: 3},
+    {axis: "25. Sistema de alerta temprana", value: 3},
+    {axis: "26. Capacidad de preparación", value: 4},
+    {axis: "27. Servicios de salud", value: 4},
+    {axis: "28. Servicios de educación", value: 4},
+    {axis: "29. Infraestructura en emergencias", value: 4},
+    {axis: "30. Liderazgo y voluntariado", value: 1}
+  ];
+
+  const width = 600, height = 600;
+  const radius = Math.min(width, height) / 2 - 80;
+  const levels = 5;
+  const maxValue = 5;
+
+  const angleSlice = (Math.PI * 2) / data2011.length;
+
+  const rScale = d3.scaleLinear()
+    .domain([0, maxValue])
+    .range([0, radius]);
+
+  const svg = d3.create("svg")
+    .attr("width", width)
+    .attr("height", height);
+
+  const g = svg.append("g")
+    .attr("transform", `translate(${width/2},${height/2})`);
+
+  // Dibujar círculos concéntricos
+  for (let i = 0; i <= levels; i++) {
+    g.append("circle")
+      .attr("r", radius/levels * i)
+      .attr("fill", "none")
+      .attr("stroke", "#ddd")
+      .attr("stroke-width", i === 0 ? 0 : 1);
+  }
+
+  // Agregar etiquetas de escala
+  for (let i = 1; i <= levels; i++) {
+    g.append("text")
+      .attr("x", 5)
+      .attr("y", -radius/levels * i)
+      .attr("dy", "0.35em")
+      .style("font-size", "11px")
+      .style("font-weight", "bold")
+      .style("fill", "#666")
+      .text(i);
+  }
+
+  // Ejes radiales
+  data2011.forEach((d, i) => {
+    const angle = angleSlice * i - Math.PI/2;
+    g.append("line")
+      .attr("x1", 0)
+      .attr("y1", 0)
+      .attr("x2", rScale(maxValue) * Math.cos(angle))
+      .attr("y2", rScale(maxValue) * Math.sin(angle))
+      .attr("stroke", "#999")
+      .attr("stroke-width", 0.5);
+
+    // Etiquetas
+    g.append("text")
+      .attr("x", (rScale(maxValue + 0.5)) * Math.cos(angle))
+      .attr("y", (rScale(maxValue + 0.5)) * Math.sin(angle))
+      .attr("dy", "0.35em")
+      .style("font-size", "9px")
+      .style("text-anchor", angle > Math.PI/2 && angle < 3*Math.PI/2 ? "end" : "start")
+      .text(d.axis);
+  });
+
+  // Línea de valores 2011 (amarillo)
+  const line2011 = d3.lineRadial()
+    .radius(d => rScale(d.value))
+    .angle((d,i) => i * angleSlice)
+    .curve(d3.curveLinearClosed);
+
+  g.append("path")
+    .datum(data2011)
+    .attr("d", line2011)
+    .attr("fill", "rgba(255,235,100,0.4)")
+    .attr("stroke", "goldenrod")
+    .attr("stroke-width", 2);
+
+  // Línea de valores 2021 (azul)
+  const line2021 = d3.lineRadial()
+    .radius(d => rScale(d.value))
+    .angle((d,i) => i * angleSlice)
+    .curve(d3.curveLinearClosed);
+
+  g.append("path")
+    .datum(data2021)
+    .attr("d", line2021)
+    .attr("fill", "rgba(50,150,250,0.4)")
+    .attr("stroke", "steelblue")
+    .attr("stroke-width", 2);
+
+  // Leyenda centrada debajo del gráfico
+  const legend = svg.append("g")
+    .attr("transform", `translate(${width/2 - 100}, ${height - 20})`);
+
+  legend.append("rect")
+    .attr("x", 0)
+    .attr("y", 0)
+    .attr("width", 15)
+    .attr("height", 15)
+    .attr("fill", "rgba(255,235,100,0.6)")
+    .attr("stroke", "goldenrod");
+
+  legend.append("text")
+    .attr("x", 20)
+    .attr("y", 12)
+    .style("font-size", "12px")
+    .text("2011 (30.8%)");
+
+  legend.append("rect")
+    .attr("x", 110)
+    .attr("y", 0)
+    .attr("width", 15)
+    .attr("height", 15)
+    .attr("fill", "rgba(50,150,250,0.6)")
+    .attr("stroke", "steelblue");
+
+  legend.append("text")
+    .attr("x", 130)
+    .attr("y", 12)
+    .style("font-size", "12px")
+    .text("2021 (60.2%)");
+
+  return svg.node();
+}
+```
+
+# 4. DISCUSIÓN
+
+El estudio permitió evaluar la resiliencia comunitaria frente a desastres de tipo tecnológico en la Comuna 10 de Dosquebradas, mediante la aplicación de la herramienta ARC-D en dos momentos temporales, 2011 y 2021. Esta comparación multitemporal permitió identificar avances y limitaciones en las capacidades comunitarias, evidenciando una transición de baja a mediana resiliencia en el periodo de análisis frente a estresores de tipo tecnológico.
+
+La aplicación de la ARC-D demostró ser una herramienta de fácil comprensión para la comunidad y facilitó espacios participativos de reflexión sobre la gestión del riesgo. A diferencia de metodologías como la Evaluación de Vulnerabilidades y Capacidades (AVC) de la Cruz Roja Internacional, que busca sensibilizar y planificar actividades orientadas a reducir vulnerabilidades, la ARC-D se centra en medir componentes de resiliencia comunitaria de forma estructurada y participativa, con un enfoque en la percepción del riesgo de la comunidad respecto al riesgo tecnológico presente en su entorno, permitiendo además su uso en análisis multitemporales.
+
+Los resultados de la medición de resiliencia comunitaria mostraron estabilidad en tres componentes a lo largo del tiempo: planificación territorial, protección de ingresos e infraestructura de emergencias. La permanencia del componente refleja tanto limitaciones estructurales, como la ausencia de cambios sustantivos en la planificación del uso de suelo, la persistencia de altos niveles de informalidad laboral y la falta de infraestructura comunitaria para la atención de emergencias.
+
+Un hallazgo relevante fue el retroceso en el componente de cohesión social y prevención de conflictos, que evidencia un deterioro en la percepción de seguridad y en las medidas comunitarias de resolución de conflictos. La situación social refleja tensiones sociales que deben ser consideradas en las estrategias de gestión del riesgo, pues la cohesión social es un factor determinante de la resiliencia, tal como lo reconocen marcos internacionales como el Marco de Sendai.
+
+En contraste, se observaron mejoras notorias en la participación de las mujeres y en la gobernanza comunitaria, alcanzando incluso niveles altos de resiliencia, este avance destaca el rol protagónico de las mujeres en los procesos comunitarios y la importancia de fortalecer su inclusión en la toma de decisiones.
+
+De fondo respecto a la resiliencia comunitaria, se evidenció un cambio general en los niveles de resiliencia, pasando de baja en 2011 a mediana en 2021, lo cual muestra una evolución positiva en la capacidad de la comunidad para enfrentar riesgos tecnológicos.
+
+# 5. CONCLUSIONES
+
+El estudio tuvo como objetivo general evaluar la resiliencia comunitaria frente a desastres de tipo tecnológico en la Comuna 10 de Dosquebradas, mediante la aplicación de la herramienta ARC-D en dos momentos temporales, 2011 y 2021. Esta comparación multitemporal permitió identificar avances y limitaciones en las capacidades comunitarias, evidenciando una transición de baja a mediana resiliencia en el periodo de análisis frente a estresores de tipo tecnológico.
+
+La evaluación multitemporal de la resiliencia comunitaria mediante la herramienta ARC-D permitió identificar tanto avances como limitaciones en la Comuna 10 de Dosquebradas. Estos resultados contribuyen al conocimiento aplicado sobre resiliencia comunitaria frente a riesgos tecnológicos, un campo aún poco explorado en Colombia, y ofrecen insumos prácticos para el diseño de políticas públicas y estrategias comunitarias.
+
+::: {#puntos-clave .callout-important style="background-color: #f8f0ddff; border-left: 4px solid #f7eed3ff;" appearance="minimal" icon="false"}
+<h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;">
+Puntos Clave
+</h2>
+
+-   En 2011 la resiliencia comunitaria frente a riesgo tecnológico en la Comuna 10 era baja (30.08%), lo que agravó los impactos del desastre presentado en la explosión.
+-   Entre 2011 y 2021 la resiliencia aumentó a un nivel medio (60.18%) gracias a los procesos de recuperación postdesastre, los aprendizajes colectivos y el mayor liderazgo de las mujeres.
+-   Para la gestión del riesgo actual, persisten limitaciones en planificación territorial, protección de ingresos e infraestructura de emergencias.
+-   La participación de las mujeres emergió como el componente con mayor progreso, pasando de nivel 2 a 5.
+:::
+
+::: {#preguntas .callout-important style="background-color: #f3eaf8ff; border-left: 4px solid #efe3f7ff;" appearance="minimal" icon="false"}
+<h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;">
+Preguntas por resolver
+</h2>
+
+-   ¿Cómo fortalecer los componentes que permanecen en baja resiliencia, como la planificación territorial integrada con gestión del riesgo?
+-   ¿Cuál es la causa del deterioro en cohesión social y prevención de conflictos en el período 2011-2021, y cómo revertirlo?
+-   ¿De qué manera los municipios pueden integrar explícitamente el riesgo tecnológico en sus instrumentos de planificación?
+-   ¿Cuáles son los mecanismos para sostener las mejoras alcanzadas y evitar retrocesos en resiliencia?
+:::
+
+::: {#recomendaciones .callout-important style="background-color: #f8dedcff; border-left: 4px solid #fad4d1ff;" appearance="minimal" icon="false"}
+<h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;">
+Recomendaciones para tomar decisiones
+</h2>
+
+-   Replicar la aplicación de la herramienta ARC-D en otros municipios para evaluar y fortalecer la resiliencia comunitaria frente a riesgos tecnológicos.
+-   Incluir el riesgo tecnológico de forma explícita en los planes de gestión del riesgo y en los instrumentos de planificación territorial a nivel municipal.
+-   Socializar y sensibilizar a la comunidad sobre el riesgo tecnológico, vinculándolo a la vida cotidiana, los medios de vida y la movilidad.
+-   Usar la ARC-D como insumo para diagnósticos locales en el marco de la iniciativa MCR2030, articulando sus resultados con los planes municipales.
+-   En el caso de Dosquebradas, expandir el ejercicio a otros escenarios de riesgo para aprovechar aprendizajes y fortalecer la preparación comunitaria.
+:::
+
+# CONFLICTO DE INTERESES
+
+Los autores no declaran conflicto de intereses.
+
+# USO DE HERRAMIENTAS DE INTELIGENCIA ARTIFICIAL
+
+Durante la preparación de este capítulo, los autores utilizaron ChatGPT versión GPT-4o (https://chatgpt.com) con el fin de recibir sugerencias de redacción y corrección del estilo científico. Los revisores expresan que no utilizaron herramientas de IA en el proceso de evaluación del manuscrito.
+
+# AGRADECIMIENTOS
+
+Queremos agradecer a los líderes de la Comuna 10 del municipio de Dosquebradas, por su apoyo y participación en las reuniones previas y grupo focal, lo cual fue de vital importancia para la obtención de los resultados. Especialmente, queremos agradecer a Don Elmer Castañeda y Diego Buitrago, líderes y expertos comunitarios en la gestión del riesgo de desastres en la Comuna 10, los cuales apoyaron de manera desinteresada esta evaluación de resiliencia comunitaria, viéndola como una oportunidad para el proceso de la gestión de riesgo.
+
+# IDENTIFICACIÓN DE AUTORES
+
+**Evelin Langebeck Cuéllar**
+
+<https://orcid.org/0000-0003-2243-0899>
+
+**Nicolás Giraldo Hernández**
+
+<https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001984270>
+
+# DECLARACIÓN DE AUTORÍA CRediT
+
+Todos los autores contribuyeron a la conceptualización y desarrollo de este proyecto. Evelin Langebeck Cuéllar lideró la metodología y la recolección de datos comunitarios. Nicolás Giraldo Hernández coordinó el análisis de datos y la interpretación de resultados. Ambos autores revisaron críticamente y aprobaron la versión final del manuscrito.
+
+# BIBLIOGRAFÍA
+
+::: {#refs}
+:::

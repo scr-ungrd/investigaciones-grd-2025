@@ -1,0 +1,49 @@
+# Inicio {.unnumbered}
+
+# Contenido
+
+------------------------------------------------------------------------
+
+## [Capítulo 1: Entre el conocimiento y la acción: estrategias para la gestión del riesgo de desastres y la adaptación climática en el Valle de Aburrá](Capitulo1.html)
+
+**Autores:** Yazmín Cardona, Adriana Carolina Herrera-López, María Alejandra Parra-Góez, Olga Ramírez, Julián Sepúlveda, Esneider Zapata
+
+Este estudio analiza el papel del proyecto SIATA frente a la apropiación social del conocimiento y el fortalecimiento ciudadano en la gestión del riesgo de desastres y la adaptación climática en el Valle de Aburrá.
+
+------------------------------------------------------------------------
+
+## [Capítulo 2: Enfoque etnodiferencial y riesgo de desastre en Colombia: líneas de fuga para una digna vida](Capitulo2.html)
+
+**Autores:** William Oswaldo Gaviria-Gutiérrez, Lina Andrea Zambrano-Hernández
+
+Este estudio explora las posibilidades de articulación del enfoque etnodiferencial en la gestión del riesgo de desastres en Colombia, buscando superar la subalternidad histórica de las voces comunitarias.
+
+------------------------------------------------------------------------
+
+## [Capítulo 3: Gestión del Riesgo de Desastres Comunitario a través de Cartografía Participativa y Tecnologías Abiertas en San José del Prado, Colombia](Capitulo3.html)
+
+**Autores:** Yessica De los ríos Olarte, Ana Milena Prada Uribe, Céline Jacquin
+
+Este capítulo explora el potencial de aplicaciones y tecnologías abiertas a través de la exposición de un caso de estudio en Medellín, San Antonio de Prado, Colombia.
+
+------------------------------------------------------------------------
+
+## [Capítulo 4: Evaluación multitemporal de la resiliencia comunitaria ante eventos tecnológicos en la Comuna 10 del municipio de Dosquebradas](Capitulo4.html)
+
+**Autores:** Evelin Langebeck Cuéllar, Nicolás Giraldo Hernández
+
+Aquí se mide y evalúa la resiliencia comunitaria ante desastres empleando la aplicación de la herramienta ARC-D en una población del municipio de Dosquebradas, Risaralda (barrio Villa Carola).
+
+------------------------------------------------------------------------
+
+## [Capítulo 5: Avances y desafíos del manejo de desastres y gestión del riesgo volcánico con animales de producción](Capitulo5.html)
+
+**Autores:** Diego Hernández Pulido, Julia Inés Lema Vélez
+
+Los animales sufren consecuencias crónicas como enfermedades, inanición o muerte por ingesta de ceniza volcánica, lo que amenaza la seguridad alimentaria y la salud pública.
+
+------------------------------------------------------------------------
+
+## Navegación
+
+Utiliza la navegación lateral o los enlaces de capítulos para explorar los diferentes capítulos de investigación del libro.

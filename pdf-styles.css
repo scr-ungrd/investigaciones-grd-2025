@@ -1,0 +1,52 @@
+/* PDF-specific styles */
+@media print {
+  /* Ensure colors are preserved in print/PDF */
+  * {
+    -webkit-print-color-adjust: exact !important;
+    color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+  
+  /* Abstract box with blue background */
+  #abstract {
+    background-color: #eff6ff !important;
+    border: 2px solid #3b82f6 !important;
+    padding: 20px !important;
+    margin: 20px 0 !important;
+    page-break-inside: avoid;
+  }
+  
+  #abstract h1 {
+    color: #3b82f6 !important;
+    border-bottom: 2px solid #3b82f6 !important;
+    padding-bottom: 10px !important;
+  }
+  
+  /* Callout boxes */
+  .callout-important {
+    background-color: #fdf2f8 !important;
+    border-left: 4px solid #f472b6 !important;
+    padding: 15px !important;
+    page-break-inside: avoid;
+  }
+  
+  /* Headers with colors */
+  h1, h2, h3 {
+    color: #1f2937 !important;
+  }
+  
+  /* Tables */
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th {
+    background-color: #f3f4f6 !important;
+    border: 1px solid #9ca3af !important;
+  }
+  
+  td {
+    border: 1px solid #d1d5db !important;
+  }
+}

@@ -1,0 +1,20 @@
+<script>
+// Make "Figura X:" bold in captions
+document.addEventListener('DOMContentLoaded', function() {
+  // Find all figure captions
+  const captions = document.querySelectorAll('figcaption.quarto-float-caption');
+
+  captions.forEach(function(caption) {
+    // Get the text content
+    let text = caption.innerHTML;
+
+    // Replace "Figura X:" with bold version (supports Figura 1, Figura 2, etc.)
+    text = text.replace(/^(Figura\s+\d+:)/i, '<strong>$1</strong>');
+
+    // Also handle "Tabla X:" for tables
+    text = text.replace(/^(Tabla\s+\d+:)/i, '<strong>$1</strong>');
+
+    caption.innerHTML = text;
+  });
+});
+</script>

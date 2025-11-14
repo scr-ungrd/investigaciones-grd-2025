@@ -1,0 +1,64 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Investigaciones en Gestión del Riesgo de Desastres para Colombia. Enfoque Comunitario, Territorial y Animal"
+  editor: "Comisión Nacional Asesora para la Investigación en Gestión del Riesgo de Desastres"
+  date: "12-01-2025"
+  chapters:
+    - text: "Página legal"
+      href: Pagina-legal.qmd
+    - Presentacion.qmd
+    - Prologo.qmd
+    - index.qmd
+    - text: "1: Entrategias en el Valle de Aburrá"
+      href: Capitulo1.qmd
+    - text: "2: Enfoque etnodiferencial"
+      href: Capitulo2.qmd
+    - text: "3: Cartografía participativa"
+      href: Capitulo3.qmd
+    - text: "4: Resiliencia comunitaria"
+      href: Capitulo4.qmd
+    - text: "5: Riesgo volcánico en animales"
+      href: Capitulo5.qmd
+    - glosario.qmd
+    - capitulo-plantilla.qmd  # Plantilla de referencia
+
+lang: es
+
+bibliography: references.bib
+csl: vancouver-brackets.csl
+
+crossref:
+  fig-prefix: "Figura"
+  tbl-prefix: "Tabla"
+  chapters: true
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    number-sections: false
+    css:
+      - custom.css
+      - pdf-styles.css
+    include-in-header:
+      - caption-bold.html
+  pdf:
+    documentclass: book
+    geometry: margin=1in
+    keep-tex: true
+    prefer-html: true
+    include-in-header:
+      - text: |
+          \usepackage{makeidx}
+          \makeindex
+    include-after-body:
+      - text: |
+          \clearpage
+          \phantomsection
+          \addcontentsline{toc}{chapter}{Índice Temático}
+          \printindex
+
+# Configuración optimizada para GitHub Pages

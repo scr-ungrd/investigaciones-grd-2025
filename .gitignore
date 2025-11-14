@@ -1,0 +1,16 @@
+/.quarto/
+_book/
+docs/
+site_libs/
+capitulo-plantilla_files/
+.DS_Store
+*.html
+!docs/**/*.html
+!caption-bold.html
+*.tex
+*.aux
+*.log
+*.toc
+*.pdf
+*.idx
+!cover.png
