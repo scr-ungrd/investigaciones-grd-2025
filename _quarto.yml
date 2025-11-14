@@ -61,5 +61,4 @@ format:
           \addcontentsline{toc}{chapter}{Índice Temático}
           \printindex
 
-
-
+# Configuración optimizada para GitHub Pages
