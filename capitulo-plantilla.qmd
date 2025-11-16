@@ -332,11 +332,13 @@ This study demonstrates the effectiveness of systematic seismic catalog analysis
 
 Analysis of 5,465 seismic events from the 2021 La Palma eruption provides unprecedented insight into active volcanic processes:
 
+<!-- IMPORTANTE: Formato de cajas especiales (#puntos-clave, #preguntas, #recomendaciones)
+     NO agregar líneas vacías después de <h2> ni antes de </h2>
+     Usar font-size: 1.5rem para estas cajas especiales -->
+
 ::: {#puntos-clave .callout-important style="background-color: #f8f1e1ff; border-left: 4px solid #f7eed3ff;" appearance="minimal" icon="false"}
 <h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;">
-
 Puntos Clave
-
 </h2>
 
 -   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt, arcu vitae suscipit commodo.
@@ -346,9 +348,7 @@ Puntos Clave
 
 ::: {#preguntas .callout-important style="background-color: #f5eff8ff; border-left: 4px solid #efe3f7ff;" appearance="minimal" icon="false"}
 <h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;">
-
 Preguntas por resolver
-
 </h2>
 
 -   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt, arcu vitae suscipit commodo.
@@ -358,9 +358,7 @@ Preguntas por resolver
 
 ::: {#recomendaciones .callout-important style="background-color: #f9e8e6ff; border-left: 4px solid #fad4d1ff;" appearance="minimal" icon="false"}
 <h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;">
-
 Recomendaciones para tomar decisiones
-
 </h2>
 
 -   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt, arcu vitae suscipit commodo.

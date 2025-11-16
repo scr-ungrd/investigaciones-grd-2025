@@ -436,9 +436,7 @@ En el contexto de la gobernanza en la gestión del riesgo de desastres, la parti
 
 ::: {#puntos-clave .callout-important style="background-color: #f8f0ddff; border-left: 4px solid #f7eed3ff;" appearance="minimal" icon="false"}
 <h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;">
-
 Puntos Clave
-
 </h2>
 
 1.  Los procesos de ASC no son solo metodologías y actividades pensadas desde las instituciones. Estas deben ser validadas y puestas a prueba a través de la investigación social, para buscar siempre cómo mejorar y tener herramientas cada vez más valiosas para crear nuevas metodologías.
@@ -450,9 +448,7 @@ Puntos Clave
 
 ::: {#preguntas .callout-important style="background-color: #f3eaf8ff; border-left: 4px solid #efe3f7ff;" appearance="minimal" icon="false"}
 <h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;">
-
 Preguntas por resolver
-
 </h2>
 
 1.  ¿Cómo se puede garantizar la sostenibilidad de los procesos de ASC en las comunidades una vez finaliza el acompañamiento directo del proyecto SIATA?
@@ -464,9 +460,7 @@ Preguntas por resolver
 
 ::: {#recomendaciones .callout-important style="background-color: #f8dedcff; border-left: 4px solid #fad4d1ff;" appearance="minimal" icon="false"}
 <h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;">
-
 Recomendaciones para tomar decisiones
-
 </h2>
 
 1.  Este trabajo es una de las primeras investigaciones que abordan procesos educativos y sociales que desarrolla el proyecto SIATA. Se requieren estudios con otras comunidades que hacen parte de los procesos de ASC e investigar ámbitos que extiendan los resultados del proyecto en la resiliencia de los habitantes de la región metropolitana.
