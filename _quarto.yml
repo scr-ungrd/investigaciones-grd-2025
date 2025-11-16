@@ -27,8 +27,8 @@ book:
 
 lang: es
 
-bibliography: references.bib
 csl: vancouver-brackets.csl
+link-citations: true
 
 crossref:
   fig-prefix: "Figura"
@@ -40,6 +40,7 @@ format:
     theme: cosmo
     toc: true
     number-sections: false
+    reference-location: block
     css:
       - custom.css
       - pdf-styles.css

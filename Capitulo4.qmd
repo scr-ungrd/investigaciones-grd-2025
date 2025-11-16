@@ -30,8 +30,8 @@ format:
     colorlinks: true
     keep-tex: true
 keywords: [community resilience, technological risk, ARC-D tool, disaster risk management, multi-temporal resilience, risk perception]
+
 bibliography: capitulo4-references.bib
-csl: vancouver-brackets.csl
 crossref:
   fig-prefix: "Figura"
   tbl-prefix: "Tabla"

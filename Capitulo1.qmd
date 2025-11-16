@@ -38,9 +38,8 @@ format:
     title-block-banner: bannerc1.png
     colorlinks: true
     keep-tex: true
-
 bibliography: capitulo1-references.bib
-csl: vancouver-brackets.csl
+
 crossref:
   fig-prefix: "Figura"
   tbl-prefix: "Tabla"
