@@ -244,25 +244,26 @@ table > tbody > tr:first-child > td {
   font-weight: 600;
 }
 
-/* Box1 styling */
-#box1 {
+/* Callout boxes styling (box1-box5) - Arial font */
+#box1, #box2, #box3, #box4, #box5 {
   font-family: Arial, sans-serif;
   font-size: 13px;
 }
 
-#box1 h2 {
+#box1 h2, #box2 h2, #box3 h2, #box4 h2, #box5 h2 {
   font-family: Arial, sans-serif;
   font-size: 13px;
   margin-bottom: 0 !important;
 }
 
-#box1 ul,
-#box1 li {
+#box1 ul, #box2 ul, #box3 ul, #box4 ul, #box5 ul,
+#box1 li, #box2 li, #box3 li, #box4 li, #box5 li,
+#box1 p, #box2 p, #box3 p, #box4 p, #box5 p {
   font-family: Arial, sans-serif;
   font-size: 13px;
 }
 
-#box1 ul {
+#box1 ul, #box2 ul, #box3 ul, #box4 ul, #box5 ul {
   margin-top: 0.3rem !important;
   margin-bottom: 0 !important;
 }
