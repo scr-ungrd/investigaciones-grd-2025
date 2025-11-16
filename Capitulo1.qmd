@@ -70,9 +70,7 @@ Este estudio de naturaleza cualitativa tiene como objetivo analizar el desarroll
 
 ::: {#box1 .callout-important style="background-color: #e3f0fbff; border-left: 4px solid #d4e8f9ff;" appearance="minimal" icon="false"}
 <h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;">
-
 Caja 1. Ciencia y desarrollo local al servicio de la ciudadanía
-
 </h2>
 
 Durante más de 10 años, la experiencia del proyecto SIATA en el Valle de Aburrá ha permitido a la ciudadanía contar con una herramienta de monitoreo\index{Monitoreo} en tiempo real para comprender los fenómenos amenazantes a través de la investigación de las variables ambientales y del desarrollo de tecnologías adaptadas al territorio. SIATA brinda a la ciudadanía y los actores clave en la gestión del riesgo de desastres la capacidad de tomar decisiones oportunas ante la posible materialización de un evento. A su vez, la ASC es fundamental en el proyecto al fomentar la democratización de la ciencia y el empoderamiento ciudadano.
@@ -94,9 +92,7 @@ El Valle de Aburrá cambia rápidamente de temporadas lluviosas a secas, lo que 
 
 ::: {#box2 .callout-important style="background-color: #e3f0fbff; border-left: 4px solid #d4e8f9ff;" appearance="minimal" icon="false"}
 <h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;">
-
 Caja 2: ¿Qué es un evento de precipitación extremo\index{Evento de precipitación extremo}?
-
 </h2>
 
 **Evento meteorológico extremo**\index{Evento meteorológico extremo}: Se refiere a un evento que es inusual en un lugar y época del año determinados. Las definiciones de "inusual" pueden variar, pero normalmente se considera un evento meteorológico extremo aquel cuya ocurrencia es tan rara como, o más rara que, el percentil 10 o 90 de una función de densidad de probabilidad estimada a partir de observaciones. Por definición, las características de lo que se denomina meteorología extrema varian de un lugar a otro en un sentido absoluto [@ipcc2012].
@@ -160,9 +156,7 @@ Después de concluir el proceso de formación, se realiza un acompañamiento par
 
 ::: {#box3 .callout-important style="background-color: #e3f0fbff; border-left: 4px solid #d4e8f9ff;" appearance="minimal" icon="false"}
 <h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;">
-
 Caja 3: Así como semilleros de ciudadanos científicos\index{Semilleros de ciudadanos científicos} , existen otras estrategias que se abordan desde la línea educativa del proyecto, estas son:
-
 </h2>
 
 **Red de Educadores Científicos (REC).** Es una estrategia\index{Red de Educadores Científicos} que busca articular el conocimiento científico local para la GRD en diferentes contextos del Valle de Aburrá, a partir de actores sociales interesados por la educación. Esta se encuentra conformada por educadores del contexto educativo formal e informal; participan profesores de educación básica, profesores universitarios, organismos de socorro y otros ciudadanos que ejercen prácticas educativas en diferentes contextos. Con esta comunidad se genera una interacción continua y un diálogo de saberes con el fin de fortalecer y mejorar los procesos de enseñanza y aprendizaje basados en la ciencia local.
@@ -184,9 +178,7 @@ Además, promueven la educación y la comprensión de los riesgos, empoderando a
 
 ::: {#box4 .callout-important style="background-color: #e3f0fbff; border-left: 4px solid #d4e8f9ff;" appearance="minimal" icon="false"}
 <h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;">
-
 Caja 4. Estrategia social y cifras del proyecto.
-
 </h2>
 
 La estrategia social del proyecto comprende además de los SATC, otros públicos con quienes se realiza el proceso formativo en temas científicos y de articulación en aspectos relacionados con la GRD. Estos son:
@@ -218,9 +210,7 @@ Con esta comunidad se realizó todo el proceso formativo mediante talleres de re
 
 ::: {#box5 .callout-important style="background-color: #e3f0fbff; border-left: 4px solid #d4e8f9ff;" appearance="minimal" icon="false"}
 <h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;">
-
 Caja 5: Objetivos de encuentros de SATC
-
 </h2>
 
 **Reconocimiento y socialización SIATA:** Dar a conocer que es un Sistema de Alerta Temprana Comunitaria SATC, funciones e importancia y generalidades del proyecto SIATA.\index{Reconocimiento y socialización SIATA}
