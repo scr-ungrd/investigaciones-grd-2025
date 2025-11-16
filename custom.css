@@ -229,6 +229,7 @@ th, td {
   font-size: 12px;
 }
 
+/* Table header styling - light gray background for all table headers */
 th {
   background-color: #f0f0f0;
   font-weight: 600;
