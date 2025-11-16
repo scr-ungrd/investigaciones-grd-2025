@@ -235,6 +235,15 @@ th {
   font-weight: 600;
 }
 
+/* Apply gray background to first row of all tables (including those using td) */
+table > thead > tr:first-child > th,
+table > thead > tr:first-child > td,
+table > tbody > tr:first-child > th,
+table > tbody > tr:first-child > td {
+  background-color: #f0f0f0;
+  font-weight: 600;
+}
+
 /* Box1 styling */
 #box1 {
   font-family: Arial, sans-serif;
