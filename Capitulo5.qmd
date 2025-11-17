@@ -108,7 +108,7 @@ Caja 2. Acceso desigual a capitales clave
 
 Los capitales o activos hacen referencia a los bienes tangibles e intangibles, capacidades y demás recursos que tienen las personas o pueden acceder a ellos para alcanzar sus objetivos de medios de vida. Están representados en un pentágono que simboliza el nivel de acceso que tienen las personas a estos. Lo ideal es encontrar el pentágono simétrico, lo que indicaría un acceso equilibrado en los cinco tipos de capitales [@fao2015].
 
-![Componentes principales del marco conceptual sobre los medios de vida.](images/capitulo5/conceptos-medios-vida.png){#fig-conceptos-vida width="500"}
+![Componentes principales del marco conceptual sobre los medios de vida.](images/capitulo5/conceptos-medios-vida.png){width="500"}
 
 **Marco de los medios de vida sostenibles**. Herramienta que permite comprender cómo interactúan los medios de vida familiares con el entorno, tanto con el natural como con el contexto político e institucional. Los componentes del marco son:
 
@@ -120,7 +120,17 @@ Los capitales o activos hacen referencia a los bienes tangibles e intangibles, c
 
 **Definiciones de los capitales:**
 
-**Capital humano**: Permite desarrollar diferentes estrategias para desarrollar sus objetivos. Ej: Competencias, conocimiento, capacidad de trabajo y salud. **Capital social**: Redes e interconexiones que incrementan la capacidad de trabajo y amplían el acceso a instituciones mayores. (i.e., pertenencia a grupos formalizados, relaciones de confianza). **Capital natural**: Los recursos y las reservas naturales de las que dependen las personas tales como tierras, bosques y otros. **Capital físico**: Infraestructuras básicas y bienes de producción, entre los que se incluyen: refugios, edificios, herramientas, equipos, semillas, ganado, transporte y comunicaciones. **Capital financiero**: Disponibilidad de efectivo o equivalente, que permite a las personas adoptar diferentes estrategias en relación con los medios de vida: ahorros, capitales líquidos (ganado y joyas), créditos, pensiones o giros. **Estrategia de los medios de vida**: Son aquellas actividades y decisiones que toman los hogares o las personas para combinar los capitales disponibles para alcanzar sus objetivos y mantener o reforzar sus medios de vida; o para hacer frente a las necesidades básicas. Ej: la agricultura, pesca, comercio, empleo público [@fao2015].
+**Capital humano**: Permite desarrollar diferentes estrategias para desarrollar sus objetivos. Ej: Competencias, conocimiento, capacidad de trabajo y salud.
+
+**Capital social**: Redes e interconexiones que incrementan la capacidad de trabajo y amplían el acceso a instituciones mayores. (i.e., pertenencia a grupos formalizados, relaciones de confianza).
+
+**Capital natural**: Los recursos y las reservas naturales de las que dependen las personas tales como tierras, bosques y otros.
+
+**Capital físico**: Infraestructuras básicas y bienes de producción, entre los que se incluyen: refugios, edificios, herramientas, equipos, semillas, ganado, transporte y comunicaciones.
+
+**Capital financiero**: Disponibilidad de efectivo o equivalente, que permite a las personas adoptar diferentes estrategias en relación con los medios de vida: ahorros, capitales líquidos (ganado y joyas), créditos, pensiones o giros.
+
+**Estrategia de los medios de vida**: Son aquellas actividades y decisiones que toman los hogares o las personas para combinar los capitales disponibles para alcanzar sus objetivos y mantener o reforzar sus medios de vida; o para hacer frente a las necesidades básicas. Ej: la agricultura, pesca, comercio, empleo público [@fao2015].
 :::
 
 ## 2.3 Impacto sobre el sector de la producción animal
@@ -236,7 +246,7 @@ Las opciones de rehabilitación de pastos y cultivos herbáceos en función del 
 
 Cuando hay suficiente ceniza, puede resultar antieconómico que la tierra vuelva a utilizarse para cultivos. En la mayoría de los casos, el terreno puede reutilizarse para otros fines, como la silvicultura [@uach2015]. A continuación, una guía rápida de orientación para proteger el ganado frente a la caída de ceniza.
 
-![Espesor de ceniza, nivel considerado de afectación y recomendaciones a seguir. De izquierda a derecha se describen el espesor en milímetros (mm) de la ceniza volcánica sobre el suelo, la recuperación, la afectación y los principales problemas que esto implica para los animales. Cada uno de los niveles de afectación, desde el leve, moderado y severo, contempla unas recomendaciones a seguir. Modificado de World Animal Protection (WAP) 2020. Afectación sobre el ganado de acuerdo con la cantidad de caída de ceniza.](images/capitulo5/espesor-ceniza-afectacion.png){#fig-espesor width="450"}
+![Espesor de ceniza, nivel considerado de afectación y recomendaciones a seguir. De izquierda a derecha se describen el espesor en milímetros (mm) de la ceniza volcánica sobre el suelo, la recuperación, la afectación y los principales problemas que esto implica para los animales. Cada uno de los niveles de afectación, desde el leve, moderado y severo, contempla unas recomendaciones a seguir. Modificado de World Animal Protection (WAP) 2020. Afectación sobre el ganado de acuerdo con la cantidad de caída de ceniza.](images/capitulo5/espesor-ceniza-afectacion.png){#fig-espesor fig-align="center" width="500"}
 
 ## 3.2 Efecto sobre las pasturas
 
@@ -309,7 +319,7 @@ Caja 4. Guía LEGS para intervenciones ganaderas
 
 Las normas y directrices para intervenciones ganaderas en emergencias son un conjunto de directrices y normas internacionales para el diseño, la ejecución y la evaluación de las intervenciones ganaderas para ayudar a personas afectadas por crisis humanitarias. LEGS por sus siglas en inglés, se basa en tres objetivos centrados en medios de subsistencia: proporcionar asistencia rápida, proteger activos ganaderos y reconstituir los activos ganaderos en comunidades afectadas LEGS, que apoya la salvación de vidas como de medios de subsistencia mediante estrategias claves.
 
-![Fases de emergencia según LEGS.](images/capitulo5/fases-emergencia-legs.png){#fig-fases width="350"}
+![Fases de emergencia según LEGS.](images/capitulo5/fases-emergencia-legs.png){width="350"}
 
 Existen cuatro fases en materia de planificación de respuesta a emergencias que permite orientar el desarrollo de un plan, estas fases permiten decidir, identificar y priorizar intervenciones técnicas, seleccionar opciones adecuadas y usar la información para diseñar un plan adecuado. Las cuatro fases se apoyan por actividades MEAL eficaces a lo largo de la implementación de la respuesta.
 
@@ -322,17 +332,17 @@ Cuando una emergencia implica un colapso de la autoridad nacional debido a un co
 
 Para ilustrar como los diferentes tipos de emergencia requieren intervenciones en diferentes momentos, LEGS define las fases dentro de las emergencias de inicio lento y repentino de manera diferente:
 
-![Principios de LEGS según contexto.](images/capitulo5/principios-legs.png){#fig-principios width="300"}
+![Principios de LEGS según contexto.](images/capitulo5/principios-legs.png){fig-align="center" width="350"}
 
 Los principios de LEGS aplican todos los contextos humanitarios y en todas las intervenciones técnicas; sin embargo, esta aplicación varía según el contexto.
 
-![Matriz PRIM de LEGS.](images/capitulo5/matriz-prim.png){#fig-prim width="350"}
+![Matriz PRIM de LEGS.](images/capitulo5/matriz-prim.png){width="350"}
 
 LEGS proporciona una Matriz de identificación de respuesta participativa - PRIM (por sus siglas en inglés) como plantilla para facilitar el proceso de planificación de respuestas, y una apropiación local del proceso, ayuda a identificar conocimientos y destrezas locales para abordar y responder a la emergencia.
 
 En la parte izquierda de la PRIM, las seis áreas de intervención técnica deben examinarse en relación con los tres objetivos de medios de subsistencia de LEGS. Esto permite revisar cuanto podría impactar cada intervención. La parte derecha de la matriz deberá mostrar las fases de la emergencia actual y deberá tomar nota del mejor momento para cada intervención.
 
-![Intervenciones de respuesta según LEGS.](images/capitulo5/intervenciones-respuesta.png){#fig-intervenciones width="400"}
+![Intervenciones de respuesta según LEGS.](images/capitulo5/intervenciones-respuesta.png){width="400"}
 
 No existe una PRIM universalmente "correcta"; cada PRIM esta desarrollada de acuerdo con su ubicación y necesidades específicas. Es importante ser conscientes de sesgos potenciales según los intereses personales o la pericia de los individuos al completar la matriz [@legs2023].
 :::
@@ -387,13 +397,9 @@ Puntos Clave
 </h2>
 
 -   La acción humanitaria se centra también en tener en cuenta la importancia de mantener los medios de subsistencia ganaderos de las comunidades afectadas.
-
 -   El apoyo a los animales de producción en erupciones volcánicas favorece a las capacidades, activos, ingresos y actividades requeridas por las comunidades para cubrir las necesidades vitales derivadas de sus animales.
-
 -   Las actividades de preparación, respuesta y recuperación aplicadas a sistemas de producción animal en escenarios de erupciones volcánicas facilitan la supervivencia de los animales y la resiliencia de sus propietarios.
-
 -   Los procesos de gestión de los sistemas de producción basados en animales durante un desastre deben centrarse en la inmediata seguridad y protección de los medios de subsistencia de las comunidades afectadas.
-
 -   Las fases de las normas y directrices para intervenciones ganaderas en emergencias - LEGS, proporciona las herramientas clave para toma de decisiones y brinda la estructura para la creación e implementación de un plan de respuesta validado y ajustado bajo intervenciones técnicas aplicadas a sistemas de producción ganadera.
 :::
 
@@ -405,13 +411,9 @@ Preguntas por resolver
 </h2>
 
 -   ¿Cómo pueden integrarse mejor los conocimientos locales y tradicionales sobre el manejo de animales en los planes formales de gestión de desastres?
-
 -   ¿Qué mecanismos financieros sostenibles pueden implementarse para garantizar la disponibilidad de recursos para la preparación y respuesta ante erupciones volcánicas?
-
 -   ¿Cuáles son las mejores prácticas específicas para diferentes especies de animales en contextos volcánicos particulares?
-
 -   ¿Cómo pueden mejorarse los sistemas de alerta temprana para incluir alertas específicas para productores agrícolas y ganaderos?
-
 -   ¿Qué indicadores pueden utilizarse para medir la efectividad de las intervenciones de bienestar animal en escenarios de desastres?
 :::
 
@@ -423,13 +425,9 @@ Recomendaciones para tomar decisiones
 </h2>
 
 -   Se deben considerar que las actividades pecuarias son un capital productivo y de mano de obra, y es allí donde los mercados laborales formales los animales de producción ayudan enormemente a proporcionar posibilidades de generación de riqueza, alimentos e ingresos.
-
 -   El ganado desempeña un papel fundamental en la seguridad alimentaria, por lo tanto en cada región se deben identificar los peligros originados por la actividad volcánica y/o por acciones antrópicas derivadas de estos eventos, determinar los efectos directos o indirectos sobre los sistemas de producción animal, que impacto esto genera, tener claro o estimar el número de animales y trabajar en la consolidación de información de daños y perdidas agropecuarias y que necesidades de intervenciones técnicas se necesitarían para mitigar la emergencia.
-
 -   Dado que los animales de producción son fundamentales no sólo para mantener la producción de alimentos, sino también para compensar las diferencias cíclicas en la disponibilidad de alimentos. Se debe realizar análisis de riesgos que permitan generar estrategias de respuesta participativa e intervenciones como alimento, agua, servicios veterinarios, asentamientos temporales, reducción y provisión de unidades ganaderas.
-
 -   Determinar los tiempos y momentos más propicios para suplir esas necesidades inmediatas gestionando y validando la pertinencia, los recursos técnicos, la planificación, aspectos operativos, logísticos y de administración y financieros bajo una estructura organizacional que permita el cumplimiento de los objetivos.
-
 -   La construcción de un plan de respuesta y los mecanismos de monitoreo y seguimiento a partir de una rendición de cuentas claras y realimentación constante, pueden garantizar que los procesos de ayuda puedan ser eficaces y efectivos.
 :::
 
@@ -453,9 +451,9 @@ Conceptualización: DAH, JLV. Metodología: DAH, JLV. Redacción de primera vers
 
 # IDENTIFICACIÓN DE AUTORES
 
-Diego Alexander Hernández Pulido: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001613874
+Diego Alexander Hernández Pulido: <https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001613874>
 
-Julia Inés Lema Vélez: https://orcid.org/0009-0009-2178-8400
+Julia Inés Lema Vélez: <https://orcid.org/0009-0009-2178-8400>
 
 # BIBLIOGRAFÍA
 

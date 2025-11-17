@@ -349,3 +349,35 @@ sup a {
   font-weight: 700 !important;
   text-decoration: none;
 }
+
+/* Hide subfigure labels (a), (b), (c) from OJS figures */
+.quarto-figure .quarto-figure-center > figure > p:last-child,
+.quarto-float-fig .quarto-float-caption .quarto-float-caption-subcap,
+figcaption > p:last-child:only-child {
+  display: none !important;
+}
+
+/* Alternative: hide only if it contains single letter like (a), (b) */
+.quarto-figure-center figcaption p {
+  display: none;
+}
+
+/* Reduce spacing around OJS figures */
+.cell-output-display,
+.quarto-figure,
+.quarto-float-fig {
+  margin-top: 0.25rem !important;
+  margin-bottom: 0.25rem !important;
+}
+
+/* Reduce padding inside OJS figure containers */
+.quarto-figure-center {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+/* Specific for OJS cells */
+div.cell[data-language="ojs"] {
+  margin-top: 0.25rem !important;
+  margin-bottom: 0.25rem !important;
+}
