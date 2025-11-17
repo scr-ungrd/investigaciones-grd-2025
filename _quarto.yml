@@ -23,7 +23,6 @@ book:
     - text: "5: Riesgo volcánico en animales"
       href: Capitulo5.qmd
     - glosario.qmd
-    - capitulo-plantilla.qmd  # Plantilla de referencia
 
 lang: es
 
