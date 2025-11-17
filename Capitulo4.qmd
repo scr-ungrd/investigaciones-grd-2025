@@ -73,7 +73,7 @@ Caja 1. Desastre tecnológico en la Comuna 10 de Dosquebradas en el año 2011
 
 El 23 de diciembre de 2011 ocurrió en la Comuna 10 de Dosquebradas una de las tragedias más graves asociadas a riesgo tecnológico en Colombia. Una fuga de combustible en el poliducto Puerto Salgar--Cartago descendió por la quebrada Aguazul y al entrar en contacto con una fuente de calor, desencadenó una serie de explosiones. El evento afectó principalmente a los barrios Villa Carola, La Divisa, La Romelia en la Comuna 10 del municipio, dejando 33 personas fallecidas, 110 heridas, más de cien viviendas afectadas y 38 destruidas, además de pérdidas en establecimientos comerciales.
 
-![Escena del desastre tecnológico de 2011 en Villa Carola, Dosquebradas.](images/capitulo4/Figura%20Caja%201.%20Sitio%20del%20evento%20en%20Villa%20Carola%202011.png){#fig-desastre2011 width="500"}
+![Escena del desastre tecnológico de 2011 en Villa Carola, Dosquebradas.](images/capitulo4/Figura%20Caja%201.%20Sitio%20del%20evento%20en%20Villa%20Carola%202011.png){width="500"}
 
 Las causas se atribuyeron tanto a factores antrópicos, como la presencia de válvulas ilegales en el poliducto, como a factores naturales, en particular la reptación del terreno producto de la ola invernal de 2011, que generó tensiones y la fractura de la tubería. El desastre también impactó ambientalmente la quebrada Aguazul, contaminada con más de 1,400 galones de gasolina que afectaron su ronda hídrica y la bocatoma que abastecía a cerca de 25,000 personas.
 
@@ -101,12 +101,12 @@ Caja 2. Etapas de la herramienta ARC-D de GOAL y glosario de términos
 
 </h2>
 
-![Componentes herramienta ARC-D. La herramienta de evaluación de resiliencia comunitaria establecida por GOAL evalúa cuatro áreas temáticas que conforman 30 componentes.](images/capitulo4/Figura%202.%20Componentes%20herramienta%20ARC-D..png){#fig-arcd-componentes width="500"}
+![Componentes herramienta ARC-D. La herramienta de evaluación de resiliencia comunitaria establecida por GOAL evalúa cuatro áreas temáticas que conforman 30 componentes.](images/capitulo4/Figura%202.%20Componentes%20herramienta%20ARC-D..png){width="500"}
 
 **Categorías de evaluación de la herramienta ARC-D de GOAL:**
 
 | **%** | **Nivel** | **Categoría** | **Descripción** |
-|:--------------:|:-------------:|:-------------:|:------------------------:|
+|:--------------:|:--------------:|:--------------:|:----------------------:|
 | 0-20 | 1 | Mínima Resiliencia | Poca conciencia del problema o poca motivación. Acciones limitadas. |
 | 21-40 | 2 | Baja Resiliencia | Conciencia del problema con capacidad limitada de actuar. |
 | 41-60 | 3 | Mediana Resiliencia | Desarrollo de soluciones con capacidad mejorada de actuar. |
@@ -183,7 +183,7 @@ Posteriormente, se realizó el análisis comparativo de resultados de la evaluac
 La caracterización de riesgos tecnológicos en el municipio de Dosquebradas se identifican sectorialmente por comunas. Esta caracterización se basa en la información disponible en los instrumentos de planificación del municipio de Dosquebradas (@tbl-riesgos-tecnologicos).
 
 | **Comuna o Corregimiento** | **Riesgo tecnológico asociado** |
-|:-------------------:|:-------------------------------------------------:|
+|:--------------------:|:------------------------------------------------:|
 | Comuna 10 (Villa Carola) | Estaciones de servicio, sector industrial, circulación de hidrocarburos |
 | Alto del Nudo | Tuberías de conducción, sector industrial, comercial y particulares |
 
@@ -200,7 +200,7 @@ Las condiciones comunitarias de la Comuna 10 de Dosquebradas incluyen barrios, o
 Los resultados obtenidos mediante la calificación de la comunidad dan cuenta de la multitemporalidad. Se identificó el nivel de resiliencia comunitaria ante desastres en el año 2011, en el cual ocurrió el evento, y en el año 2021, con el fin de hacer un contraste de las condiciones y poder generar recomendaciones. En la @tbl-resultados-arcd se presentan los resultados por componentes y por temporalidad.
 
 | **Áreas Temáticas** | **Componentes de Resiliencia a Desastres** | **Calificación 2011** | **Calificación 2021** |
-|:--------------:|:---------------------:|:--------------:|:--------------:|
+|:---------------:|:--------------------:|:---------------:|:---------------:|
 | 1\. Comprender el riesgo de desastres | Evaluación comunitaria participativa | 2 | 4 |
 |  | Evaluación científica del riesgo | 2 | 3 |
 |  | Diseminación de información en RRD | 2 | 4 |
@@ -231,8 +231,8 @@ Los resultados obtenidos mediante la calificación de la comunidad dan cuenta de
 |  | Servicios de educación en emergencias | 2 | 4 |
 |  | Infraestructura en emergencias | 1 | 1 |
 |  | Liderazgo y voluntariado en respuesta | 3 | 4 |
-| **TOTAL** |  | **50** | **96** |
-| **NIVEL DE RESILIENCIA COMUNITARIA** |  | **30.08% BAJA** | **60.18% MEDIANA** |
+| **Total** |  | **50** | **96** |
+| **Nivel de resiliencia comunitaria** |  | **30.08% Baja** | **60.18% Mediana** |
 
 : Calificaciones de los componentes de resiliencia comunitaria ante desastres según ARC-D. {#tbl-resultados-arcd}
 
@@ -249,7 +249,7 @@ Finalmente se obtuvo una calificación con un nivel de 4, en donde la comunidad 
 ```{ojs}
 //| echo: false
 //| label: fig-resultados-2011
-//| fig-cap: "Resultado de la evaluación de resiliencia comunitaria ante desastres del año 2011 (Gráfico radar de 30 componentes). Calificación de resiliencia 30.8% (mediana)"
+//| fig-cap: "Resultado de la evaluación de resiliencia comunitaria ante desastres del año 2011 (Gráfico radar de 30 componentes). Calificación de resiliencia 30.8% (mediana)."
 
 data = [
   {axis: "1. Evaluación comunitaria", value: 3},
@@ -286,8 +286,8 @@ data = [
 
 // Radar chart con D3
 {
-  const width = 550, height = 550;
-  const radius = Math.min(width, height) / 2 - 60;
+  const width = 600, height = 600;
+  const radius = Math.min(width, height) / 2 - 100;
   const levels = 4; // número de círculos concéntricos
   const maxValue = 4; // escala máxima
 
@@ -336,10 +336,10 @@ data = [
 
     // Etiquetas
     g.append("text")
-      .attr("x", (rScale(maxValue + 0.2)) * Math.cos(angle))
-      .attr("y", (rScale(maxValue + 0.2)) * Math.sin(angle))
+      .attr("x", (rScale(maxValue + 0.5)) * Math.cos(angle))
+      .attr("y", (rScale(maxValue + 0.5)) * Math.sin(angle))
       .attr("dy", "0.35em")
-      .style("font-size", "10px")
+      .style("font-size", "9px")
       .style("text-anchor", angle > Math.PI/2 && angle < 3*Math.PI/2 ? "end" : "start")
       .text(d.axis);
   });
@@ -414,8 +414,8 @@ Finalmente, la comunidad otorgó un valor de 5, de alta resiliencia, a la partic
     {axis: "30. Liderazgo y voluntariado", value: 1}
   ];
 
-  const width = 550, height = 550;
-  const radius = Math.min(width, height) / 2 - 60;
+  const width = 600, height = 600;
+  const radius = Math.min(width, height) / 2 - 100;
   const levels = 5; // número de círculos concéntricos (ahora 5 para escala 1-5)
   const maxValue = 5; // escala máxima (ahora 5 porque hay valores de 5)
 
@@ -464,10 +464,10 @@ Finalmente, la comunidad otorgó un valor de 5, de alta resiliencia, a la partic
 
     // Etiquetas
     g.append("text")
-      .attr("x", (rScale(maxValue + 0.2)) * Math.cos(angle))
-      .attr("y", (rScale(maxValue + 0.2)) * Math.sin(angle))
+      .attr("x", (rScale(maxValue + 0.5)) * Math.cos(angle))
+      .attr("y", (rScale(maxValue + 0.5)) * Math.sin(angle))
       .attr("dy", "0.35em")
-      .style("font-size", "10px")
+      .style("font-size", "9px")
       .style("text-anchor", angle > Math.PI/2 && angle < 3*Math.PI/2 ? "end" : "start")
       .text(d.axis);
   });
