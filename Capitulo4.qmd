@@ -66,7 +66,9 @@ Actualmente, la Comuna 10 donde se ubica el barrio Villa Carola, presenta múlti
 
 ::: {#box1 .callout-important style="background-color: #e3f0fbff; border-left: 4px solid #d4e8f9ff;" appearance="minimal" icon="false"}
 <h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;">
+
 Caja 1. Desastre tecnológico en la Comuna 10 de Dosquebradas en el año 2011
+
 </h2>
 
 El 23 de diciembre de 2011 ocurrió en la Comuna 10 de Dosquebradas una de las tragedias más graves asociadas a riesgo tecnológico en Colombia. Una fuga de combustible en el poliducto Puerto Salgar--Cartago descendió por la quebrada Aguazul y al entrar en contacto con una fuente de calor, desencadenó una serie de explosiones. El evento afectó principalmente a los barrios Villa Carola, La Divisa, La Romelia en la Comuna 10 del municipio, dejando 33 personas fallecidas, 110 heridas, más de cien viviendas afectadas y 38 destruidas, además de pérdidas en establecimientos comerciales.
@@ -94,14 +96,17 @@ Se utilizó la herramienta ARC-D para medir la resiliencia comunitaria ante desa
 
 ::: {#caja2 .callout-important style="background-color: #e3f0fbff; border-left: 4px solid #d4e8f9ff;" appearance="minimal" icon="false"}
 <h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;">
+
 Caja 2. Etapas de la herramienta ARC-D de GOAL y glosario de términos
+
 </h2>
-![Componentes herramienta ARC-D. La herramienta de evaluación de resiliencia comunitaria establecida por GOAL evalúa cuatro áreas temáticas que conforman 30 componentes.](images/capitulo4/Figura 2. Componentes herramienta ARC-D..png){#fig-arcd-componentes width="500"}
+
+![Componentes herramienta ARC-D. La herramienta de evaluación de resiliencia comunitaria establecida por GOAL evalúa cuatro áreas temáticas que conforman 30 componentes.](images/capitulo4/Figura%202.%20Componentes%20herramienta%20ARC-D..png){#fig-arcd-componentes width="500"}
 
 **Categorías de evaluación de la herramienta ARC-D de GOAL:**
 
 | **%** | **Nivel** | **Categoría** | **Descripción** |
-|:---------------------:|:--------------:|:----------:|:----------------------------------:|
+|:--------------:|:-------------:|:-------------:|:------------------------:|
 | 0-20 | 1 | Mínima Resiliencia | Poca conciencia del problema o poca motivación. Acciones limitadas. |
 | 21-40 | 2 | Baja Resiliencia | Conciencia del problema con capacidad limitada de actuar. |
 | 41-60 | 3 | Mediana Resiliencia | Desarrollo de soluciones con capacidad mejorada de actuar. |
@@ -131,7 +136,9 @@ Finalmente, la cuarta área temática se dedica a mejorar la preparación ante d
 
 ::: {#caja3 .callout-important style="background-color: #e3f0fbff; border-left: 4px solid #d4e8f9ff;" appearance="minimal" icon="false"}
 <h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;">
+
 Caja 3. Glosario de términos relacionados con el riesgo tecnológico
+
 </h2>
 
 -   **Accidente tecnológico:** Eventos generados por el uso y acceso a la tecnología, originados por eventos antrópicos, naturales, socio-naturales y propios de la operación. Comprende fugas, derrames, incendios y explosiones asociados a la liberación súbita de sustancias y/o energías con características de peligrosidad.
@@ -176,7 +183,7 @@ Posteriormente, se realizó el análisis comparativo de resultados de la evaluac
 La caracterización de riesgos tecnológicos en el municipio de Dosquebradas se identifican sectorialmente por comunas. Esta caracterización se basa en la información disponible en los instrumentos de planificación del municipio de Dosquebradas (@tbl-riesgos-tecnologicos).
 
 | **Comuna o Corregimiento** | **Riesgo tecnológico asociado** |
-|:------------------:|:--------------------------------------------------:|
+|:-------------------:|:-------------------------------------------------:|
 | Comuna 10 (Villa Carola) | Estaciones de servicio, sector industrial, circulación de hidrocarburos |
 | Alto del Nudo | Tuberías de conducción, sector industrial, comercial y particulares |
 
@@ -193,7 +200,7 @@ Las condiciones comunitarias de la Comuna 10 de Dosquebradas incluyen barrios, o
 Los resultados obtenidos mediante la calificación de la comunidad dan cuenta de la multitemporalidad. Se identificó el nivel de resiliencia comunitaria ante desastres en el año 2011, en el cual ocurrió el evento, y en el año 2021, con el fin de hacer un contraste de las condiciones y poder generar recomendaciones. En la @tbl-resultados-arcd se presentan los resultados por componentes y por temporalidad.
 
 | **Áreas Temáticas** | **Componentes de Resiliencia a Desastres** | **Calificación 2011** | **Calificación 2021** |
-|:--------------:|:------------------------:|:--------------:|:--------------:|
+|:--------------:|:---------------------:|:--------------:|:--------------:|
 | 1\. Comprender el riesgo de desastres | Evaluación comunitaria participativa | 2 | 4 |
 |  | Evaluación científica del riesgo | 2 | 3 |
 |  | Diseminación de información en RRD | 2 | 4 |
@@ -238,7 +245,6 @@ Lo anterior concuerda con lo expresado en el grupo focal, por parte de los líde
 Por su parte, la medición arrojó 15 componentes con un nivel 2, los cuales se describen como de baja resiliencia, en donde se tiene conciencia del problema, se cuenta con capacidad para actuar, pero de manera limitada, con intervenciones fragmentadas y a corto plazo. El tema del liderazgo y voluntariado, arrojó una puntuación con un valor de 3, que corresponde a mediana resiliencia, en dónde se caracteriza por el desarrollo e implementación de soluciones.
 
 Finalmente se obtuvo una calificación con un nivel de 4, en donde la comunidad le otorgó la categoría de resiliencia al componente dirigido a la cohesión social y prevención de conflictos, dado a que en la Comuna 10 siempre ha existido una organización social y comunitaria, fortalecida y participativa lo que en el 2011 les permitió hacerle frente al desastre.
-
 
 ```{ojs}
 //| echo: false
@@ -483,7 +489,6 @@ Finalmente, la comunidad otorgó un valor de 5, de alta resiliencia, a la partic
 }
 ```
 
-
 ## 3.2 Análisis comparativo multitemporal
 
 En la @fig-analisis-comparativo se evidencian los contrastes entre las dos evaluaciones, hallando contrastes significativos en ciertos componentes. La diseminación de la información de reducción del riesgo de desastres pasó de un nivel 1 a 4, debido al proceso que ha surgido con la comunidad, sobre capacitación, formación y sensibilización en materia de reducción del riesgo de desastres.
@@ -717,7 +722,9 @@ La evaluación multitemporal de la resiliencia comunitaria mediante la herramien
 
 ::: {#puntos-clave .callout-important style="background-color: #f8f0ddff; border-left: 4px solid #f7eed3ff;" appearance="minimal" icon="false"}
 <h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;">
+
 Puntos Clave
+
 </h2>
 
 -   En 2011 la resiliencia comunitaria frente a riesgo tecnológico en la Comuna 10 era baja (30.08%), lo que agravó los impactos del desastre presentado en la explosión.
@@ -728,7 +735,9 @@ Puntos Clave
 
 ::: {#preguntas .callout-important style="background-color: #f3eaf8ff; border-left: 4px solid #efe3f7ff;" appearance="minimal" icon="false"}
 <h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;">
+
 Preguntas por resolver
+
 </h2>
 
 -   ¿Cómo fortalecer los componentes que permanecen en baja resiliencia, como la planificación territorial integrada con gestión del riesgo?
@@ -739,7 +748,9 @@ Preguntas por resolver
 
 ::: {#recomendaciones .callout-important style="background-color: #f8dedcff; border-left: 4px solid #fad4d1ff;" appearance="minimal" icon="false"}
 <h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;">
+
 Recomendaciones para tomar decisiones
+
 </h2>
 
 -   Replicar la aplicación de la herramienta ARC-D en otros municipios para evaluar y fortalecer la resiliencia comunitaria frente a riesgos tecnológicos.

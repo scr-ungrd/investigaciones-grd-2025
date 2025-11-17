@@ -256,7 +256,6 @@ Para finalizar, la presente investigación nos permite afirmar que el enfoque et
 
 ::: {#recomendaciones .callout-important style="background-color: #f8dedcff; border-left: 4px solid #fad4d1ff;" appearance="minimal" icon="false"}
 <h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;">Recomendaciones para tomar decisiones</h2>
-
 1. Garantizar la Participación Activa de las Comunidades. Las comunidades étnicas deben ser actores clave en todas las fases de la gestión del riesgo (prevención, respuesta y recuperación). No basta con consultarlas; se debe asegurar su voz, voto y veto en los procesos de toma de decisiones.
 
 2. Adoptar un Enfoque de Diálogo de Saberes. El conocimiento técnico-científico debe complementarse con los saberes ancestrales para una gestión del riesgo más efectiva y culturalmente pertinente.

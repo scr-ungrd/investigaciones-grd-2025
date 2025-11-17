@@ -235,11 +235,9 @@ th {
   font-weight: 600;
 }
 
-/* Apply gray background to first row of all tables (including those using td) */
-table > thead > tr:first-child > th,
-table > thead > tr:first-child > td,
-table > tbody > tr:first-child > th,
-table > tbody > tr:first-child > td {
+/* Apply gray background to header rows only (not first body row) */
+table > thead > tr > th,
+table > thead > tr > td {
   background-color: #f0f0f0;
   font-weight: 600;
 }
