@@ -152,9 +152,7 @@ Una segunda categoría en el origen de los proyectos incluye aquellos que surgen
 En el caso del mapeo comunitario promovido desde las instituciones y las políticas públicas, HOT impulsa las siguientes dimensiones:
 
 -   El compromiso público en una serie de acciones que permita un cambio de paradigma de largo plazo hacia lo colaborativo;
-
 -   La creación de una base de apoyo en las comunidades para la creación de datos, hacia las instituciones, camino que permite sostener una actualización de datos de calidad, reflejo del conocimiento local, incluyente, de bajo costo, y dando la perspectiva histórica que requiere una gestión más integral de riesgos y desastres;
-
 -   El impulso del sentimiento de apropiación por parte de la ciudadanía en el proceso de dichas políticas públicas.
 
 En los proyectos de mapeo comunitario impulsados por intereses colectivos, los criterios de éxito son la creación de espacios para que las personas interactúen entre los distintos sectores en presencia, intercambien, se formen, colaboren y encuentren las herramientas adecuadas para desarrollarse como colectividad. Los enfoques y competencias también quieren permitir que cada actor, junto o separado, pueda desarrollar mejor potenciales temáticas conexas.
@@ -188,9 +186,7 @@ En algunos casos, los proyectos de cartografía colaborativa han surgido como re
 En otros casos, donde la dinámica no responde a una demanda urgente y consensuada de una comunidad, sino a un reto territorial de más largo plazo y alejado de la cotidianidad inmediata, los desafíos incluyen:
 
 -   Mantener la participación y la capacitación constante de los mapeadores locales;
-
 -   Sostener los esfuerzos comunitarios mediante su formalización, lo que puede implicar dificultades financieras;
-
 -   Enfocar los proyectos en lograr un impacto concreto a través de una colaboración integral con las autoridades territoriales, desarrollando la capacidad comunitaria para gestionar proyectos y dialogar con las instituciones.
 
 Estas cuestiones son fundamentales para garantizar la continuidad y la efectividad de la gobernanza abierta.
@@ -291,9 +287,7 @@ La actualización cartográfica de cuatro veredas en OpenStreetMap (OSM) se llev
 El proceso se desarrolló en varias etapas:
 
 1.  Delimitación del área potencial: Se trazó una circunferencia (color negro, @fig-area-mapeo-dron) en una de las reuniones con la comunidad, considerando registros de deslizamientos conocidos, la percepción local del riesgo (datos almacenados en KoboToolbox), y las sugerencias comunitarias sobre áreas afectadas.
-
 2.  Reconocimiento de la zona: Se identificaron condiciones de accesibilidad, necesidades logísticas y la extensión adecuada de la ortofoto. A través de las aplicaciones Mapillary y OSMTracker, se capturaron secuencias de imágenes a nivel de calle y se registraron puntos potenciales para el vuelo del dron (lugares accesibles, con buena visibilidad panorámica, poco cableado, etc.).
-
 3.  Exploración y análisis de la información: Se realizó un cruce de datos entre los puntos de interés, las imágenes de Mapillary y la información comunitaria para definir un polígono óptimo para la generación de la ortofoto, considerando principalmente la accesibilidad y la logística del vuelo.
 
 Este proceso derivó en la delimitación de un área de 150 hectáreas (polígono amarillo, @fig-area-mapeo-dron).
