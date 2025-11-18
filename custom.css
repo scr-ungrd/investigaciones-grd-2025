@@ -1,33 +1,29 @@
-/* Import Merriweather font from Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
-/* Import Source Sans Pro for sidebars */
+/* Import Source Sans Pro for the entire project */
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&display=swap');
 
 /* MyST-style design */
 body {
-  font-family: 'Merriweather', Georgia, serif;
+  font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   line-height: 1.6;
   color: #333;
 }
 
-/* Source Sans Pro for sidebars */
-#quarto-sidebar-glass,
-#quarto-sidebar,
-.sidebar,
-.sidebar-navigation,
-.sidebar-menu,
-.sidebar-item,
-#TOC,
-.toc-actions,
-#quarto-margin-sidebar,
-.margin-sidebar,
-#quarto-header,
-.navbar,
-.nav-link,
-.sidebar-title,
-.chapter-number,
-.menu-text {
-  font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
+/* Exceptions: Keep Arial font for callout boxes (box1-box5, caja1-caja5, puntos-clave, preguntas, recomendaciones) and tables */
+#box1, #box2, #box3, #box4, #box5,
+#caja1, #caja2, #caja3, #caja4, #caja5,
+#puntos-clave, #preguntas, #recomendaciones {
+  font-family: Arial, sans-serif !important;
+}
+
+#box1 *, #box2 *, #box3 *, #box4 *, #box5 *,
+#caja1 *, #caja2 *, #caja3 *, #caja4 *, #caja5 *,
+#puntos-clave *, #preguntas *, #recomendaciones * {
+  font-family: Arial, sans-serif !important;
+}
+
+/* Keep Arial font for tables */
+table, th, td, caption {
+  font-family: Arial, sans-serif !important;
 }
 
 /* Hide breadcrumbs that appear above the banner */
@@ -242,40 +238,45 @@ table > thead > tr > td {
   font-weight: 600;
 }
 
-/* Callout boxes styling (box1-box5) - Arial font */
-#box1, #box2, #box3, #box4, #box5 {
-  font-family: Arial, sans-serif;
+/* Callout boxes styling (box1-box5, caja1-caja5, puntos-clave, preguntas, recomendaciones) - Arial font */
+#box1, #box2, #box3, #box4, #box5,
+#caja1, #caja2, #caja3, #caja4, #caja5,
+#puntos-clave, #preguntas, #recomendaciones {
+  font-family: Arial, sans-serif !important;
   font-size: 13px;
 }
 
-#box1 h2, #box2 h2, #box3 h2, #box4 h2, #box5 h2 {
-  font-family: Arial, sans-serif;
+/* Headers in callout boxes - keep at 13px */
+#box1 h2, #box2 h2, #box3 h2, #box4 h2, #box5 h2,
+#caja1 h2, #caja2 h2, #caja3 h2, #caja4 h2, #caja5 h2,
+#puntos-clave h2, #preguntas h2, #recomendaciones h2 {
+  font-family: Arial, sans-serif !important;
   font-size: 13px;
   margin-bottom: 0 !important;
+}
+
+/* Body text in box/caja callouts - increased by 20% to 15px */
+#box1 ul, #box2 ul, #box3 ul, #box4 ul, #box5 ul,
+#box1 li, #box2 li, #box3 li, #box4 li, #box5 li,
+#box1 p, #box2 p, #box3 p, #box4 p, #box5 p,
+#caja1 ul, #caja2 ul, #caja3 ul, #caja4 ul, #caja5 ul,
+#caja1 li, #caja2 li, #caja3 li, #caja4 li, #caja5 li,
+#caja1 p, #caja2 p, #caja3 p, #caja4 p, #caja5 p {
+  font-family: Arial, sans-serif !important;
+  font-size: 15px;
+}
+
+/* Body text in puntos-clave, preguntas, recomendaciones - keep at 13px */
+#puntos-clave ul, #puntos-clave li, #puntos-clave p,
+#preguntas ul, #preguntas li, #preguntas p,
+#recomendaciones ul, #recomendaciones li, #recomendaciones p {
+  font-family: Arial, sans-serif !important;
+  font-size: 13px;
 }
 
 #box1 ul, #box2 ul, #box3 ul, #box4 ul, #box5 ul,
-#box1 li, #box2 li, #box3 li, #box4 li, #box5 li,
-#box1 p, #box2 p, #box3 p, #box4 p, #box5 p {
-  font-family: Arial, sans-serif;
-  font-size: 13px;
-}
-
-#box1 ul, #box2 ul, #box3 ul, #box4 ul, #box5 ul {
-  margin-top: 0.3rem !important;
-  margin-bottom: 0 !important;
-}
-
-/* Conclusion callout boxes styling */
-#puntos-clave h2,
-#preguntas h2,
-#recomendaciones h2 {
-  margin-bottom: 0 !important;
-}
-
-#puntos-clave ul,
-#preguntas ul,
-#recomendaciones ul {
+#caja1 ul, #caja2 ul, #caja3 ul, #caja4 ul, #caja5 ul,
+#puntos-clave ul, #preguntas ul, #recomendaciones ul {
   margin-top: 0.3rem !important;
   margin-bottom: 0 !important;
 }

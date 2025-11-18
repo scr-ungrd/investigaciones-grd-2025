@@ -1,5 +1,5 @@
 ---
-title: "4. Evaluación multitemporal de la resiliencia comunitaria ante eventos tecnológicos en la Comuna 10 del municipio de Dosquebradas"
+title: "4. Evaluación Multitemporal de la Resiliencia Comunitaria ante Eventos Tecnológicos en la Comuna 10 del Municipio de Dosquebradas"
 author:
   - name: Evelin Langebeck Cuéllar
     orcid: 0000-0003-2243-0899

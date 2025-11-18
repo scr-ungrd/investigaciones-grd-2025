@@ -2,8 +2,6 @@
 title: "Índice Temático"
 ---
 
-# Índice Temático
-
 Esta página contiene los términos clave utilizados a lo largo del libro con enlaces directos a donde aparecen.
 
 ---
@@ -14,37 +12,48 @@ Esta página contiene los términos clave utilizados a lo largo del libro con en
 - **Acceso a protección social**: [Capítulo 4](Capitulo4.qmd)
 - **Acceso a servicios financieros**: [Capítulo 4](Capitulo4.qmd)
 - **Acceso y conciencia de la salud**: [Capítulo 4](Capitulo4.qmd)
+- **Accidente tecnológico**: [Capítulo 4](Capitulo4.qmd)
 - **Adaptación al cambio climático**: [Capítulo 1](Capitulo1.qmd)
-- **Alianzas para la RRD**: [Capítulo 4](Capitulo4.qmd)
+- **Agropecuario**: [Capítulo 5](Capitulo5.qmd)
+- **Alianzas para la RRD y recuperación**: [Capítulo 4](Capitulo4.qmd)
+- **Amenaza tecnológica**: [Capítulo 4](Capitulo4.qmd)
+- **Análisis multitemporal de resiliencia**: [Capítulo 4](Capitulo4.qmd)
 - **Análisis y evaluación del riesgo**: [Capítulo 2](Capitulo2.qmd)
-- **Animal welfare**: [Capítulo 5](Capitulo5.qmd)
-- **Animales**: [Capítulo 5](Capitulo5.qmd)
+- **Animales de producción**: [Capítulo 5](Capitulo5.qmd)
 - **Apropiación digital**: [Capítulo 1](Capitulo1.qmd)
-- **Apropiación Social del Conocimiento (ASC)**: [Capítulo 1](Capitulo1.qmd)
+- **Apropiación Social del Conocimiento**: [Capítulo 1](Capitulo1.qmd)
 - **Articulación interinstitucional y comunitaria**: [Capítulo 2](Capitulo2.qmd)
 
 ## C
 
-- **Capacidad de preparación, respuesta y recuperación**: [Capítulo 4](Capitulo4.qmd)
+- **Capacidad**: [Capítulo 4](Capitulo4.qmd)
+- **Capital financiero**: [Capítulo 5](Capitulo5.qmd)
+- **Capital físico**: [Capítulo 5](Capitulo5.qmd)
+- **Capital humano**: [Capítulo 5](Capitulo5.qmd)
+- **Capital natural**: [Capítulo 5](Capitulo5.qmd)
+- **Capital social**: [Capítulo 5](Capitulo5.qmd)
 - **Cartografía participativa**: [Capítulo 3](Capitulo3.qmd)
+- **Ceniza, efecto sobre animales de producción**: [Capítulo 5](Capitulo5.qmd)
 - **Cohesión social y prevención de conflictos**: [Capítulo 4](Capitulo4.qmd)
 - **Comunicación del riesgo**: [Capítulo 2](Capitulo2.qmd)
 - **Comunicación pública de la ciencia**: [Capítulo 1](Capitulo1.qmd)
 - **Comunicación, preparación y respuesta**: [Capítulo 1](Capitulo1.qmd)
-- **Comunidades**: [Capítulo 3](Capitulo3.qmd)
+- **Comunidad**: [Capítulo 3](Capitulo3.qmd)
+- **Comunidades locales**: [Capítulo 3](Capitulo3.qmd)
 - **Conexiones territoriales**: [Capítulo 1](Capitulo1.qmd)
-- **Conocimiento de derechos e incidencia**: [Capítulo 4](Capitulo4.qmd)
 - **Consulta previa**: [Capítulo 2](Capitulo2.qmd)
 - **Cosmovisión y cosmogonía**: [Capítulo 2](Capitulo2.qmd)
+- **Cultivos herbáceos, efecto de la caída de ceniza**: [Capítulo 5](Capitulo5.qmd)
 
 ## D
 
+- **Desastre tecnológico en la Comuna 10 de Dosquebradas**: [Capítulo 4](Capitulo4.qmd)
 - **Desastres**: [Capítulo 5](Capitulo5.qmd)
 - **Digna vida**: [Capítulo 2](Capitulo2.qmd)
-- **Disaster risk management**: [Capítulo 3](Capitulo3.qmd)
 - **Diseminación de información en RRD**: [Capítulo 4](Capitulo4.qmd)
 - **Diversidad**: [Capítulo 2](Capitulo2.qmd)
 - **Diversidad e inclusión**: [Capítulo 2](Capitulo2.qmd)
+- **Dosquebradas (municipio)**: [Capítulo 4](Capitulo4.qmd)
 - **Drones**: [Capítulo 3](Capitulo3.qmd)
 
 ## E
@@ -55,18 +64,27 @@ Esta página contiene los términos clave utilizados a lo largo del libro con en
 - **Enfoque etnodiferencial**: [Capítulo 2](Capitulo2.qmd)
 - **Enfoque fisicalista**: [Capítulo 2](Capitulo2.qmd)
 - **Enfoques pedagógicos y didácticos**: [Capítulo 1](Capitulo1.qmd)
+- **Estresores**: [Capítulo 4](Capitulo4.qmd)
 - **Etnodiferencial**: [Capítulo 2](Capitulo2.qmd)
 - **Evaluación científica del riesgo**: [Capítulo 4](Capitulo4.qmd)
-- **Evaluación comunitaria participativa**: [Capítulo 4](Capitulo4.qmd)
+- **Evaluación comunitaria participativa de riesgo**: [Capítulo 4](Capitulo4.qmd)
+- **Evaluación de resiliencia comunitaria**: [Capítulo 4](Capitulo4.qmd)
 - **Evaluación y cierre**: [Capítulo 1](Capitulo1.qmd)
+- **Evacuación de animales de producción**: [Capítulo 5](Capitulo5.qmd)
 - **Evento de precipitación extremo**: [Capítulo 1](Capitulo1.qmd)
 - **Evento meteorológico extremo**: [Capítulo 1](Capitulo1.qmd)
 - **Eventos extremos**: [Capítulo 1](Capitulo1.qmd)
 - **Eventos extremos de precipitación**: [Capítulo 1](Capitulo1.qmd)
 - **Eventos hidrometeorológicos extremos**: [Capítulo 1](Capitulo1.qmd)
+- **Exigencias nutricionales del ganado**: [Capítulo 5](Capitulo5.qmd)
+- **Exploración de información en RRD**: [Capítulo 4](Capitulo4.qmd)
+- **Exposición de evaluación multitemporal**: [Capítulo 4](Capitulo4.qmd)
 
 ## F
 
+- **Fases de la planificación de respuesta**: [Capítulo 5](Capitulo5.qmd)
+- **Florosis**: [Capítulo 5](Capitulo5.qmd)
+- **Fortalecer la gobernanza**: [Capítulo 4](Capitulo4.qmd)
 - **Fortalecimiento ciudadano**: [Capítulo 1](Capitulo1.qmd)
 
 ## G
@@ -75,12 +93,17 @@ Esta página contiene los términos clave utilizados a lo largo del libro con en
 - **Garantías constitucionales**: [Capítulo 2](Capitulo2.qmd)
 - **Gestión ambiental sostenible**: [Capítulo 4](Capitulo4.qmd)
 - **Gestión Comunitaria del Riesgo de Desastres**: [Capítulo 2](Capitulo2.qmd)
-- **Gestión del riesgo**: [Capítulo 2](Capitulo2.qmd)
 - **Gestión del riesgo de desastres**: [Capítulo 2](Capitulo2.qmd)
+- **Gestión medioambiental de los animales de producción**: [Capítulo 5](Capitulo5.qmd)
+- **Gestión sanitaria de los animales de producción**: [Capítulo 5](Capitulo5.qmd)
+- **Gobernanza**: [Capítulo 4](Capitulo4.qmd)
+- **Gobernanza abierta e inclusiva**: [Capítulo 3](Capitulo3.qmd)
+- **Guía LEGS para intervenciones ganaderas**: [Capítulo 5](Capitulo5.qmd)
 
 ## H
 
 - **Herramienta ARC-D**: [Capítulo 4](Capitulo4.qmd)
+- **Herramienta de evaluación de resiliencia comunitaria**: [Capítulo 4](Capitulo4.qmd)
 - **Horizonte de digna vida**: [Capítulo 2](Capitulo2.qmd)
 
 ## I
@@ -92,82 +115,103 @@ Esta página contiene los términos clave utilizados a lo largo del libro con en
 - **Instrumentos de consulta**: [Capítulo 2](Capitulo2.qmd)
 - **Intervención correctiva**: [Capítulo 2](Capitulo2.qmd)
 - **Intervención prospectiva**: [Capítulo 2](Capitulo2.qmd)
+- **Intoxicación del ganado por ceniza volcánica con flúor**: [Capítulo 5](Capitulo5.qmd)
 - **Investigación acción participativa**: [Capítulo 2](Capitulo2.qmd)
 
 ## J
 
-- **Justice**: [Capítulo 2](Capitulo2.qmd)
 - **Justicia**: [Capítulo 2](Capitulo2.qmd)
 
 ## L
 
-- **Liderazgo y voluntariado en respuesta**: [Capítulo 4](Capitulo4.qmd)
-- **Livestock**: [Capítulo 5](Capitulo5.qmd)
+- **Liderazgo y voluntariado en respuesta y recuperación**: [Capítulo 4](Capitulo4.qmd)
+- **Limpieza de mucosas oculares**: [Capítulo 5](Capitulo5.qmd)
 
 ## M
 
+- **Manejo de desastres en animales de producción**: [Capítulo 5](Capitulo5.qmd)
 - **Manejo de desastres y enfoque etnodiferencial**: [Capítulo 2](Capitulo2.qmd)
 - **Mapeo comunitario**: [Capítulo 3](Capitulo3.qmd)
+- **Mapeo participativo comunitario**: [Capítulo 3](Capitulo3.qmd)
+- **Mapeo y monitoreo comunitario**: [Capítulo 3](Capitulo3.qmd)
+- **Medir la resiliencia comunitaria**: [Capítulo 4](Capitulo4.qmd)
+- **Medios de subsistencia de los animales de producción**: [Capítulo 5](Capitulo5.qmd)
+- **Medios de vida**: [Capítulo 5](Capitulo5.qmd)
+- **Mejorar la preparación ante desastres**: [Capítulo 4](Capitulo4.qmd)
 - **Monitoreo**: [Capítulo 1](Capitulo1.qmd)
 - **Monitoreo y seguimiento del riesgo**: [Capítulo 2](Capitulo2.qmd)
 - **Múltiple afectación**: [Capítulo 2](Capitulo2.qmd)
 
 ## O
 
-- **Open technologies**: [Capítulo 3](Capitulo3.qmd)
 - **OpenStreetMap (OSM)**: [Capítulo 3](Capitulo3.qmd)
 - **Organismos de socorro**: [Capítulo 1](Capitulo1.qmd)
 - **Organización comunitaria**: [Capítulo 2](Capitulo2.qmd)
+- **Ortofoto**: [Capítulo 3](Capitulo3.qmd)
 
 ## P
 
 - **Participación ciudadana**: [Capítulo 1](Capitulo1.qmd)
 - **Participación comunitaria**: [Capítulo 3](Capitulo3.qmd)
 - **Participación de las mujeres**: [Capítulo 4](Capitulo4.qmd)
-- **Participatory mapping**: [Capítulo 3](Capitulo3.qmd)
+- **Pasturas, efecto de la caída de ceniza**: [Capítulo 5](Capitulo5.qmd)
+- **Percepción de la amenaza**: [Capítulo 3](Capitulo3.qmd)
 - **Percepción del riesgo**: [Capítulo 4](Capitulo4.qmd)
+- **Plan Municipal de Gestión del Riesgo de Desastres**: [Capítulo 3](Capitulo3.qmd)
 - **Planificación de contingencia y recuperación**: [Capítulo 4](Capitulo4.qmd)
-- **Prácticas de medios de vida resistentes**: [Capítulo 4](Capitulo4.qmd)
+- **Planificación territorial**: [Capítulo 4](Capitulo4.qmd)
+- **Prácticas de medios de vida resistentes a amenazas**: [Capítulo 4](Capitulo4.qmd)
 - **Preparación para la recuperación**: [Capítulo 2](Capitulo2.qmd)
 - **Preparación para la respuesta**: [Capítulo 2](Capitulo2.qmd)
+- **Preparación, respuesta y rehabilitación**: [Capítulo 5](Capitulo5.qmd)
+- **Prevención de conflictos**: [Capítulo 4](Capitulo4.qmd)
 - **Principio de diversidad cultural**: [Capítulo 2](Capitulo2.qmd)
 - **Principio participativo**: [Capítulo 2](Capitulo2.qmd)
+- **Principios FAIR**: [Capítulo 3](Capitulo3.qmd)
 - **Procesos sociales**: [Capítulo 1](Capitulo1.qmd)
+- **Producción animal**: [Capítulo 5](Capitulo5.qmd)
 - **Protección de derechos territoriales**: [Capítulo 2](Capitulo2.qmd)
 - **Protección de ingresos y activos**: [Capítulo 4](Capitulo4.qmd)
+- **Protección de los animales de producción**: [Capítulo 5](Capitulo5.qmd)
 - **Protocolo de emergencia**: [Capítulo 1](Capitulo1.qmd)
+- **Pueblos indígenas**: [Capítulo 3](Capitulo3.qmd)
 
 ## R
 
 - **Reconocimiento y socialización SIATA**: [Capítulo 1](Capitulo1.qmd)
 - **Red de Educadores Científicos**: [Capítulo 1](Capitulo1.qmd)
-- **Reducción de riesgo**: [Capítulo 5](Capitulo5.qmd)
+- **Reducción de la vulnerabilidad**: [Capítulo 4](Capitulo4.qmd)
+- **Reducción del riesgo**: [Capítulo 5](Capitulo5.qmd)
+- **Reducción del riesgo vulcánico en animales de producción**: [Capítulo 5](Capitulo5.qmd)
 - **Reducción del riesgo y enfoque etnodiferencial**: [Capítulo 2](Capitulo2.qmd)
+- **Reducir la vulnerabilidad**: [Capítulo 4](Capitulo4.qmd)
+- **Rehabilitación de animales de producción**: [Capítulo 5](Capitulo5.qmd)
 - **Resiliencia**: [Capítulo 1](Capitulo1.qmd)
 - **Resiliencia comunitaria**: [Capítulo 4](Capitulo4.qmd)
-- **Resiliencia multitemporal**: [Capítulo 4](Capitulo4.qmd)
+- **Resiliencia comunitaria ante desastres**: [Capítulo 4](Capitulo4.qmd)
 - **Riesgo tecnológico**: [Capítulo 4](Capitulo4.qmd)
-- **RRD en planificación del desarrollo**: [Capítulo 4](Capitulo4.qmd)
-- **RRD en planificación territorial**: [Capítulo 4](Capitulo4.qmd)
+- **RRD en la planificación del desarrollo**: [Capítulo 4](Capitulo4.qmd)
+- **RRD en la planificación territorial**: [Capítulo 4](Capitulo4.qmd)
 
 ## S
 
+- **Salud animal**: [Capítulo 5](Capitulo5.qmd)
+- **Seguridad alimentaria de los animales de producción**: [Capítulo 5](Capitulo5.qmd)
 - **Seguridad y gestión del agua**: [Capítulo 4](Capitulo4.qmd)
 - **Semilleros de ciudadanos científicos**: [Capítulo 1](Capitulo1.qmd)
+- **Servicio de agua**: [Capítulo 5](Capitulo5.qmd)
 - **Servicios de educación en emergencias**: [Capítulo 4](Capitulo4.qmd)
 - **Servicios de salud durante emergencias**: [Capítulo 4](Capitulo4.qmd)
-- **SIATA**: [Capítulo 1](Capitulo1.qmd)
 - **SIATA para la Escuela**: [Capítulo 1](Capitulo1.qmd)
+- **Silvicultura, efecto de la caída de ceniza**: [Capítulo 5](Capitulo5.qmd)
 - **Simulación**: [Capítulo 1](Capitulo1.qmd)
 - **Simulacro**: [Capítulo 1](Capitulo1.qmd)
-- **Sistema de Alerta Temprana del Valle de Aburrá**: [Capítulo 1](Capitulo1.qmd)
 - **Sistema de alerta temprana**: [Capítulo 4](Capitulo4.qmd)
-- **Sistemas de Alerta Temprana C**: [Capítulo 1](Capitulo1.qmd)
+- **Sistema de Alerta Temprana del Valle de Aburrá**: [Capítulo 1](Capitulo1.qmd)
 - **Sistemas de alerta temprana**: [Capítulo 2](Capitulo2.qmd)
-- **Social Appropriation of Knowledge**: [Capítulo 1](Capitulo1.qmd)
-- **Subalterno**: [Capítulo 2](Capitulo2.qmd)
+- **Sistemas de Alerta Temprana Comunitarios**: [Capítulo 1](Capitulo1.qmd)
 - **Subalternización**: [Capítulo 2](Capitulo2.qmd)
-- **Subalternization**: [Capítulo 2](Capitulo2.qmd)
+- **Subalterno**: [Capítulo 2](Capitulo2.qmd)
 - **Suministro seguro de alimentos**: [Capítulo 4](Capitulo4.qmd)
 
 ## T
@@ -184,10 +228,12 @@ Esta página contiene los términos clave utilizados a lo largo del libro con en
 
 - **Valle de Aburrá**: [Capítulo 1](Capitulo1.qmd)
 - **Variabilidad climática**: [Capítulo 1](Capitulo1.qmd)
-- **Vivienda**: [Capítulo 4](Capitulo4.qmd)
 - **Voces de las comunidades**: [Capítulo 2](Capitulo2.qmd)
 - **Volcanes**: [Capítulo 5](Capitulo5.qmd)
-- **Volcanoes**: [Capítulo 5](Capitulo5.qmd)
+
+## Z
+
+- **Zoonosis**: [Capítulo 5](Capitulo5.qmd)
 
 ---
 

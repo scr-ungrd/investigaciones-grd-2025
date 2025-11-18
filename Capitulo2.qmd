@@ -1,5 +1,5 @@
 ---
-title: "2. Enfoque etnodiferencial y riesgo de desastre en Colombia: líneas de fuga para una digna vida"
+title: "2. Enfoque Etnodiferencial y Riesgo de Desastre en Colombia: Líneas de Fuga para una Digna Vida"
 author:
   - name: William Oswaldo Gaviria-Gutiérrez ^1^
     orcid: 0000-0003-4228-4665

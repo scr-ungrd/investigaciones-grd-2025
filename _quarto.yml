@@ -22,11 +22,11 @@ book:
       href: Capitulo4.qmd
     - text: "5: Riesgo volcánico en animales"
       href: Capitulo5.qmd
-    - glosario.qmd
+    - indice-tematico.qmd
 
 lang: es
 
-csl: vancouver-brackets.csl
+csl: vancouver-apa-hybrid.csl
 link-citations: true
 
 crossref:
