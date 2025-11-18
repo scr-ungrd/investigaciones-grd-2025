@@ -287,6 +287,15 @@ figcaption,
 caption {
   color: #000000 !important;
   font-weight: normal;
+  font-family: Arial, sans-serif !important;
+  line-height: 1.3 !important; /* Reduced by 20% from original 1.6 (1.6 → 1.44 → 1.3) */
+}
+
+/* Make "Figura X:" bold in figure captions */
+.figure-caption .caption-number,
+figcaption .caption-number,
+.quarto-float-fig .quarto-float-caption .caption-number {
+  font-weight: bold !important;
 }
 
 /* Table caption alignment - left justified */
