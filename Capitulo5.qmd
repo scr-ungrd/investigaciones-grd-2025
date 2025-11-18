@@ -81,11 +81,7 @@ Las personas deben evitar la exposición innecesaria a la ceniza y llevar una ma
 La realidad es que los efectos a largo plazo de una erupción sobre los animales suelen ser reducidos. Por ejemplo, en el Monte Santa Helena, los científicos comprobaron que tanto plantas como animales volvieron a las zonas devastadas al cabo de un año de la erupción. Así mismo, en 1902 hubo una gran erupción en el volcán Santa María (Guatemala) la cual mató entre cientos a miles de aves [@millard2004].
 
 ::: {#caja1 .callout-important style="background-color: #e3f0fbff; border-left: 4px solid #d4e8f9ff;" appearance="minimal" icon="false"}
-<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;">
-
-Caja 1. Definiciones
-
-</h2>
+<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;"> Caja 1. Definiciones </h2>
 
 **Medios de subsistencia o medios de vida**\\index{Medios de vida}**.** Un medio de subsistencia consiste en los activos (naturales, físicos, humanos, financieros y de capital social), las actividades vinculadas a estos activos y el acceso a ellos (mediado por instituciones y relaciones sociales) que juntos determinan la subsistencia obtenida por el individuo o el hogar [@carr2025]. Comprende las habilidades, los activos (tanto materiales como sociales) y las actividades necesarias para los medios de vida. La subsistencia es sustentable cuando puede enfrentarse y recuperarse del estrés y la crisis y mantener o mejorar su capacidad y activos tanto en el presente como en el futuro, siempre y cuando sin perjudicar los recursos naturales básicos [@fao2024].
 
@@ -99,11 +95,7 @@ El marco conceptual sobre los medios de vida se remonta a los años ochenta. En 
 El Comité Internacional de la Cruz Roja (CICR) y el alto comisionado de las Naciones Unidas para los refugiados [@acnur2011] define los medios de vida como aquellas actividades que permiten asegurar las necesidades básicas de vida: alimento, agua y vivienda. Estas actividades significan adquirir conocimiento, habilidades, materias primas y otros recursos para satisfacer las necesidades individuales o colectivas de manera sostenible y con dignidad. Todas las actividades asociadas a medios de vida se llevan a cabo repetidamente dentro de una corriente de ingresos como la agricultura, el pastoreo, la pesca, el empleo dentro de un sector de mercado. El trabajo proporciona la base para su seguridad alimentaria y autosuficiencia, agregando estabilidad, prosperidad y paz a la comunidad en general.
 
 ::: {#caja2 .callout-important style="background-color: #e3f0fbff; border-left: 4px solid #d4e8f9ff;" appearance="minimal" icon="false"}
-<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;">
-
-Caja 2. Acceso desigual a capitales clave
-
-</h2>
+<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;"> Caja 2. Acceso desigual a capitales clave </h2>
 
 Los capitales o activos hacen referencia a los bienes tangibles e intangibles, capacidades y demás recursos que tienen las personas o pueden acceder a ellos para alcanzar sus objetivos de medios de vida. Están representados en un pentágono que simboliza el nivel de acceso que tienen las personas a estos. Lo ideal es encontrar el pentágono simétrico, lo que indicaría un acceso equilibrado en los cinco tipos de capitales [@fao2015].
 
@@ -222,11 +214,7 @@ La gestión de los sistemas de producción animal en la respuesta a emergencias 
 **Gestión medioambiental**\index{Gestión medioambiental de los animales de producción}: La gestión de los animales en la respuesta a desastres puede ayudar a minimizar el impacto medioambiental, principalmente si el escenario ha provocado la liberación de materiales peligrosos [@wap2023].
 
 ::: {#caja3 .callout-important style="background-color: #e3f0fbff; border-left: 4px solid #d4e8f9ff;" appearance="minimal" icon="false"}
-<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;">
-
-Caja 3. Definiciones
-
-</h2>
+<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;"> Caja 3. Definiciones </h2>
 
 **Zoonosis.**\index{Zoonosis} Una zoonosis es una enfermedad infecciosa que ha pasado de un animal a humanos. Los patógenos zoonóticos pueden ser bacterias, virus, parásitos o agentes no convencionales y propagarse a los humanos por contacto directo o a través de los alimentos, el agua o el medio ambiente. Representan un importante problema de salud pública en todo el mundo debido a nuestra estrecha relación con los animales en el medio agrícola, la vida cotidiana (animales de compañía) y el entorno natural. Las zoonosis también pueden causar alteraciones en la producción y el comercio de productos de origen animal destinados a la alimentación y otros usos.
 
@@ -310,11 +298,7 @@ Incorporando el componente de los animales de producción en las matrices y mapa
 Concienciación sobre la preparación ante desastres para el sector de los animales de granja, a las comunidades y propietarios de animales, manejo de los desastres, rescate técnico de animales, servicios veterinarios, provisión de agua y alimento, asentamientos para animales, reducción de animales y reconstitución de activos ganaderos clave [@legs2023].
 
 ::: {#caja4 .callout-important style="background-color: #e3f0fbff; border-left: 4px solid #d4e8f9ff;" appearance="minimal" icon="false"}
-<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;">
-
-Caja 4. Guía LEGS para intervenciones ganaderas\index{Guía LEGS para intervenciones ganaderas}
-
-</h2>
+<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;"> Caja 4. Guía LEGS para intervenciones ganaderas\index{Guía LEGS para intervenciones ganaderas} </h2>
 
 Las normas y directrices para intervenciones ganaderas en emergencias son un conjunto de directrices y normas internacionales para el diseño, la ejecución y la evaluación de las intervenciones ganaderas para ayudar a personas afectadas por crisis humanitarias. LEGS por sus siglas en inglés, se basa en tres objetivos centrados en medios de subsistencia: proporcionar asistencia rápida, proteger activos ganaderos y reconstituir los activos ganaderos en comunidades afectadas LEGS, que apoya la salvación de vidas como de medios de subsistencia mediante estrategias claves.
 
@@ -357,11 +341,7 @@ La evaluación inicial es el primer paso en una emergencia que se realiza para e
 Los recursos alimentarios son necesarios cuando la caída de ceniza destruye los pastos, suministrar al ganado todo su alimento para que sobreviva a corto plazo es esencial y debe mantenerse hasta que el ganado sea evacuado o sacrificado, o hasta que se restablezcan los pastos. Esto resulta costoso de mantener durante largos periodos de tiempo y el acceso para el suministro de alimento adicional puede verse reducido. Incluso con lluvias de cenizas muy ligeras que no destruyan los pastos existentes, puede ser necesario proporcionar a los animales alimento no contaminado. Por ejemplo, si la ceniza contiene un alto nivel de flúor absorbido en las diminutas partículas y el ganado consume tanto ceniza como flúor, existe riesgo de fluorosis [@furness2011].
 
 ::: {#caja5 .callout-important style="background-color: #e3f0fbff; border-left: 4px solid #d4e8f9ff;" appearance="minimal" icon="false"}
-<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;">
-
-Caja 5. Intoxicación del ganado por ceniza volcánica con flúor.\index{Intoxicación del ganado por ceniza volcánica con flúor}
-
-</h2>
+<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;"> Caja 5. Intoxicación del ganado por ceniza volcánica con flúor.\index{Intoxicación del ganado por ceniza volcánica con flúor} </h2>
 
 La fluorosis se genera a partir de las partículas de flúor generadas en el proceso eruptivo que se adhieren a las partículas de cenizas que son muy finas y representan una amenaza potencial para el ganado. Esto es porque constituyen una gran superficie en relación con su masa. Por lo mismo, estas pequeñas partículas pueden transportar grandes cantidades de flúor soluble a los forrajes. Por ejemplo, una fina capa de cenizas de sólo 1 mm de espesor puede contener cantidades potencialmente tóxicas de flúor que el ganado puede ingerir directamente desde la ceniza que consume junto al forraje [@cotton2004].
 :::
@@ -389,11 +369,7 @@ Se debe reconocer esta convergencia entre el papel de los animales en los escena
 Considerar la elaboración de un plan de emergencia bien elaborado es importante para cualquier instalación, clínica, sistema productivo que albergue animales. Un plan garantiza la preparación ante un desastre, salva vidas humanas y animales y ayuda a afrontar las consecuencias de un escenario de alto impacto. Informarse sobre la planificación de desastres con animales debe ser algo transversal en todo sistema productivo.
 
 ::: {#puntos-clave .callout-important style="background-color: #f8f0ddff; border-left: 4px solid #f7eed3ff;" appearance="minimal" icon="false"}
-<h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;">
-
-Puntos Clave
-
-</h2>
+<h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;"> Puntos Clave </h2>
 
 -   La acción humanitaria se centra también en tener en cuenta la importancia de mantener los medios de subsistencia ganaderos de las comunidades afectadas.
 -   El apoyo a los animales de producción en erupciones volcánicas favorece a las capacidades, activos, ingresos y actividades requeridas por las comunidades para cubrir las necesidades vitales derivadas de sus animales.
@@ -403,11 +379,7 @@ Puntos Clave
 :::
 
 ::: {#recomendaciones .callout-important style="background-color: #f8dedcff; border-left: 4px solid #fad4d1ff;" appearance="minimal" icon="false"}
-<h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;">
-
-Recomendaciones para tomar decisiones
-
-</h2>
+<h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;"> Recomendaciones para tomar decisiones </h2>
 
 -   Se deben considerar que las actividades pecuarias son un capital productivo y de mano de obra, y es allí donde los mercados laborales formales los animales de producción ayudan enormemente a proporcionar posibilidades de generación de riqueza, alimentos e ingresos.
 -   El ganado desempeña un papel fundamental en la seguridad alimentaria, por lo tanto en cada región se deben identificar los peligros originados por la actividad volcánica y/o por acciones antrópicas derivadas de estos eventos, determinar los efectos directos o indirectos sobre los sistemas de producción animal, que impacto esto genera, tener claro o estimar el número de animales y trabajar en la consolidación de información de daños y perdidas agropecuarias y que necesidades de intervenciones técnicas se necesitarían para mitigar la emergencia.

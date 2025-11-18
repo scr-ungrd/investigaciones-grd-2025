@@ -8,16 +8,14 @@ body {
   color: #333;
 }
 
-/* Exceptions: Keep Arial font for callout boxes (box1-box5, caja1-caja5, puntos-clave, preguntas, recomendaciones) and tables */
+/* Exceptions: Keep Arial font for callout boxes (box1-box5, caja1-caja5) and tables */
 #box1, #box2, #box3, #box4, #box5,
-#caja1, #caja2, #caja3, #caja4, #caja5,
-#puntos-clave, #preguntas, #recomendaciones {
+#caja1, #caja2, #caja3, #caja4, #caja5 {
   font-family: Arial, sans-serif !important;
 }
 
 #box1 *, #box2 *, #box3 *, #box4 *, #box5 *,
-#caja1 *, #caja2 *, #caja3 *, #caja4 *, #caja5 *,
-#puntos-clave *, #preguntas *, #recomendaciones * {
+#caja1 *, #caja2 *, #caja3 *, #caja4 *, #caja5 * {
   font-family: Arial, sans-serif !important;
 }
 
@@ -238,21 +236,36 @@ table > thead > tr > td {
   font-weight: 600;
 }
 
-/* Callout boxes styling (box1-box5, caja1-caja5, puntos-clave, preguntas, recomendaciones) - Arial font */
+/* Callout boxes styling - Arial font for box/caja, Source Sans Pro for puntos-clave/preguntas/recomendaciones */
 #box1, #box2, #box3, #box4, #box5,
-#caja1, #caja2, #caja3, #caja4, #caja5,
-#puntos-clave, #preguntas, #recomendaciones {
+#caja1, #caja2, #caja3, #caja4, #caja5 {
   font-family: Arial, sans-serif !important;
   font-size: 13px;
 }
 
-/* Headers in callout boxes - keep at 13px */
+/* Remove extra spacing from all callout boxes */
+#box1, #box2, #box3, #box4, #box5,
+#caja1, #caja2, #caja3, #caja4, #caja5,
+#puntos-clave, #preguntas, #recomendaciones {
+  padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
+}
+
+/* Headers in callout boxes - remove all margins */
 #box1 h2, #box2 h2, #box3 h2, #box4 h2, #box5 h2,
 #caja1 h2, #caja2 h2, #caja3 h2, #caja4 h2, #caja5 h2,
 #puntos-clave h2, #preguntas h2, #recomendaciones h2 {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+/* Specific styling for box/caja headers */
+#box1 h2, #box2 h2, #box3 h2, #box4 h2, #box5 h2,
+#caja1 h2, #caja2 h2, #caja3 h2, #caja4 h2, #caja5 h2 {
   font-family: Arial, sans-serif !important;
   font-size: 13px;
-  margin-bottom: 0 !important;
 }
 
 /* Body text in box/caja callouts - increased by 20% to 15px */
@@ -266,13 +279,17 @@ table > thead > tr > td {
   font-size: 15px;
 }
 
-/* Body text in puntos-clave, preguntas, recomendaciones - keep at 13px */
-#puntos-clave ul, #puntos-clave li, #puntos-clave p,
-#preguntas ul, #preguntas li, #preguntas p,
-#recomendaciones ul, #recomendaciones li, #recomendaciones p {
-  font-family: Arial, sans-serif !important;
-  font-size: 13px;
+/* Remove top margin from first paragraph/element after header in all callout boxes */
+#box1 h2 + p, #box2 h2 + p, #box3 h2 + p, #box4 h2 + p, #box5 h2 + p,
+#caja1 h2 + p, #caja2 h2 + p, #caja3 h2 + p, #caja4 h2 + p, #caja5 h2 + p,
+#puntos-clave h2 + p, #preguntas h2 + p, #recomendaciones h2 + p,
+#box1 h2 + ul, #box2 h2 + ul, #box3 h2 + ul, #box4 h2 + ul, #box5 h2 + ul,
+#caja1 h2 + ul, #caja2 h2 + ul, #caja3 h2 + ul, #caja4 h2 + ul, #caja5 h2 + ul,
+#puntos-clave h2 + ul, #preguntas h2 + ul, #recomendaciones h2 + ul {
+  margin-top: 0.5rem !important;
 }
+
+/* Body text in puntos-clave, preguntas, recomendaciones - use main text size with Source Sans Pro */
 
 #box1 ul, #box2 ul, #box3 ul, #box4 ul, #box5 ul,
 #caja1 ul, #caja2 ul, #caja3 ul, #caja4 ul, #caja5 ul,
@@ -298,11 +315,22 @@ figcaption .caption-number,
   font-weight: bold !important;
 }
 
-/* Table caption alignment - left justified */
+/* Table caption styling - match figure caption formatting */
 .quarto-float-tbl .quarto-float-caption,
 table caption,
 .tbl-cap {
   text-align: left !important;
+  color: #000000 !important;
+  font-weight: normal;
+  font-family: Arial, sans-serif !important;
+  line-height: 1.3 !important;
+}
+
+/* Make "Tabla X:" bold in table captions */
+.quarto-float-tbl .quarto-float-caption .caption-number,
+table caption .caption-number,
+.tbl-cap .caption-number {
+  font-weight: bold !important;
 }
 
 /* Fix bibliography display issue */
