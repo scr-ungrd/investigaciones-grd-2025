@@ -6,6 +6,7 @@ book:
   title: "Investigaciones en Gestión del Riesgo de Desastres para Colombia. Enfoque Comunitario, Territorial y Animal"
   editor: "Comisión Nacional Asesora para la Investigación en Gestión del Riesgo de Desastres"
   date: "12-01-2025"
+  cover-image: cover.png
   chapters:
     - text: "Página legal"
       href: Pagina-legal.qmd
@@ -50,6 +51,9 @@ format:
     geometry: margin=1in
     keep-tex: true
     prefer-html: true
+    number-sections: true
+    top-level-division: chapter
+    shift-heading-level-by: -1
     include-in-header:
       - text: |
           \usepackage{makeidx}
