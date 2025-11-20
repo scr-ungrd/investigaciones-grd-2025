@@ -15,6 +15,7 @@ author:
   - name: Esneider Zapata ^1^
     orcid: 0000-0003-3040-1158
 date: "12-01-2025"
+doi: "10.5281/zenodo.17650160"
 title-block-banner: bannerc1.png
 title-block-banner-color: "white"
 css:
@@ -69,7 +70,11 @@ Los habitantes de Colombia enfrentan una creciente exposición a amenazas deriva
 Este estudio de naturaleza cualitativa tiene como objetivo analizar el desarrollo de capacidades de dos comunidades del Valle de Aburrá antes y después de su participación en estrategias de ASC lideradas por el proyecto SIATA, tales como los Sistemas de Alerta Temprana Comunitaria y Semilleros de Ciudadanos Científicos.
 
 ::: {#box1 .callout-important style="background-color: #e3f0fbff; border-left: 4px solid #d4e8f9ff;" appearance="minimal" icon="false"}
-<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;"> Caja 1. Ciencia y desarrollo local al servicio de la ciudadanía </h2>
+<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;">
+
+Caja 1. Ciencia y desarrollo local al servicio de la ciudadanía
+
+</h2>
 
 Durante más de 10 años, la experiencia del proyecto SIATA en el Valle de Aburrá ha permitido a la ciudadanía contar con una herramienta de monitoreo\index{Monitoreo} en tiempo real para comprender los fenómenos amenazantes a través de la investigación de las variables ambientales y del desarrollo de tecnologías adaptadas al territorio. SIATA brinda a la ciudadanía y los actores clave en la gestión del riesgo de desastres la capacidad de tomar decisiones oportunas ante la posible materialización de un evento. A su vez, la ASC es fundamental en el proyecto al fomentar la democratización de la ciencia y el empoderamiento ciudadano.
 
@@ -89,7 +94,11 @@ En el contexto climático de la región andina colombiana, donde se ubica el Val
 El Valle de Aburrá cambia rápidamente de temporadas lluviosas a secas, lo que genera la necesidad de un monitoreo holístico de los eventos extremos de precipitación\index{Eventos extremos de precipitación} en sus colas probabilísticas según características asociadas a la intensidad, acumulado, duración, y la existencia de rachas de sequía. No obstante, el estudio de eventos de precipitación extremos requiere un análisis que va más allá de comprender las temporadas secas o lluviosas. En la @fig-eventos-extremos se presenta el número de ocurrencias estandarizadas por cantidad de estaciones de eventos de precipitación extremos a lo largo de la historia de la red pluviométrica del AMVA desde 2012.
 
 ::: {#box2 .callout-important style="background-color: #e3f0fbff; border-left: 4px solid #d4e8f9ff;" appearance="minimal" icon="false"}
-<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;"> Caja 2: ¿Qué es un evento de precipitación extremo\index{Evento de precipitación extremo}? </h2>
+<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;">
+
+Caja 2: ¿Qué es un evento de precipitación extremo\index{Evento de precipitación extremo}?
+
+</h2>
 
 **Evento meteorológico extremo**\index{Evento meteorológico extremo}: Se refiere a un evento que es inusual en un lugar y época del año determinados. Las definiciones de "inusual" pueden variar, pero normalmente se considera un evento meteorológico extremo aquel cuya ocurrencia es tan rara como, o más rara que, el percentil 10 o 90 de una función de densidad de probabilidad estimada a partir de observaciones. Por definición, las características de lo que se denomina meteorología extrema varian de un lugar a otro en un sentido absoluto [@ipcc2012].
 :::
@@ -151,7 +160,11 @@ Es una estrategia para niños, niñas y jóvenes que promueve la investigación 
 Después de concluir el proceso de formación, se realiza un acompañamiento para orientar la investigación y la forma de trabajo de los estudiantes y profesores en el semillero. Esta estrategia se desarrolla a partir de tres etapas: semillero general, semillero específico y semillero de investigación. Cada una promueve la participación activa de los estudiantes y profesores, el trabajo en equipo y la aplicación práctica de los conceptos aprendidos, contribuyendo así al desarrollo de habilidades clave en el ámbito de la GRD en el territorio metropolitano. En la @fig-metodologia-scc se presenta un resumen de la metodología y los objetivos de los semilleros de ciudadanos científicos.
 
 ::: {#box3 .callout-important style="background-color: #e3f0fbff; border-left: 4px solid #d4e8f9ff;" appearance="minimal" icon="false"}
-<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;"> Caja 3: Así como semilleros de ciudadanos científicos\index{Semilleros de ciudadanos científicos} , existen otras estrategias que se abordan desde la línea educativa del proyecto, estas son: </h2>
+<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;">
+
+Caja 3: Así como semilleros de ciudadanos científicos\index{Semilleros de ciudadanos científicos} , existen otras estrategias que se abordan desde la línea educativa del proyecto, estas son:
+
+</h2>
 
 **Red de Educadores Científicos (REC).** Es una estrategia\index{Red de Educadores Científicos} que busca articular el conocimiento científico local para la GRD en diferentes contextos del Valle de Aburrá, a partir de actores sociales interesados por la educación. Esta se encuentra conformada por educadores del contexto educativo formal e informal; participan profesores de educación básica, profesores universitarios, organismos de socorro y otros ciudadanos que ejercen prácticas educativas en diferentes contextos. Con esta comunidad se genera una interacción continua y un diálogo de saberes con el fin de fortalecer y mejorar los procesos de enseñanza y aprendizaje basados en la ciencia local.
 
@@ -171,7 +184,11 @@ Además, promueven la educación y la comprensión de los riesgos, empoderando a
 ![Fases del proceso formativo del SATC.](images/capitulo1/fases-satc.png){#fig-fases-satc width="600"}
 
 ::: {#box4 .callout-important style="background-color: #e3f0fbff; border-left: 4px solid #d4e8f9ff;" appearance="minimal" icon="false"}
-<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;"> Caja 4. Estrategia social y cifras del proyecto. </h2>
+<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;">
+
+Caja 4. Estrategia social y cifras del proyecto.
+
+</h2>
 
 La estrategia social del proyecto comprende además de los SATC, otros públicos con quienes se realiza el proceso formativo en temas científicos y de articulación en aspectos relacionados con la GRD. Estos son:
 
@@ -201,7 +218,11 @@ La Comunidad 1 se ubica en un sector de estrato socioeconómico tres, la mayorí
 Con esta comunidad se realizó todo el proceso formativo mediante talleres de reconocimiento y socialización del proyecto SIATA, entre los cuales destacan actividades como imaginarios de la quebrada y su mapa, protocolo de emergencia, monitoreo, apropiación digital, simulación, simulacro, evaluación y cierre. El proceso formativo se llevó a cabo en la sede de la Junta de Acción Comunal (JAC) del barrio, los talleres se realizaron cada semana atendiendo la demanda de los habitantes, lo que resultó en un total de ocho sesiones.
 
 ::: {#box5 .callout-important style="background-color: #e3f0fbff; border-left: 4px solid #d4e8f9ff;" appearance="minimal" icon="false"}
-<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;"> Caja 5: Objetivos de encuentros de SATC </h2>
+<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;">
+
+Caja 5: Objetivos de encuentros de SATC
+
+</h2>
 
 **Reconocimiento y socialización SIATA:** Dar a conocer que es un Sistema de Alerta Temprana Comunitaria SATC, funciones e importancia y generalidades del proyecto SIATA.\index{Reconocimiento y socialización SIATA}
 
@@ -425,7 +446,11 @@ La comunicación, la preparación y la respuesta\index{Comunicación, preparaci�
 En el contexto de la gobernanza en la gestión del riesgo de desastres, la participación ciudadana ha sido fundamental. Las comunidades mostraron interés en formarse, reflejando su compromiso con los riesgos ambientales y climáticos. Su participación en las actividades educativas no solo fortaleció sus conocimientos, sino que también permitió adaptarlos a sus realidades locales. Aunque ya tenían una actitud participativa, el acompañamiento del proyecto potenció sus capacidades, aumentó la percepción del riesgo y promovió nuevos espacios de preparación comunitaria.
 
 ::: {#puntos-clave .callout-important style="background-color: #f8f0ddff; border-left: 4px solid #f7eed3ff;" appearance="minimal" icon="false"}
-<h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;"> Puntos Clave </h2>
+<h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;">
+
+Puntos Clave
+
+</h2>
 
 1.  Los procesos de ASC no son solo metodologías y actividades pensadas desde las instituciones. Estas deben ser validadas y puestas a prueba a través de la investigación social, para buscar siempre cómo mejorar y tener herramientas cada vez más valiosas para crear nuevas metodologías.
 
@@ -435,7 +460,11 @@ En el contexto de la gobernanza en la gestión del riesgo de desastres, la parti
 :::
 
 ::: {#recomendaciones .callout-important style="background-color: #f8dedcff; border-left: 4px solid #fad4d1ff;" appearance="minimal" icon="false"}
-<h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;"> Recomendaciones para tomar decisiones </h2>
+<h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;">
+
+Recomendaciones para tomar decisiones
+
+</h2>
 
 1.  Este trabajo es una de las primeras investigaciones que abordan procesos educativos y sociales que desarrolla el proyecto SIATA. Se requieren estudios con otras comunidades que hacen parte de los procesos de ASC e investigar ámbitos que extiendan los resultados del proyecto en la resiliencia de los habitantes de la región metropolitana.
 

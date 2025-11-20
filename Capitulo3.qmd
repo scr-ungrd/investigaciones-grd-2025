@@ -405,7 +405,11 @@ Como hemos demostrado en esta contribución, las herramientas pertinentes de map
 Las más importantes lecciones aprendidas en el proceso expuesto se sintetizan a continuación.
 
 ::: {#puntos-clave .callout-important style="background-color: #f8f0ddff; border-left: 4px solid #f7eed3ff;" appearance="minimal" icon="false"}
-<h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;"> Puntos Clave </h2>
+<h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;">
+
+Puntos Clave
+
+</h2>
 
 1.  La definición conjunta, intersectorial e integral de la situación a tratar, así como los problemas a priorizar y sus diferentes dimensiones, requiere la construcción inicial de un proceso integral de co-formulación del problema, centrado en la comunidad. Este proceso no debe estar limitado a los mecanismos tradicionales de consulta, sino que debe permitir a los sectores expresar y desarrollar sus perspectivas en un mismo plano. El problema y los ángulos a tratar provienen de esta co-construcción.
 2.  La gobernanza efectiva de los datos, junto con una colaboración activa entre todos los actores involucrados, resulta esencial para optimizar recursos y garantizar la sostenibilidad a largo plazo en la reducción y gestión del riesgo de desastres. Esto requiere el diagnóstico e identificación clara de las necesidades técnicas y de datos, así como de los enfoques de cada sector participante, y la definición del camino más óptimo para la gestión de información con una visión a largo plazo.
@@ -418,7 +422,11 @@ Las más importantes lecciones aprendidas en el proceso expuesto se sintetizan a
 :::
 
 ::: {#preguntas .callout-important style="background-color: #f3eaf8ff; border-left: 4px solid #efe3f7ff;" appearance="minimal" icon="false"}
-<h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;"> Preguntas por resolver </h2>
+<h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;">
+
+Preguntas por resolver
+
+</h2>
 
 1.  ¿Qué actores son los actores pertinentes en la gobernanza del problema de interés?
 2.  ¿Cómo se puede garantizar la participación inclusiva y representativa de un conjunto amplio y diverso de los miembros de la comunidad en el proceso de mapeo y monitoreo?

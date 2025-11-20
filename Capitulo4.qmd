@@ -67,7 +67,11 @@ Aquí presentamos la evaluación de la resiliencia comunitaria multitemporal ent
 Actualmente, la Comuna 10 donde se ubica el barrio Villa Carola, presenta múltiples amenazas socio-naturales por deslizamientos y amenazas tecnológicas por actividades industriales, transporte de hidrocarburos a partir de infraestructura como poliductos y gasoductos, transporte de sustancias peligrosas a partir de vehículos cisterna, aglomeración de público, entre otras.
 
 ::: {#box1 .callout-important style="background-color: #e3f0fbff; border-left: 4px solid #d4e8f9ff;" appearance="minimal" icon="false"}
-<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;"> Caja 1. Desastre tecnológico en la Comuna 10 de Dosquebradas\index{Desastre tecnológico en la Comuna 10 de Dosquebradas} en el año 2011\index{Dosquebradas (municipio)}. </h2>
+<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;">
+
+Caja 1. Desastre tecnológico en la Comuna 10 de Dosquebradas\index{Desastre tecnológico en la Comuna 10 de Dosquebradas} en el año 2011\index{Dosquebradas (municipio)}.
+
+</h2>
 
 El 23 de diciembre de 2011 ocurrió en la Comuna 10 de Dosquebradas una de las tragedias más graves asociadas a riesgo tecnológico en Colombia. Una fuga de combustible en el poliducto Puerto Salgar--Cartago descendió por la quebrada Aguazul y al entrar en contacto con una fuente de calor, desencadenó una serie de explosiones. El evento afectó principalmente a los barrios Villa Carola, La Divisa, La Romelia en la Comuna 10 del municipio, dejando 33 personas fallecidas, 110 heridas, más de cien viviendas afectadas y 38 destruidas, además de pérdidas en establecimientos comerciales.
 
@@ -93,7 +97,11 @@ En la @fig-mapa-dosquebradas se visualiza la localización de la Comuna 10 del m
 Se utilizó la herramienta ARC-D para medir la resiliencia comunitaria\index{Medir la resiliencia comunitaria} ante desastres desarrollada por la organización GOAL (<https://www.goalglobal.org>). Esta herramienta tiene un enfoque mixto, con elementos cualitativos y cuantitativos. El enfoque cualitativo hace referencia a la interacción con la comunidad de los territorios, con los cuales se recoge la información desde una perspectiva social y comunitaria, a través de un instrumento tipo encuesta de 30 preguntas ([Caja 2](#caja2)), las cuales cuentan con instrumentos de verificación. El enfoque cuantitativo se refiere al procesamiento de los datos y permite obtener gráficos de red para la sistematización y presentación de la información de tipo numérico y jerárquico. La herramienta cuenta con dos etapas. Una etapa A que realiza un diagnóstico general de la comunidad y una etapa B, que se enfoca en las preguntas de evaluación en el grupo focal ([Caja 2](#caja2)). De acuerdo con GOAL , esta herramienta se construye de acuerdo al trabajo en resiliencia ante desastres [@herramie2015] comprende dos etapas ([Caja 2](#caja2)).
 
 ::: {#caja2 .callout-important style="background-color: #e3f0fbff; border-left: 4px solid #d4e8f9ff;" appearance="minimal" icon="false"}
-<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;"> Caja 2. Etapas de la herramienta ARC-D de GOAL y glosario de términos </h2>
+<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;">
+
+Caja 2. Etapas de la herramienta ARC-D de GOAL y glosario de términos
+
+</h2>
 
 ![**Componentes herramienta ARC-D**\index{Herramienta de evaluación de resiliencia comunitaria}. La herramienta de evaluación de la resiliencia comunitaria, establecida por GOAL, evalúa cuatro áreas temáticas que conforman 30 componentes. La evaluación produce cinco niveles o categorías que describen condiciones desde la mínima hasta la alta resiliencia, de acuerdo con la percepción del grupo focal evaluado](images/capitulo4/Figura%202.%20Componentes%20herramienta%20ARC-D..png){width="500"}
 
@@ -135,7 +143,11 @@ Finalmente, la cuarta área temática se dedica a mejorar la preparación ante d
 Los componentes de las áreas temáticas de la evaluación de resiliencia comunitaria se evalúan según los parámetros de resiliencia establecidos por GOAL ([Caja 2](#caja2)). En la ([Caja 3](#caja3)) se presentan los términos relacionados con el riesgo tecnológico, los cuales se mencionan en el Plan Municipal de Gestión del Riesgo de Desastres en su componente programático.
 
 ::: {#caja3 .callout-important style="background-color: #e3f0fbff; border-left: 4px solid #d4e8f9ff;" appearance="minimal" icon="false"}
-<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;"> Caja 3. Glosario de términos relacionados con el riesgo tecnológico [@planmun2020]. </h2>
+<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;">
+
+Caja 3. Glosario de términos relacionados con el riesgo tecnológico [@planmun2020].
+
+</h2>
 
 -   **Accidente tecnológico**\index{Accidente tecnológico}: eventos generados por el uso y acceso a la tecnología, originados por eventos antrópicos, naturales, socio-naturales y propios de la operación. Comprende fugas, derrames, incendios y explosiones asociados a la liberación súbita de sustancias y/o energías con características de peligrosidad. Usualmente, se suelen asociar los accidentes tecnológicos exclusivamente con las instalaciones industriales o equipamientos de alta tecnología. No obstante, la experiencia de accidentabilidad deja entrever muchos eventos en el sector residencial y a nivel de obras civiles.
 
@@ -801,7 +813,11 @@ En síntesis, la evaluación multitemporal de la resiliencia comunitaria mediant
 ```
 
 ::: {#puntos-clave .callout-important style="background-color: #f8f0ddff; border-left: 4px solid #f7eed3ff;" appearance="minimal" icon="false"}
-<h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;"> Puntos Clave </h2>
+<h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;">
+
+Puntos Clave
+
+</h2>
 
 -   En 2011 la resiliencia comunitaria frente a riesgo tecnológico en la Comuna 10 era baja, lo que agravó los impactos del desastre presentado en la explosión.
 
@@ -811,7 +827,11 @@ En síntesis, la evaluación multitemporal de la resiliencia comunitaria mediant
 :::
 
 ::: {#recomendaciones .callout-important style="background-color: #f8dedcff; border-left: 4px solid #fad4d1ff;" appearance="minimal" icon="false"}
-<h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;"> Recomendaciones para tomar decisiones </h2>
+<h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;">
+
+Recomendaciones para tomar decisiones
+
+</h2>
 
 -   Replicar la aplicación de la herramienta ARC-D en otros municipios para evaluar y fortalecer la resiliencia comunitaria frente a riesgos tecnológicos.
 -   Incluir el riesgo tecnológico de forma explícita en los planes de gestión del riesgo y en los instrumentos de planificación territorial.
