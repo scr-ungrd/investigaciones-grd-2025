@@ -9,6 +9,9 @@ book:
   cover-image: cover.png
   repo-url: https://github.com/scr-ungrd/investigaciones-grd-2025
   repo-actions: [source, issue]
+  sidebar:
+    style: floating
+    collapse-level: 1
   chapters:
     - text: "Página legal"
       href: Pagina-legal.qmd
@@ -43,6 +46,7 @@ format:
     toc: true
     number-sections: false
     reference-location: block
+    logo: cover.png
     css:
       - custom.css
       - pdf-styles.css
