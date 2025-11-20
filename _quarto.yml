@@ -7,6 +7,8 @@ book:
   editor: "Comisión Nacional Asesora para la Investigación en Gestión del Riesgo de Desastres"
   date: "12-01-2025"
   cover-image: cover.png
+  repo-url: https://github.com/scr-ungrd/investigaciones-grd-2025
+  repo-actions: [source, issue]
   chapters:
     - text: "Página legal"
       href: Pagina-legal.qmd
