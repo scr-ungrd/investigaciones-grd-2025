@@ -32,9 +32,9 @@ book:
 
 lang: es
 
+bibliography: all-references.bib
 csl: vancouver-apa-hybrid.csl
 link-citations: true
-bibliography-location: chapter
 
 crossref:
   fig-prefix: "Figura"
