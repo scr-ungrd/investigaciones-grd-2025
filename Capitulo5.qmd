@@ -10,6 +10,7 @@ author:
     orcid: 0009-0009-2178-8400 
 
 date: "12-01-2025"
+doi: "10.5281/zenodo.17673444"
 title-block-banner: bannerc1.png
 title-block-banner-color: "white"
 css:

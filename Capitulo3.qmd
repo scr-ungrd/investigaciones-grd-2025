@@ -12,6 +12,7 @@ author:
     affiliation: "Geógrafa, Maestra en Urbanismo y Ordenamiento Territorial, Université Paris-Est/Sorbonne, París, Francia"
     google-scholar: 7QSDAcQAAAAJ
 date: "12-01-2025"
+doi: "10.5281/zenodo.17673402"
 title-block-banner: bannerc1.png
 title-block-banner-color: "white"
 css:
