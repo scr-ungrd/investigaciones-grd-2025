@@ -40,6 +40,8 @@ format:
     colorlinks: true
     keep-tex: true
 bibliography: capitulo1-references.bib
+csl: vancouver-apa-hybrid.csl
+link-citations: true
 
 crossref:
   fig-prefix: "Figura"
