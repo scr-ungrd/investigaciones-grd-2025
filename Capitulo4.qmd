@@ -4,8 +4,9 @@ author:
   - name: Evelin Langebeck Cuéllar
     orcid: 0000-0003-2243-0899
   - name: Nicolás Giraldo Hernández
-date: "2025"
+date: "12-01-2025"
 doi: "10.5281/zenodo.17673426"
+abstract: "La resiliencia comunitaria es la capacidad de una población a enfrentar, responder y adaptarse a emergencias y desastres manteniendo su estructura básica, función e identidad. Sin embargo, la resiliencia comunitaria ante eventos tecnológicos ha sido escasamente estudiada en Colombia. Aquí se mide y evalúa la resiliencia comunitaria ante desastres empleando la aplicación de la herramienta ARC-D en una población del municipio de Dosquebradas (barrio Villa Carola) dónde en 2011 ocurrió un proceso de remoción en masa que desencadenó un derrame de hidrocarburos generando la pérdida de 33 vidas debido a una explosión y desbordando las capacidades de respuesta del municipio. Seguimos una metodología con enfoque cualitativo para la interacción comunidad-territorio y una con enfoque cuantitativo para el procesamiento de datos. Para la discusión comunitaria se empleó un instrumento tipo encuesta medida por grupo focal con facilitador, en la que se evaluaron cuatro áreas temáticas. La aplicación de la herramienta tuvo un diagnóstico de resiliencia previo y una prueba piloto de ajuste al grupo focal. Encontramos un nivel bajo de resiliencia para el año (2011) con un mayor énfasis en la baja comprensión del riesgo, contrario al componente más alto que corresponde a cohesión social en el territorio. El año (2021) registró un nivel de mediana resiliencia con mejores resultados en el fortalecimiento de la gobernanza para gestionar el riesgo de desastres, reflejado en su componente destacado, que fue la participación de las mujeres. Concluimos que en la Comuna 10 de Dosquebradas mejoró sus capacidades de resiliencia comunitaria ante desastres por riesgo tecnológico de 30,08% a 60,18%, destacando el aumento de la participación comunitaria, la organización social y la apropiación de la cultura de la prevención del riesgo."
 title-block-banner: bannerc1.png
 title-block-banner-color: "white"
 css:
@@ -16,6 +17,19 @@ format:
     theme: cosmo
     toc: true
     number-sections: false
+    include-in-header:
+      - text: |
+          <meta name="citation_title" content="Evaluación Multitemporal de la Resiliencia Comunitaria ante Eventos Tecnológicos en la Comuna 10 del Municipio de Dosquebradas">
+          <meta name="citation_author" content="Langebeck Cuéllar, Evelin">
+          <meta name="citation_author" content="Giraldo Hernández, Nicolás">
+          <meta name="citation_publication_date" content="2025/01/12">
+          <meta name="citation_journal_title" content="Investigaciones en Gestión del Riesgo de Desastres para Colombia. Enfoque Comunitario, Territorial y Animal">
+          <meta name="citation_publisher" content="Unidad Nacional para la Gestión del Riesgo de Desastres - UNGRD">
+          <meta name="citation_doi" content="10.5281/zenodo.17673426">
+          <meta name="citation_pdf_url" content="https://scr-ungrd.github.io/investigaciones-grd-2025/Capitulo4.pdf">
+          <meta name="citation_abstract_html_url" content="https://scr-ungrd.github.io/investigaciones-grd-2025/Capitulo4.html">
+          <meta name="citation_language" content="es">
+          <meta name="citation_keywords" content="community resilience; technological risk; ARC-D tool; disaster risk management; multi-temporal resilience; risk perception">
   pdf:
     documentclass: article
     geometry: margin=1in
