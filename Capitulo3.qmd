@@ -1,5 +1,5 @@
 ---
-title: "3. Gestión del Riesgo de Desastres Comunitario a través de Cartografía Participativa y Tecnologías Abiertas en San José del Prado, Colombia"
+title: "3. Gestión del Riesgo de Desastres Comunitario a través de Cartografía Participativa y Tecnologías Abiertas en San Antonio del Prado, Colombia"
 author: 
   - name: Yessica De los ríos Olarte
     orcid: https://orcid.org/0009-0009-1797-3451
@@ -35,7 +35,7 @@ format:
     number-sections: false
     include-in-header:
       - text: |
-          <meta name="citation_title" content="Gestión del Riesgo de Desastres Comunitario a través de Cartografía Participativa y Tecnologías Abiertas en San José del Prado, Colombia">
+          <meta name="citation_title" content="Gestión del Riesgo de Desastres Comunitario a través de Cartografía Participativa y Tecnologías Abiertas en San Antonio del Prado, Colombia">
           <meta name="citation_author" content="De los ríos Olarte, Yessica">
           <meta name="citation_author" content="Prada Uribe, Ana Milena">
           <meta name="citation_author" content="Jacquin, Céline">

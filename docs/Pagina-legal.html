@@ -88,6 +88,11 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 });
 </script>
+<meta name="citation_book_title" content="Investigaciones en Gestión del Riesgo de Desastres para Colombia. Enfoque Comunitario, Territorial y Animal">
+<meta name="citation_publisher" content="Unidad Nacional para la Gestión del Riesgo de Desastres - UNGRD">
+<meta name="citation_publication_date" content="2025/01/12">
+<meta name="citation_language" content="es">
+<meta name="robots" content="index, follow">
 
 
 <link rel="stylesheet" href="custom.css">
@@ -311,7 +316,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/scr-ungrd\.github\.io\/investigaciones-grd-2025");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
