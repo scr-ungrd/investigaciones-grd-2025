@@ -9,7 +9,7 @@ author:
     affiliation: "^2^ Facultad de Ciencias Agrarias, Fundación Universitaria Agraria de Colombia, Calle 170 # 54a–10, Bogotá D.C., Colombia"
     orcid: 0009-0009-2178-8400 
 
-date: "12-01-2025"
+date: "2025-12-03"
 doi: "10.5281/zenodo.17673444"
 abstract: "Las laderas volcánicas son zonas fértiles ideales para la agricultura y ganadería, pero se exponen a erupciones volcánicas que pueden generar graves impactos en los pequeños productores, afectando sus medios de subsistencia. Los animales sufren consecuencias crónicas como enfermedades, inanición o muerte por ingesta de ceniza, lo que amenaza la seguridad alimentaria y la salud pública. Las erupciones volcánicas pueden provocar abandono, enfermedades y mortalidad animal por falta de planes de gestión de riesgos. La solución es implementar sistemas integrales que prioricen el bienestar animal y la protección de medios de vida. Existe un vacío en la aplicación de políticas locales que integren prevención, respuesta y rehabilitación. Apropiar y conocer la temática asociada a la gestión de riesgos desastres para proteger al ganado antes, durante y después de erupciones volcánicas promueve la subsistencia de los agricultores. Se realiza a través de un enfoque multidimensional que incluye: 1) Prevención: capacitación y medidas de contingencia (alimentación segura, refugios); 2) Respuesta: protocolos de respuesta a emergencias y procedimientos estandarizados de atención; 3) Rehabilitación: restauración de sistemas de producción y salud animal. Se basará en políticas públicas coordinadas y participación comunitaria. Reducción de la mortalidad animal, mitigación de pérdidas económicas y mejora en la resiliencia de los productores. La sensibilización y formación garantizarían una respuesta efectiva. Es urgente integrar el bienestar animal en los planes de gestión de desastres, con políticas públicas que fomenten la preparación comunitaria y la cooperación interinstitucional."
 keywords:
@@ -35,7 +35,8 @@ format:
           <meta name="citation_title" content="Gestión del Riesgo Volcánico con Animales de Producción">
           <meta name="citation_author" content="Hernández Pulido, Diego">
           <meta name="citation_author" content="Lema Vélez, Julia Inés">
-          <meta name="citation_publication_date" content="2025/01/12">
+          <meta name="citation_publication_date" content="2025/12/03">
+          <meta name="citation_online_date" content="2025/12/03">
           <meta name="citation_journal_title" content="Investigaciones en Gestión del Riesgo de Desastres para Colombia. Enfoque Comunitario, Territorial y Animal">
           <meta name="citation_publisher" content="Unidad Nacional para la Gestión del Riesgo de Desastres - UNGRD">
           <meta name="citation_doi" content="10.5281/zenodo.17673444">

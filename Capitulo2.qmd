@@ -8,7 +8,7 @@ author:
     email: "wgaviria@umanizales.edu.co"
   - name: Lina Andrea Zambrano-Hernández ^1^
     orcid: 0000-0002-6151-9148
-date: "12-01-2025"
+date: "2025-12-03"
 doi: "10.5281/zenodo.17673252"
 abstract: "En Colombia, la gestión del riesgo de desastres ha reflejado la subalternización histórica de las voces comunitarias al percibir la diferencia cultural como un obstáculo en lugar de una potencialidad. Este reflejo es posible en tanto se ha sostenido un orden social que privilegia la homogenización por encima de las realidades situadas. Para reconfigurar esta práctica relacional, es prioritario reconocer la riqueza inherente a las comunidades. Dada la constante exposición del país a fenómenos naturales, un enfoque que trascienda la recopilación de datos es fundamental. Este estudio abordó las posibilidades de articulación del enfoque etnodiferencial en la Gestión del Riesgo de Desastres (GRD) en Colombia. Para ello, se desarrolló una investigación de corte cualitativo que incluyó la realización de seis grupos focales y catorce entrevistas a profundidad con representantes comunitarios e institucionales. Estos instrumentos permitieron explorar la diversidad de perspectivas sobre el desastre y facilitaron el surgimiento de conocimientos arraigados en el diálogo y la interacción, visibilizando las voces históricamente silenciadas. El principal hallazgo implica reconocer que desmantelar la noción de subalternidad y adoptar una visión diversa no solo conduce a una reducción del sufrimiento, sino que también promueve la justicia, la dignidad y el reconocimiento de todas las voces."
 keywords:
@@ -34,7 +34,8 @@ format:
           <meta name="citation_title" content="Enfoque Etnodiferencial y Riesgo de Desastre en Colombia: Líneas de Fuga para una Digna Vida">
           <meta name="citation_author" content="Gaviria-Gutiérrez, William Oswaldo">
           <meta name="citation_author" content="Zambrano-Hernández, Lina Andrea">
-          <meta name="citation_publication_date" content="2025/01/12">
+          <meta name="citation_publication_date" content="2025/12/03">
+          <meta name="citation_online_date" content="2025/12/03">
           <meta name="citation_journal_title" content="Investigaciones en Gestión del Riesgo de Desastres para Colombia. Enfoque Comunitario, Territorial y Animal">
           <meta name="citation_publisher" content="Unidad Nacional para la Gestión del Riesgo de Desastres - UNGRD">
           <meta name="citation_doi" content="10.5281/zenodo.17673252">

@@ -14,7 +14,7 @@ author:
     orcid: 0000-0001-9802-5027
   - name: Esneider Zapata ^1^
     orcid: 0000-0003-3040-1158
-date: "12-01-2025"
+date: "2025-12-03"
 doi: "10.5281/zenodo.17650160"
 abstract: "El Sistema de Alerta Temprana del Valle de Aburrá (SIATA) es un proyecto estratégico para la gestión del riesgo de desastres de la autoridad ambiental, Área Metropolitana del Valle de Aburrá. SIATA nace como un proyecto científico, social, y educativo que ha crecido de manera exponencial a lo largo del tiempo. El SIATA fortalece el territorio como uno de los sistemas de alerta temprana más robustos del país, convirtiéndose en referente nacional por el conocimiento técnico, social, y educativo que genera. En este capítulo analizamos el papel del proyecto SIATA frente a la apropiación social del conocimiento y el fortalecimiento ciudadano antes y después de la participación de dos comunidades en un proceso educativo y de acompañamiento. Aplicamos un enfoque cualitativo utilizando como método el estudio de caso. Recopilamos datos con diarios de campo y entrevistas semiestructuradas, que se analizaron en un sistema de categorías enmarcado en la hipótesis de la complejidad. Encontramos que los procesos educativos desarrollados desde el componente de apropiación social del conocimiento favorecieron el desarrollo de capacidades de la ciudadanía para la gestión del riesgo de desastres y la adaptación al cambio climático. Destacamos que el conocimiento popular en convergencia con el conocimiento científico se convierte en elemento clave para construir saberes adaptados a las necesidades y realidades del territorio."
 keywords:
@@ -50,7 +50,8 @@ format:
           <meta name="citation_author" content="Ramírez, Olga">
           <meta name="citation_author" content="Sepúlveda, Julián">
           <meta name="citation_author" content="Zapata, Esneider">
-          <meta name="citation_publication_date" content="2025/01/12">
+          <meta name="citation_publication_date" content="2025/12/03">
+          <meta name="citation_online_date" content="2025/12/03">
           <meta name="citation_journal_title" content="Investigaciones en Gestión del Riesgo de Desastres para Colombia. Enfoque Comunitario, Territorial y Animal">
           <meta name="citation_publisher" content="Unidad Nacional para la Gestión del Riesgo de Desastres - UNGRD">
           <meta name="citation_doi" content="10.5281/zenodo.17650160">
