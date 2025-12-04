@@ -1,7 +1,5 @@
 # Inicio {.unnumbered}
 
-# Acerca de este libro
-
 Bienvenidos al tercer libro sobre Investigaciones en Gestión del Riesgo de Desastres para Colombia. Este libro reúne trabajos recientes que exploran el riesgo de desastres desde una perspectiva integral reconociendo la interconexión entre humanos, paisaje y animales y múltiples enfoques incorporando las realidades culturales, territoriales y ecológicas de nuestro país.
 
 Por primera vez este libro se diseña como un recurso abierto y accesible para todos. La versión digital está disponible libremente para todo público con el fin de fomentar la difusión del conocimiento, la colaboración y la replicabilidad de la ciencia.
