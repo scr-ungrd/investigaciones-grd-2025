@@ -20,7 +20,7 @@ book:
   chapters:
     - text: "Página legal"
       href: Pagina-legal.qmd
-    - Presentacion.qmd
+#   - Presentacion.qmd
     - Prologo.qmd
     - index.qmd
     - text: "1: Entrategias en el Valle de Aburrá"
