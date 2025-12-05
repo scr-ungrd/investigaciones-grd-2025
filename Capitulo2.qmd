@@ -263,11 +263,7 @@ Baudoin et al. [@baudoin2016] destacan que la participación de las comunidades 
 Para finalizar, la presente investigación nos permite afirmar que el enfoque etnodiferencial en la GRD en Colombia abre líneas de fuga que sugieren un replanteamiento de la gestión del riesgo como un proceso eminentemente social, donde el diálogo y el respeto por la diversidad emergen como rizomas fundamentales. Al desarticular la noción de subalterno y promover una comprensión de las dinámicas comunitarias, se construye un espacio para una gestión del riesgo que no solo busca minimizar el sufrimiento, sino también impulsar la justicia, la dignidad y el reconocimiento pleno de todas las voces.
 
 ::: {#puntos-clave .callout-important style="background-color: #f8f0ddff; border-left: 4px solid #f7eed3ff;" appearance="minimal" icon="false"}
-<h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;">
-
-Puntos Clave
-
-</h2>
+<h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;"> Puntos Clave </h2>
 
 1.  Subalternización y exclusión en la gestión del riesgo: Históricamente, las comunidades étnicas en Colombia han sido marginadas en la toma de decisiones sobre la gestión del riesgo de desastres (GRD). El enfoque etnodiferencial busca reconocer y valorar sus conocimientos y experiencias.
 2.  Diálogo de saberes y participación comunitaria: Integrar los conocimientos ancestrales y comunitarios con los enfoques técnicos y científicos y la participación activa de estas comunidades es necesaria para una gestión del riesgo más inclusiva y efectiva.
@@ -277,11 +273,7 @@ Puntos Clave
 :::
 
 ::: {#recomendaciones .callout-important style="background-color: #f8dedcff; border-left: 4px solid #fad4d1ff;" appearance="minimal" icon="false"}
-<h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;">
-
-Recomendaciones para tomar decisiones
-
-</h2>
+<h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;"> Recomendaciones para tomar decisiones </h2>
 
 1.  Garantizar la Participación Activa de las Comunidades. Las comunidades étnicas deben ser actores clave en todas las fases de la gestión del riesgo (prevención, respuesta y recuperación). No basta con consultarlas; se debe asegurar su voz, voto y veto en los procesos de toma de decisiones.
 

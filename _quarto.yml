@@ -23,7 +23,7 @@ book:
 #   - Presentacion.qmd
     - Prologo.qmd
     - index.qmd
-    - text: "1: Entrategias en el Valle de Aburrá"
+    - text: "1: Estrategias en el Valle de Aburrá"
       href: Capitulo1.qmd
     - text: "2: Enfoque etnodiferencial"
       href: Capitulo2.qmd

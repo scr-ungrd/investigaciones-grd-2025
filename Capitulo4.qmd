@@ -829,11 +829,7 @@ En síntesis, la evaluación multitemporal de la resiliencia comunitaria mediant
 ```
 
 ::: {#puntos-clave .callout-important style="background-color: #f8f0ddff; border-left: 4px solid #f7eed3ff;" appearance="minimal" icon="false"}
-<h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;">
-
-Puntos Clave
-
-</h2>
+<h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;"> Puntos Clave </h2>
 
 -   En 2011 la resiliencia comunitaria frente a riesgo tecnológico en la Comuna 10 era baja, lo que agravó los impactos del desastre presentado en la explosión.
 
@@ -843,11 +839,7 @@ Puntos Clave
 :::
 
 ::: {#recomendaciones .callout-important style="background-color: #f8dedcff; border-left: 4px solid #fad4d1ff;" appearance="minimal" icon="false"}
-<h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;">
-
-Recomendaciones para tomar decisiones
-
-</h2>
+<h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;"> Recomendaciones para tomar decisiones </h2>
 
 -   Replicar la aplicación de la herramienta ARC-D en otros municipios para evaluar y fortalecer la resiliencia comunitaria frente a riesgos tecnológicos.
 -   Incluir el riesgo tecnológico de forma explícita en los planes de gestión del riesgo y en los instrumentos de planificación territorial.
