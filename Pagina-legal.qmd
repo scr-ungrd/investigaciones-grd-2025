@@ -1,9 +1,8 @@
-**Citación sugerida**: Comisión Nacional Asesora para la Investigación en Gestión del Riesgo de Desastres (CNAIGRD). 2025. Investigaciones en gestión del riesgo de desastres para Colombia. Enfoque Comunitario, Territorial y Animal. Unidad Nacional para la Gestión del Riesgo de Desastres. Bogotá, Colombia.
+Investigaciones en Gestión del Riesgo de Desastres para Colombia. Enfoque Comunitario, Territorial y Animal. Comisión Nacional Asesora para la Investigación en Gestión del Riesgo de Desastres. Bogotá: Unidad Nacional para la Gestión del Riesgo de Desastres, 2025. DOI: <https://doi.org/10.5281/zenodo.17642668> 1. Apropiación Social del Conocimiento—eventos hidrometeorológicos extremos 2. Enfoque etnodiferencial—Justicia 3. Cartografía participativa —comunidades locales 4. Resiliencia comunitaria—riesgo tecnológico 5. Riesgo volcánico—animales de producción
 
-Investigaciones en gestión del riesgo de desastres para Colombia. Enfoque Comunitario, Territorial y Animal. / Comisión Nacional Asesora para la Investigación en Gestión del Riesgo de Desastres. Bogotá: Unidad Nacional para la Gestión del Riesgo de Desastres, 2025. DOI: <https://doi.org/10.5281/zenodo.17642668>  1. Apropiación Social del Conocimiento—eventos hidrometeorológicos extremos 2. Enfoque etnodiferencial—Justicia 3. Cartografía participativa —comunidades locales 4. Resiliencia comunitaria—riesgo tecnológico 5. Riesgo volcánico—animales de producción
+------------------------------------------------------------------------
 
-Portada. Macro pixel art con Gemini IA. Diseñó Mauricio Romero.
-
+::: {style="line-height: 0.96;"}
 **Gustavo Petro Urrego** \| Presidente de la República
 
 **Carlos Alberto Carrillo Arenas** \| Director General Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD)
@@ -46,6 +45,8 @@ Portada. Macro pixel art con Gemini IA. Diseñó Mauricio Romero.
 
 Coordinación editorial \| Mauricio Romero Torres
 
+Portada. Macro pixel art con Gemini IA. Diseñó Mauricio Romero.
+
 Proceso de arbitraje \| Revisión por pares doble ciega para cada capítulo
 
 Proceso editorial \| [Guía básica de procesos editoriales, 2018, Editorial UNAL](https://fadmon.unal.edu.co/fileadmin/user_upload/investigacion/centro_editorial/guia-basica-procesos-editoriales.pdf); [APA 5a ed](https://apastyle.apa.org/); [SSF-CSE Manual 9a ed.](https://www.councilscienceeditors.org/cse-manual)
@@ -54,6 +55,9 @@ DOI: <https://doi.org/10.5281/zenodo.17642668>
 
 Copyright: © Unidad Nacional para la Gestión del Riesgo de Desastres, Diciembre de 2025. Bogotá, Colombia
 
+**Citación sugerida**: Comisión Nacional Asesora para la Investigación en Gestión del Riesgo de Desastres (CNAIGRD). 2025. *Investigaciones en Gestión del Riesgo de Desastres para Colombia. Enfoque Comunitario, Territorial y Animal.* Unidad Nacional para la Gestión del Riesgo de Desastres. Bogotá, Colombia. <https://doi.org/10.5281/zenodo.17642668>
+
 Todos los derechos reservados. Excepto si se señala otra cosa, la licencia del ítem se describe como Atribución. NoComercial-SinDerivadas 2.5 Colombia Distribución gratuita – versión digital
+:::
 
 ![](images/UNGRD-Horizontal.png){fig-align="center" width="300"}
