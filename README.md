@@ -2,10 +2,6 @@
 
 Este repositorio contiene el código fuente del libro "Investigaciones en Gestión del Riesgo de Desastres para Colombia. Enfoque Comunitario, Territorial y Animal", un proyecto de la Comisión Nacional Asesora para la Investigación en Gestión del Riesgo de Desastres.
 
-## 📚 Sobre el libro
-
-Este libro es una compilación de investigaciones y estudios de caso sobre la gestión del riesgo de desastres en Colombia, con un enfoque especial en las dimensiones comunitaria, territorial y animal. El proyecto busca difundir el conocimiento y las buenas prácticas en este campo, y servir como un recurso para investigadores, profesionales y responsables de la toma de decisiones.
-
 ## 🌐 Acceso en línea
 
 El libro está disponible en línea en: https://scr-ungrd.github.io/investigaciones-grd-2025/
@@ -13,12 +9,6 @@ El libro está disponible en línea en: https://scr-ungrd.github.io/investigacio
 ## 🛠️ Requisitos de software
 
 Para compilar el libro, necesitarás tener instalado [Quarto](https://quarto.org/docs/get-started/), un sistema de publicación científica y técnica de código abierto.
-
-Además, necesitarás una distribución de LaTeX para renderizar la salida en PDF. Se recomienda [TinyTeX](https://yihui.org/tinytex/), que se puede instalar con el siguiente comando:
-
-```bash
-quarto install tool tinytex
-```
 
 ## 🚀 Cómo compilar el libro
 
@@ -83,7 +73,3 @@ Las contribuciones a este proyecto son bienvenidas. Si deseas proponer cambios o
 ## 📄 Licencia
 
 El contenido de este libro se distribuye bajo una licencia Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional. Consulta el archivo `LICENSE` para más detalles.
-
-## 📧 Contacto
-
-Para más información sobre este proyecto, contacta a la Unidad Nacional para la Gestión del Riesgo de Desastres - UNGRD.
