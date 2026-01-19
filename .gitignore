@@ -14,3 +14,5 @@ capitulo-plantilla_files/
 *.pdf
 *.idx
 !cover.png
+
+**/*.quarto_ipynb

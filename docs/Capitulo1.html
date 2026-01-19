@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.31">
+<meta name="generator" content="quarto-1.8.26">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -61,14 +61,15 @@ div.csl-indent {
 <link href="./index.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-485d01fc63b59abcd3ee1bf1e8e2748d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-27c261d06b905028a18691de25d09dde.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -83,7 +84,7 @@ div.csl-indent {
   ],
   "show-item-context": false,
   "language": {
-    "search-no-results-text": "Sin resultados",
+    "search-no-results-text": "No se han encontrado resultados",
     "search-matching-documents-text": "documentos encontrados",
     "search-copy-link-title": "Copiar el enlace en la búsqueda",
     "search-hide-matches-text": "Ocultar resultados adicionales",
@@ -345,7 +346,7 @@ background-size: cover;
   <li><a href="#declaración-de-autoría-credit" id="toc-declaración-de-autoría-credit" class="nav-link" data-scroll-target="#declaración-de-autoría-credit">DECLARACIÓN DE AUTORÍA CRediT</a></li>
   <li><a href="#bibliografía" id="toc-bibliografía" class="nav-link" data-scroll-target="#bibliografía">BIBLIOGRAFÍA</a></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/scr-ungrd/investigaciones-grd-2025/blob/main/Capitulo1.qmd" class="toc-action"><i class="bi bi-github"></i>Ver el código</a></li><li><a href="https://github.com/scr-ungrd/investigaciones-grd-2025/issues/new" class="toc-action"><i class="bi empty"></i>Informar de un problema</a></li></ul></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/scr-ungrd/investigaciones-grd-2025/blob/main/Capitulo1.qmd" class="toc-action"><i class="bi bi-github"></i>Ver el código</a></li><li><a href="https://github.com/scr-ungrd/investigaciones-grd-2025/issues/new" class="toc-action"><i class="bi empty"></i>Informar sobre problema</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content quarto-banner-title-block" id="quarto-document-content">
@@ -377,7 +378,7 @@ background-size: cover;
 </div>
 <div class="callout-body-container">
 <h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;" class="anchored" data-anchor-id="introducción">
-Caja 1. Ciencia y desarrollo local al servicio de la ciudadanía
+<p>Caja 1. Ciencia y desarrollo local al servicio de la ciudadanía</p>
 </h2>
 <p>Durante más de 10 años, la experiencia del proyecto SIATA en el Valle de Aburrá ha permitido a la ciudadanía contar con una herramienta de monitoreo en tiempo real para comprender los fenómenos amenazantes a través de la investigación de las variables ambientales y del desarrollo de tecnologías adaptadas al territorio. SIATA brinda a la ciudadanía y los actores clave en la gestión del riesgo de desastres la capacidad de tomar decisiones oportunas ante la posible materialización de un evento. A su vez, la ASC es fundamental en el proyecto al fomentar la democratización de la ciencia y el empoderamiento ciudadano.</p>
 <div class="quarto-figure quarto-figure-center">
@@ -403,7 +404,7 @@ Caja 1. Ciencia y desarrollo local al servicio de la ciudadanía
 </div>
 <div class="callout-body-container">
 <h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;" class="anchored">
-Caja 2: ¿Qué es un evento de precipitación extremo?
+<p>Caja 2: ¿Qué es un evento de precipitación extremo?</p>
 </h2>
 <p><strong>Evento meteorológico extremo</strong>: Se refiere a un evento que es inusual en un lugar y época del año determinados. Las definiciones de “inusual” pueden variar, pero normalmente se considera un evento meteorológico extremo aquel cuya ocurrencia es tan rara como, o más rara que, el percentil 10 o 90 de una función de densidad de probabilidad estimada a partir de observaciones. Por definición, las características de lo que se denomina meteorología extrema varian de un lugar a otro en un sentido absoluto <span class="citation" data-cites="ipcc2012">[<a href="Capitulo2.html#ref-ipcc2012" role="doc-biblioref">3</a>]</span>.</p>
 </div>
@@ -1261,13 +1262,14 @@ Figura&nbsp;5: En la parte superior se presenta el porcentaje de los segmentos c
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
@@ -1626,4 +1628,4 @@ Figura&nbsp;5: En la parte superior se presenta el porcentaje de los segmentos c
 
 
 
-<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/scr-ungrd/investigaciones-grd-2025/blob/main/Capitulo1.qmd" class="toc-action"><i class="bi bi-github"></i>Ver el código</a></li><li><a href="https://github.com/scr-ungrd/investigaciones-grd-2025/issues/new" class="toc-action"><i class="bi empty"></i>Informar de un problema</a></li></ul></div></div></div></footer></body></html>
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/scr-ungrd/investigaciones-grd-2025/blob/main/Capitulo1.qmd" class="toc-action"><i class="bi bi-github"></i>Ver el código</a></li><li><a href="https://github.com/scr-ungrd/investigaciones-grd-2025/issues/new" class="toc-action"><i class="bi empty"></i>Informar sobre problema</a></li></ul></div></div></div></footer></body></html>
