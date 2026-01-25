@@ -57,6 +57,8 @@ format:
     colorlinks: true
     keep-tex: true
 bibliography: capitulo2-references.bib
+csl: vancouver-apa-hybrid.csl
+link-citations: true
 suppress-bibliography: false
 
 crossref:
