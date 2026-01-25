@@ -56,7 +56,7 @@ format:
     title-block-banner: bannerc1.png
     colorlinks: true
     keep-tex: true
-bibliography: all-references.bib
+bibliography: capitulo2-references.bib
 
 crossref:
   fig-prefix: "Figura"
@@ -308,6 +308,3 @@ Los revisores expresan que no utilizaron herramientas de IA en el proceso de eva
 **Conceptualización:** William Oswaldo Gaviria Gutiérrez y Lina Andrea Zambrano Hernández. **Metodología:** William Oswaldo Gaviria Gutiérrez y Lina Andrea Zambrano Hernández. **Redacción - borrador original:** William Oswaldo Gaviria Gutiérrez. **Administración del proyecto:** Lina Andrea Zambrano Hernández. **Búsqueda de evidencia:** William Oswaldo Gaviria Gutiérrez.
 
 # BIBLIOGRAFÍA
-
-::: {#refs}
-:::
