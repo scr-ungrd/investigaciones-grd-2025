@@ -483,6 +483,3 @@ Los autores utilizaron herramientas de inteligencia artificial (IA) en el proces
 **Conceptualización:** Y. De los ríos Olarte, A.M. Prada Uribe, C. Jacquin. **Metodología:** Y. De los ríos Olarte, A.M. Prada Uribe, C. Jacquin. **Investigación:** Y. De los ríos Olarte, A.M. Prada Uribe. **Recursos:** HOT, GeoLab Universidad de Antioquia. **Curación de datos:** Y. De los ríos Olarte, A.M. Prada Uribe. **Redacción - borrador original:** Y. De los ríos Olarte, A.M. Prada Uribe, C. Jacquin. **Redacción - revisión y edición:** Y. De los ríos Olarte, A.M. Prada Uribe, C. Jacquin, Mariana Marín Villagrana. **Visualización:** Y. De los ríos Olarte, A.M. Prada Uribe. **Supervisión:** C. Jacquin, HOT. **Administración del proyecto:** C. Jacquin, HOT, GeoLab. **Adquisición de fondos:** HOT.
 
 # BIBLIOGRAFÍA
-
-::: {#refs}
-:::

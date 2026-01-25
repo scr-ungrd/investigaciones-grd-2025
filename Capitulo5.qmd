@@ -437,6 +437,3 @@ Diego Alexander Hernández Pulido: <https://scienti.minciencias.gov.co/cvlac/vis
 Julia Inés Lema Vélez: <https://orcid.org/0009-0009-2178-8400>
 
 # BIBLIOGRAFÍA
-
-::: {#refs}
-:::
