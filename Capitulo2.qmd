@@ -56,7 +56,7 @@ format:
     title-block-banner: bannerc1.png
     colorlinks: true
     keep-tex: true
-bibliography: capitulo2-references.bib
+bibliography: all-references.bib
 
 crossref:
   fig-prefix: "Figura"
