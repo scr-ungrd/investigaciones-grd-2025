@@ -67,7 +67,7 @@ crossref:
 ---
 
 ::: {#resumen}
-# Resumen
+## Resumen
 
 Las laderas volcánicas son zonas fértiles ideales para la agricultura y ganadería, pero se exponen a erupciones volcánicas que pueden generar graves impactos en los pequeños productores, afectando sus medios de subsistencia. Los animales sufren consecuencias crónicas como enfermedades, inanición o muerte por ingesta de ceniza, lo que amenaza la seguridad alimentaria y la salud pública. Las erupciones volcánicas pueden provocar abandono, enfermedades y mortalidad animal por falta de planes de gestión de riesgos. La solución es implementar sistemas integrales que prioricen el bienestar animal y la protección de medios de vida. Existe un vacío en la aplicación de políticas locales que integren prevención, respuesta y rehabilitación. Apropiar y conocer la temática asociada a la gestión de riesgos desastres para proteger al ganado antes, durante y después de erupciones volcánicas promueve la subsistencia de los agricultores. Se realiza a través de un enfoque multidimensional que incluye: 1) Prevención: capacitación y medidas de contingencia (alimentación segura, refugios); 2) Respuesta: protocolos de respuesta a emergencias y procedimientos estandarizados de atención; 3) Rehabilitación: restauración de sistemas de producción y salud animal. Se basará en políticas públicas coordinadas y participación comunitaria. Reducción de la mortalidad animal, mitigación de pérdidas económicas y mejora en la resiliencia de los productores. La sensibilización y formación garantizarían una respuesta efectiva. Es urgente integrar el bienestar animal en los planes de gestión de desastres, con políticas públicas que fomenten la preparación comunitaria y la cooperación interinstitucional. Se recomienda investigar estrategias adaptadas a contextos volcánicos y promover campañas de concientización.
 
@@ -75,24 +75,24 @@ Las laderas volcánicas son zonas fértiles ideales para la agricultura y ganade
 :::
 
 ::: {#abstract}
-# Advances and Challenges in Disaster Management and Volcanic Risk Management with Farm Animals
+## Advances and Challenges in Disaster Management and Volcanic Risk Management with Farm Animals
 
 **Abstract**. Volcanic slopes are fertile areas ideal for agriculture and livestock farming, yet they are exposed to volcanic eruptions that have severe impacts on small producers, affecting their livelihoods. Animals suffer chronic consequences such as disease, starvation, or death from ash ingestion, threatening food security and public health. Volcanic eruptions can cause abandonment, disease and animal mortality due to the lack of risk management plans. The solution is to implement comprehensive systems that prioritize animal welfare and livelihood protection. There is a gap in the application of local policies that integrate prevention, response and rehabilitation. Learn about disaster risk management to protect livestock before, during, and after volcanic eruptions, and promote the livelihoods of farmers. This is done through a multidimensional approach that includes: 1) Prevention: training and contingency measures (safe food, shelters); 2) Response: emergency response protocols and standardized care procedures; 3) Rehabilitation: restoration of production systems and animal health. It will be based on coordinated public policies and community participation. Reducing animal mortality, mitigating economic losses, and improving producers' resilience. Awareness raising and training would ensure an adequate response. There is an urgent need to integrate animal welfare into disaster management plans and to promote public policies that foster community preparedness and inter-institutional cooperation. It is recommended to research strategies adapted to volcanic contexts and to promote awareness campaigns.
 
 **Keywords**: Disasters, risk reduction, livestock, volcanoes, animal welfare
 :::
 
-# 1. INTRODUCCIÓN
+## 1. INTRODUCCIÓN
 
 Las erupciones volcánicas pueden ocasionar pérdidas económicas para los pequeños agricultores y productores pecuarios que dependen de sus animales de producción\index{Animales de producción}. Estos animales son un medio de subsistencia, además de ser fuente de proteína animal (leche, carne y huevos) indispensable para una buena nutrición; también son animales de trabajo, carga y transporte, y para millones de familias rurales, los sistemas de producción animal son su "banco en pie", fuente de ingreso y ahorro [@legs2023].
 
 La caída de cenizas puede tener graves efectos perjudiciales en los cultivos y en los animales. Dependiendo del grosor de las cenizas y la presencia de fluoruro soluble, el momento y la intensidad de la precipitación, se afectan la salud de los animales, las condiciones de crecimiento de los cultivos y la disponibilidad de agua y alimento no contaminados. Por otro lado, después de una erupción volcánica, la recuperación del componente animal y vegetal depende de la cantidad de ceniza, lava fluida, flujos piroclásticos y los gases emitidos. Debemos tener en cuenta que las erupciones pueden desencadenar otros fenómenos como lo son los incendios forestales, terremotos y tsunamis, lo que hará más difícil la recuperación. La caída del contenido volcánico en las aguas aumenta la acidez, turbidez y temperatura. Las erupciones pueden influir en la migración de los animales, el descanso de pasturas, y la alimentación de los animales [@peckyno2010].
 
-# 2. CONOCIMIENTO DEL RIESGO VOLCÁNICO EN ANIMALES DE PRODUCCIÓN
+## 2. CONOCIMIENTO DEL RIESGO VOLCÁNICO EN ANIMALES DE PRODUCCIÓN
 
 Fenómenos geológicos como terremotos, volcanes, tsunamis e hidrometeorológicos como tormentas de viento, sequías, nevadas e inundaciones continúan impactando a las personas y los bienes expuestos de la sociedad. Durante la última década, los desastres han provocado un aumento de las pérdidas económicas y sociales, generando desplazamientos y sufrimiento, esta tendencia ha llevado a una creciente dependencia de la ayuda humanitaria [@sawyer2018]. En el caso de los animales que pastan en libertad, el aislamiento por fenómenos como erupciones volcánicas puede provocarles inanición y debilitar su sistema general de su salud. Si bien el colapso de infraestructuras, los daños causados a los pastos por la caída o saturación de cenizas pueden generar otras complicaciones [@irvine2009].
 
-## 2.1 Actividad volcánica
+### 2.1 Actividad volcánica
 
 Las áreas cercanas a los volcanes son lugares muy populares para cultivar y criar animales de granja debido a que el suelo es muy fértil. Esto significa que cerca de cráteres aparentemente inactivos el pastoreo de animales es muy usual. Los volcanes pueden tener efectos crónicos sobre los animales, dependiendo de la naturaleza de la erupción. Si una erupción es violenta, los flujos de lava, los flujos piroclásticos, los gases venenosos y los lahares pueden enterrar, quemar, matar y herir a los animales. A menudo la evacuación es muy complicada debido a la naturaleza del terreno y el número de animales presentes en estas zonas, combinados con las limitadas opciones para alojarlos en otro lugar. Algunos habitantes de las zonas que pueden afectarse se negarán a marcharse sin sus animales, mientras que otros pueden dejarlos atrás, regresar o intentar regresar a su hogar y volver o intentar volver a la zona de peligro muchas veces para cuidar de ellos, causando problemas a las autoridades [@knight2022].
 
@@ -100,19 +100,18 @@ En salud humana, la exposición a las cenizas volcánicas rara vez pone en pelig
 
 Las personas deben evitar la exposición innecesaria a la ceniza y llevar una mascarilla eficaz (Certificada industrialmente N95, FFP2 o su equivalente) cuando esté al aire libre para reducir la inhalación de partículas de ceniza. Las personas con problemas respiratorios deben tener especial cuidado para evitar la exposición a la ceniza en el aire y deben llevar consigo su medicación. Los servicios médicos pueden esperar un aumento del número de pacientes con síntomas respiratorios y oculares durante y después de la caída de cenizas. En general, la gente estará muy preocupada por los efectos de la ceniza, y suelen surgir preguntas sobre las características de la ceniza y las implicaciones para su salud [@usgs2018].
 
-### Efectos a largo plazo
+#### Efectos a largo plazo
 
 La realidad es que los efectos a largo plazo de una erupción sobre los animales suelen ser reducidos. Por ejemplo, en el Monte Santa Helena, los científicos comprobaron que tanto plantas como animales volvieron a las zonas devastadas al cabo de un año de la erupción. Así mismo, en 1902 hubo una gran erupción en el volcán Santa María (Guatemala) la cual mató entre cientos a miles de aves [@millard2004].
 
 ::: {#caja1 .callout-important style="background-color: #e3f0fbff; border-left: 4px solid #d4e8f9ff;" appearance="minimal" icon="false"}
 <h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;"> Caja 1. Definiciones </h2>
-
 **Medios de subsistencia o medios de vida**\\index{Medios de vida}**.** Un medio de subsistencia consiste en los activos (naturales, físicos, humanos, financieros y de capital social), las actividades vinculadas a estos activos y el acceso a ellos (mediado por instituciones y relaciones sociales) que juntos determinan la subsistencia obtenida por el individuo o el hogar [@carr2025]. Comprende las habilidades, los activos (tanto materiales como sociales) y las actividades necesarias para los medios de vida. La subsistencia es sustentable cuando puede enfrentarse y recuperarse del estrés y la crisis y mantener o mejorar su capacidad y activos tanto en el presente como en el futuro, siempre y cuando sin perjudicar los recursos naturales básicos [@fao2024].
 
 **Agropecuario o agropecuaria**\\index{Agropecuario}**.** Se refiere al sector agrícola (agricultura) y el sector ganadero o pecuario (ganadería). Estas actividades económicas, junto con otras estrechamente vinculadas a las industrias alimentarias, son las más significativas del medio rural y de las cadenas de producción y valor que del mismo se derivan [@cortes2004].
 :::
 
-## 2.2 Enfoque conceptual de los medios de vida/subsistencia en entornos agropecuarios
+### 2.2 Enfoque conceptual de los medios de vida/subsistencia en entornos agropecuarios
 
 El marco conceptual sobre los medios de vida se remonta a los años ochenta. En un principio, se entendían como las capacidades o activos (que incluye recursos materiales y sociales) que se adoptan para actividades necesarias para ganarse la vida [@carr2025]. Sin embargo, a través del tiempo nuevos marcos interpretativos aparecieron y fueron adoptados por agencias de desarrollo. Más adelante aparece el concepto de medios de subsistencia sostenibles, marcando un nuevo enfoque político y práctico ([Caja 1](#caja1)). A la definición inicial de capacidades, activos y actividades, se agregó el adjetivo "sostenible". Esto implica que un medio de vida o subsistencia puede hacer frente y recuperarse del estrés o los choques (i.e., relacionado al concepto de resiliencia en términos de la gestión del riesgo de desastres) que se puede mantener o mejorar sus capacidades y bienes, proporciona oportunidades de subsistencia sostenibles para una siguiente situación, y aporta beneficios a otros medios de vida locales y globales como en el largo y corto plazo [@carr2025].
 
@@ -148,7 +147,7 @@ Los capitales o activos hacen referencia a los bienes tangibles e intangibles, c
 **Estrategia de los medios de vida**\index{Estrategia de los medios de vida}: Son aquellas actividades y decisiones que toman los hogares o las personas para combinar los capitales disponibles para alcanzar sus objetivos y mantener o reforzar sus medios de vida; o para hacer frente a las necesidades básicas. Ej: la agricultura, pesca, comercio, empleo público [@fao2015].
 :::
 
-## 2.3 Impacto sobre el sector de la producción animal\index{Producción animal}
+### 2.3 Impacto sobre el sector de la producción animal\index{Producción animal}
 
 Los desastres no sólo suponen una amenaza para la humanidad, sino que también afectan a los sistemas de producción animal. Estos son parte integral de los activos clave de un país, y tiene un papel importante en el crecimiento de su economía. Aunque este sector ya se enfrenta a algunos problemas en términos de recursos alimenticios, malas condiciones sanitarias, infraestructuras inadecuadas de comercialización, transformación y valor añadido, los desastres y emergencias de origen natural y socio-natural han agravado aún más su problema y empeorado la economía al dejar efectos negativos en la población y en el propio ganado [@fao2015].
 
@@ -160,7 +159,7 @@ Una de las principales consecuencias que genera un desastre en los países en de
 
 Los efectos secundarios de los desastres en los animales incluyen el abandono, la muerte por inanición, el ataque de depredadores, enfermedades e infecciones que van desde la parasitosis (interna y externa) hasta otras enfermedades bacterianas y transmitidas por vectores [@sen2003].
 
-## 2.4 Cómo afecta la ceniza a los animales de producción\index{Ceniza, efecto sobre animales de producción}
+### 2.4 Cómo afecta la ceniza a los animales de producción\index{Ceniza, efecto sobre animales de producción}
 
 El envenenamiento y la muerte por flúor pueden ocurrir en el ganado que pastea sobre pasto cubierto de ceniza si el flúor está en altas concentraciones. Puede ser aconsejable muestrear y analizar la ceniza o la vegetación cubierta de ceniza para determinar si existe este peligro potencial para el ganado en áreas cubiertas de ceniza, incluso en espesores tan delgados como 1 mm. Los animales que se alimentan de pastos contaminados con ceniza pueden sufrir y morir de obstrucciones gastrointestinales. La escasez de alimento y agua no contaminados tras una caída de ceniza también puede provocar inanición. En las erupciones volcánicas, las cenizas volcánicas, los gases y la niebla tóxica pueden propagarse en amplias zonas, puede ser difícil descifrar los impactos causados por cada uno, y los impactos supuestamente causados por uno pueden deberse en realidad a otros o a una combinación [@usgs2015].
 
@@ -182,7 +181,7 @@ Como parte de las acciones que buscan mitigar estos problemas, está el lavado d
 
 ![Ejercicio de simulación de evacuación y respuesta a la ganadería vacuna. Simulación de evacuación y respuesta a la ganadería vacuna realizado en el Parque Nacional Volcán de Turrialba en la provincia de Cartago, Costa Rica, 2009. Fuente: Diego Hernández Pulido.](images/capitulo5/simulacion-evacuacion-ganado-2.png){#fig-simulacion width="450"}
 
-## 2.5 Efectos de la ceniza sobre los animales
+### 2.5 Efectos de la ceniza sobre los animales
 
 El ganado se enfrenta al riesgo de la ceniza volcánica, tanto sobre el animal como depositada en el suelo. Son susceptibles de sufrir una gran variedad de problemas, sobre todo por la escasez de agua y piensos, que provoca la deshidratación y la inanición del ganado. Otros problemas son:
 
@@ -209,7 +208,7 @@ En la @tbl-tabla1 se describen los efectos directos sobre los sistemas de produc
 
 : Efectos directos sobre los sistemas de producción ganadera por erupciones volcánicas. Modificado de Hernández [@hernandez2014]. {#tbl-tabla1}
 
-# 3. MEDIDAS DE GESTIÓN DEL RIESGO DE DESASTRES
+## 3. MEDIDAS DE GESTIÓN DEL RIESGO DE DESASTRES
 
 La gestión del riesgo de desastres en escenarios provocados por una erupción volcánica implica la planificación, preparación y ejecución de medidas para garantizar la seguridad y el bienestar del ganado en zonas afectadas por erupciones volcánicas. Esto incluye:
 
@@ -223,7 +222,7 @@ La gestión del riesgo de desastres en escenarios provocados por una erupción v
 
 Para una gestión eficaz de los animales en una respuesta a una crisis provocada por la erupción de un volcán, se requiere la coordinación y colaboración entre las múltiples partes interesadas, incluidas las instituciones gubernamentales, las organizaciones no gubernamentales y los residentes locales. Es esencial disponer de un plan integral de respuesta a desastres que incluya disposiciones para la gestión del ganado y aplicar este plan de manera oportuna y eficaz para minimizar el impacto del desastre sobre los animales y los medios de subsistencia de las personas que dependen de ellos [@craig2016].
 
-## 3.1 La importancia de contar con un sistema de gestión del riesgo de desastres
+### 3.1 La importancia de contar con un sistema de gestión del riesgo de desastres
 
 La gestión de los sistemas de producción animal en la respuesta a emergencias y desastres provocados por erupciones volcánicas es esencial hoy en día por varias razones:
 
@@ -259,7 +258,7 @@ Cuando hay suficiente ceniza, puede resultar antieconómico que la tierra vuelva
 
 ![Espesor de ceniza, nivel considerado de afectación y recomendaciones a seguir. De izquierda a derecha se describen el espesor en milímetros (mm) de la ceniza volcánica sobre el suelo, la recuperación, la afectación y los principales problemas que esto implica para los animales. Cada uno de los niveles de afectación, desde el leve, moderado y severo, contempla unas recomendaciones a seguir. Modificado de World Animal Protection (WAP) 2020. Afectación sobre el ganado de acuerdo con la cantidad de caída de ceniza.](images/capitulo5/espesor-ceniza-afectacion.png){#fig-espesor fig-align="center" width="500"}
 
-## 3.2 Efecto sobre las pasturas\index{Pasturas, efecto de la caída de ceniza}
+### 3.2 Efecto sobre las pasturas\index{Pasturas, efecto de la caída de ceniza}
 
 Las cenizas que caen sobre los pastos no sólo afectan al ganado que las ingiere, sino que también pueden provocar daños a largo plazo en el suelo. Estos impactos incluyen:
 
@@ -275,13 +274,13 @@ Los impactos físicos tienden a tener un mayor impacto que la influencia químic
 
 ![Otra vista de la pradera con ceniza. Pradera afectada por la caída de ceniza con un grosor de aproximadamente 25 mm. Proceso de recuperación de más de tres meses y no apta para la ganadería. Imágenes tomadas a 10 km al noreste de la ciudad de Chaitén, capital de la Provincia de Palena, en la Región de Los Lagos, Chile. 2008. Fuente: Diego Hernández Pulido.](images/capitulo5/pradera-ceniza-25mm-2.jpg){#fig-pradera-2 width="400"}
 
-## 3.3 Efectos en la silvicultura\index{Silvicultura, efecto de la caída de ceniza}
+### 3.3 Efectos en la silvicultura\index{Silvicultura, efecto de la caída de ceniza}
 
 Los bosques jóvenes son los más amenazados por la caída de ceniza. Los árboles menores de 2 años pueden destruirse por depósitos de ceniza de más de 100 mm [@uach2015]. No es probable que la caída de ceniza elimine por sí sola a los árboles maduros, pero el peso acumulado de la ceniza puede romper grandes ramas en casos de fuerte caída de ceniza (\>500 mm). También puede producirse defoliación de árboles, especialmente si hay un componente grueso de partículas de la ceniza de mayor tamaño y durante una fuerte caída de ceniza.
 
 No se espera que los impactos en los bosques sean significativos hasta que la caída de ceniza supere los 100 mm. Los daños en las ramas pueden empezar a producirse en los árboles más jóvenes en torno a este nivel, con un aumento de los daños a medida que aumentan los niveles de ceniza. El acceso a los bosques también se verá afectado, ya que las carreteras pueden quedar bloqueadas. No se esperan daños a largo plazo. Una profundidad igual o superior a 500 mm de ceniza causará daños importantes en los bosques. Se producirán grandes roturas de ramas y el acceso a los bosques se verá gravemente obstaculizado. La zona será reutilizable, pero el entorno forestal existente se verá sustancialmente alterado, siendo el enterramiento de los árboles jóvenes una parte importante de ello [@wilson2011].
 
-## 3.4 Efectos en los cultivos herbáceos\index{Cultivos herbáceos, efecto de la caída de ceniza}
+### 3.4 Efectos en los cultivos herbáceos\index{Cultivos herbáceos, efecto de la caída de ceniza}
 
 La caída de cenizas puede tener un impacto significativo en los cultivos, al igual que en los pastos. Los impactos físicos derivados del peso adicional de las cenizas sobre las hojas, el enterramiento parcial y la rotura de tallos y ramas impiden los procesos naturales de las plantas, como la fotosíntesis, la transpiración y el contenido de agua, lo que provoca la pérdida de cosechas [@uach2015].
 
@@ -291,9 +290,9 @@ La ceniza depositada en el suelo también puede alterar la química del suelo, a
 
 Los impactos en los cultivos herbáceos dependen del tipo de cultivo, la fase de desarrollo del cultivo, la época del año de la erupción, la duración de la erupción y las condiciones climáticas.
 
-# 4. REDUCCIÓN DEL RIESGO VOLCÁNICO EN ANIMALES DE PRODUCCIÓN\index{Reducción del riesgo vulcánico en animales de producción}
+## 4. REDUCCIÓN DEL RIESGO VOLCÁNICO EN ANIMALES DE PRODUCCIÓN\index{Reducción del riesgo vulcánico en animales de producción}
 
-## 4.1 Preparación humana frente a la preparación animal
+### 4.1 Preparación humana frente a la preparación animal
 
 Las personas pueden encontrar dificultades a la hora de prepararse o reaccionar ante un peligro, pero es importante tener en cuenta que a menudo tienen más opciones. Las comunidades pueden huir o ser ayudadas a huir por otros, mientras que los animales domésticos están en muchos casos confinados. Preparando a las personas, se logrará mitigar algunas de las consecuencias de muchos desastres. En la actualidad, y según el nuevo Marco de Sendai para la Reducción del Riesgo de Desastres de la Oficina de las Naciones Unidas para la Reducción del Riesgo de Desastres (UNDRR por sus siglas en inglés) los animales de granja y de trabajo se consideran y nombran activos esenciales para la protección de los medios de vida de sus propietarios, como parte de la Prioridad 3: Invertir en la reducción del riesgo de desastres (Tema 30, subtema P y Tema 31, subtema f). A la larga, esto deberá contar con el apoyo y la orientación de las estructuras comunitarias y sectoriales y de los marcos políticos institucionales, tanto jurídicos como presupuestarios [@furness2011].
 
@@ -303,13 +302,13 @@ Pero aparte del imperativo humanitario, es importante pensar en la necesidad ind
 
 ![Evacuación y movilización de ganado vacuno durante la erupción del volcán Chaitén, Chile 2008. Fuente: Diego Hernández Pulido.](images/capitulo5/evacuacion-ganado-chaitén.jpg){#fig-evacuacion width="450"}
 
-# 5. MANEJO DE DESASTRES EN ANIMALES DE PRODUCCIÓN\index{Manejo de desastres en animales de producción}
+## 5. MANEJO DE DESASTRES EN ANIMALES DE PRODUCCIÓN\index{Manejo de desastres en animales de producción}
 
 Uno de los contrastes más evidentes entre la preparación humana y la de los animales se refiere a los elementos y procedimientos de prevención y preparación de emergencias. En el caso del rescate humano, no se escatiman recursos y se aceptan mayores niveles de riesgo para los equipos de rescate durante erupciones volcánicas. En el caso de los animales puede ser diferente, ya que el riesgo humano apenas se tolerará, mientras que los recursos siempre se medirán en función del valor que tengan los animales para sus dueños, ya sea económico o sentimental [@garden2013].
 
 Es importante considerar que las distintas medidas y acciones deben orientarse a la preparación, respuesta y rehabilitación en escenarios de erupciones volcánicas aplicadas a los animales de producción que se vean afectados. Dentro de esas medidas se resaltan las siguientes:
 
-### Medidas de preparación
+#### Medidas de preparación
 
 La FAO propone unos elementos necesarios para lograr o mejorar la preparación para los animales son el desarrollo e investigación de la línea de base, esto contempla el historial o antecedentes de sucesos desastrosos en la zona, los inventarios de animales en peligro, la evaluación del impacto en los animales y evaluación de las necesidades y capacidades de los grupos de emergencia para los animales, el nivel preexistente de bienestar y salud de las poblaciones animales, los sistemas de identificación de los animales, las percepciones, actitudes y comportamientos de los propietarios respecto a la preparación de los animales, los sistemas de alerta temprana vinculados a la previsión, evacuación y transporte de animales, planes de refugio, contemplando la evacuación y transporte de animales [@fao2015].
 
@@ -358,7 +357,7 @@ Otras medidas preventivas contemplan la formulación de planes de preparación p
 
 Estos refugios deben garantizar que los animales no estén expuestos a las inclemencias del tiempo y para reducir el estrés, cada especie debe considerarse por separado a la hora de evaluar las necesidades de refugio. Por ejemplo, las gallinas y los patos deberán estar protegidos de los depredadores y disponer de zonas elevadas y secas para posarse. La edad de los animales también es importante a la hora de proporcionarles cuidados. Los animales más jóvenes son más propensos a verse afectados, por lo que deben recibir cuidados especiales. Los animales que se hayan extraviado o que se introduzcan en nuevos grupos de animales o rebaños (durante la repoblación) deben alojarse por separado durante un periodo inicial para evitar la introducción de enfermedades (realizar una cuarentena). Los animales deben evacuarse hacia los mismos pisos térmicos de dónde se sacaron; de no ser posible, se debe contar con ayudas externas para la adaptación y contar con cada proceso de autorización exigida por las autoridades sanitarias de la zona [@navarre2018].
 
-### Medidas de respuesta
+#### Medidas de respuesta
 
 La evaluación inicial es el primer paso en una emergencia que se realiza para establecer la viabilidad de intervenciones basadas en el ganado y para desarrollar planes de respuesta. Las evaluaciones iniciales crean la base y el contexto sobre los que se tomarán las decisiones esenciales sobre si intervenir o no. La evaluación inicial identifica las intervenciones técnicas adecuadas [@legs2022]. Debe prestarse la debida atención a la protección y bienestar de los animales de producción frente a peligros como depredadores en el área, disponerse lo necesario para que el personal veterinario pueda llegar rápidamente a los animales para dar la atención médica adecuada [@furness2011]. En el espectro de posibles erupciones volcánicas, hay dos escenarios principales opuestos en el abanico de intensidad que pueden determinar si los agricultores trabajan de manera gradual para adaptar sus animales y granjas a la actividad de erupciones volcánicas o si toman la medida más drástica de evacuación de emergencia de sus familias y sus animales como sus activos más valiosos, dejando todo lo demás detrás. Este último incluye enfrentar la posibilidad de cambiar considerablemente sus medios de subsistencia [@navarre2018].
 
@@ -370,7 +369,7 @@ Los recursos alimentarios son necesarios cuando la caída de ceniza destruye los
 La fluorosis se genera a partir de las partículas de flúor generadas en el proceso eruptivo que se adhieren a las partículas de cenizas que son muy finas y representan una amenaza potencial para el ganado. Esto es porque constituyen una gran superficie en relación con su masa. Por lo mismo, estas pequeñas partículas pueden transportar grandes cantidades de flúor soluble a los forrajes. Por ejemplo, una fina capa de cenizas de sólo 1 mm de espesor puede contener cantidades potencialmente tóxicas de flúor que el ganado puede ingerir directamente desde la ceniza que consume junto al forraje [@cotton2004].
 :::
 
-### Medidas de rehabilitación
+#### Medidas de rehabilitación
 
 Contemplan acciones como indemnización a los ganaderos en caso de pérdida de ganado o enfermedad, al igual que la provisión de animales de trabajo y unidades ganaderas no afectadas, en el escenario más favorable, la reposición de animales puede tener lugar cuando se detuvo la erupción y se recuperaron los pastos, pero normalmente esto lleva meses o incluso años. Debe tenerse en cuenta en la planificación de la recuperación que la inactividad volcánica solo significa un estado de latencia que puede durar años, décadas o incluso siglos [@navarre2018]. La reconstrucción de los centros veterinarios dañados por los eventos y de los establecimientos que proveen de un sistema permanente de seguridad alimentaria en las zonas propensas a erupciones volcánicas debe también considerarse durante este periodo [@legs2022].
 
@@ -378,7 +377,7 @@ En las zonas en las que la ceniza ha contaminado el paisaje, el ganado necesitar
 
 La cobertura de ceniza puede hacer que los animales dejen de alimentarse y beber. Si es posible, reubique a los animales en lugares con agua limpia y acceso a alimento (Heno - henolaje) y agua suplementaria limpios. El alimento almacenado debe protegerse cubriéndolo y asegurándose de que ningún otro animal pueda acceder a él. Aunque la ceniza suele afectar físicamente a los animales, su composición química puede repercutir en su salud general. Contiene minerales y elementos como el flúor, el selenio y el azufre que pueden causar problemas de salud. El flúor es el problema más común. Los síntomas incluyen colapso de los animales, convulsiones, caída del pelo alrededor de la boca y lesiones alrededor de la nariz y la boca. La concentración elevada de azufre en las cenizas también puede inducir deficiencias de cobre y cobalto. La escasez de alimento y forraje supone una amenaza grave e indirecta para los animales. Se debe sugerir una opción de alimentación que tenga el potencial de hacer frente al desafío en cierta medida. La alimentación durante los desastres puede reducir la carga de los ya escasos recursos forrajeros sin comprometer el rendimiento de la producción, y también se sugiere el uso de bloques minerales de melaza con urea como opción viable de alimentación durante estos escenarios [@legs2022].
 
-# 6. CONCLUSIONES
+## 6. CONCLUSIONES
 
 Los procesos de conocimiento y reducción del riesgo, y manejo de desastres no pueden limitarse a salvar vidas humanas. También hay que contemplar la protección y reforzar los medios de subsistencia de las poblaciones animales que se impactan seriamente. Con ello no solamente se fomenta su recuperación inmediata, sino que se puede aumentar su capacidad de resistir y su recuperación a largo plazo, reducir su vulnerabilidad y disminuir también, la posibilidad de que se generen nuevos escenarios de riesgo antrópicos o generados por la naturaleza.
 
@@ -412,28 +411,28 @@ Considerar la elaboración de un plan de emergencia bien elaborado es importante
 -   La construcción de un plan de respuesta y los mecanismos de monitoreo y seguimiento a partir de una rendición de cuentas claras y realimentación constante, pueden garantizar que los procesos de ayuda puedan ser eficaces y efectivos.
 :::
 
-# MATERIALES Y MÉTODOS
+## MATERIALES Y MÉTODOS
 
 La recopilación de material bibliográfico, su búsqueda selectiva, selección y filtración de información se determinaron a partir de los documentos técnicos, académicos, oficiales, tanto digitales como escritos, clasificados mediante un formato de revisión crítica como herramienta cualitativa para filtrar información nacional e internacional. Los criterios de búsqueda fueron: *animals in disasters, livestock in volcanic eruptions, animal livelihood in disasters, impact of ashfall in livestock, animal welfare in disasters, volcanic eruptions, disasters management, animales en la gestión del riesgo de los desastres y su papel en la sociedad.* Se prioriza el análisis frente al contenido asociado a conocimiento, reducción y manejo de desastres en erupciones volcánicas. Se organiza y prepara el contenido de forma significativa y se agrega el contenido relevante por parte de cada uno de los autores.
 
-# CONFLICTO DE INTERESES
+## CONFLICTO DE INTERESES
 
 Los autores declaran no tener conflicto de interés alguno en la publicación de este capítulo y agradecen a la Fundación Universitaria Agraria de Colombia UNIAGRARIA.
 
-# USO DE HERRAMIENTAS DE INTELIGENCIA ARTIFICIAL
+## USO DE HERRAMIENTAS DE INTELIGENCIA ARTIFICIAL
 
 Los autores utilizaron herramientas de inteligencia artificial (IA) en el proceso de redacción previo al envío, exclusivamente con el propósito de mejorar el lenguaje y la legibilidad de su capítulo.
 
 Los revisores expresan que no utilizaron herramientas de IA en el proceso de evaluación del manuscrito.
 
-# CONTRIBUCIÓN DE AUTORÍA CREDIT
+## CONTRIBUCIÓN DE AUTORÍA CREDIT
 
 Conceptualización: DAH, JLV. Metodología: DAH, JLV. Redacción de primera versión: DAH, JLV. Revisión y edición de segunda versión: DAH, JLV. Curación de contenidos: DAH, JLV.
 
-# IDENTIFICACIÓN DE AUTORES
+## IDENTIFICACIÓN DE AUTORES
 
 Diego Alexander Hernández Pulido: <https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001613874>
 
 Julia Inés Lema Vélez: <https://orcid.org/0009-0009-2178-8400>
 
-# BIBLIOGRAFÍA
+## BIBLIOGRAFÍA
