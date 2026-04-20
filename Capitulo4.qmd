@@ -30,7 +30,7 @@ format:
           <meta name="citation_journal_title" content="Investigaciones en Gestión del Riesgo de Desastres para Colombia. Enfoque Comunitario, Territorial y Animal">
           <meta name="citation_publisher" content="Unidad Nacional para la Gestión del Riesgo de Desastres - UNGRD">
           <meta name="citation_doi" content="10.5281/zenodo.17673426">
-          <meta name="citation_pdf_url" content="https://scr-ungrd.github.io/investigaciones-grd-2025/Capitulo4.pdf">
+          <meta name="citation_pdf_url" content="https://scr-ungrd.github.io/investigaciones-grd-2025/Investigaciones-en-Gesti%C3%B3n-del-Riesgo-de-Desastres-para-Colombia.-Enfoque-Comunitario,-Territorial-y-Animal.pdf">
           <meta name="citation_abstract_html_url" content="https://scr-ungrd.github.io/investigaciones-grd-2025/Capitulo4.html">
           <meta name="citation_language" content="es">
           <meta name="citation_keywords" content="community resilience; technological risk; ARC-D tool; disaster risk management; multi-temporal resilience; risk perception">
@@ -116,11 +116,7 @@ En la @fig-mapa-dosquebradas se visualiza la localización de la Comuna 10 del m
 Se utilizó la herramienta ARC-D para medir la resiliencia comunitaria\index{Medir la resiliencia comunitaria} ante desastres desarrollada por la organización GOAL (<https://www.goalglobal.org>). Esta herramienta tiene un enfoque mixto, con elementos cualitativos y cuantitativos. El enfoque cualitativo hace referencia a la interacción con la comunidad de los territorios, con los cuales se recoge la información desde una perspectiva social y comunitaria, a través de un instrumento tipo encuesta de 30 preguntas ([Caja 2](#caja2)), las cuales cuentan con instrumentos de verificación. El enfoque cuantitativo se refiere al procesamiento de los datos y permite obtener gráficos de red para la sistematización y presentación de la información de tipo numérico y jerárquico. La herramienta cuenta con dos etapas. Una etapa A que realiza un diagnóstico general de la comunidad y una etapa B, que se enfoca en las preguntas de evaluación en el grupo focal ([Caja 2](#caja2)). De acuerdo con GOAL , esta herramienta se construye de acuerdo al trabajo en resiliencia ante desastres [@herramie2015] comprende dos etapas ([Caja 2](#caja2)).
 
 ::: {#caja2 .callout-important style="background-color: #e3f0fbff; border-left: 4px solid #d4e8f9ff;" appearance="minimal" icon="false"}
-<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;">
-
-Caja 2. Etapas de la herramienta ARC-D de GOAL y glosario de términos
-
-</h2>
+<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;"> Caja 2. Etapas de la herramienta ARC-D de GOAL y glosario de términos </h2>
 
 ![**Componentes herramienta ARC-D**\index{Herramienta de evaluación de resiliencia comunitaria}. La herramienta de evaluación de la resiliencia comunitaria, establecida por GOAL, evalúa cuatro áreas temáticas que conforman 30 componentes. La evaluación produce cinco niveles o categorías que describen condiciones desde la mínima hasta la alta resiliencia, de acuerdo con la percepción del grupo focal evaluado](images/capitulo4/Figura%202.%20Componentes%20herramienta%20ARC-D..png){width="500"}
 
@@ -162,11 +158,7 @@ Finalmente, la cuarta área temática se dedica a mejorar la preparación ante d
 Los componentes de las áreas temáticas de la evaluación de resiliencia comunitaria se evalúan según los parámetros de resiliencia establecidos por GOAL ([Caja 2](#caja2)). En la ([Caja 3](#caja3)) se presentan los términos relacionados con el riesgo tecnológico, los cuales se mencionan en el Plan Municipal de Gestión del Riesgo de Desastres en su componente programático.
 
 ::: {#caja3 .callout-important style="background-color: #e3f0fbff; border-left: 4px solid #d4e8f9ff;" appearance="minimal" icon="false"}
-<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;">
-
-Caja 3. Glosario de términos relacionados con el riesgo tecnológico [@planmun2020].
-
-</h2>
+<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;"> Caja 3. Glosario de términos relacionados con el riesgo tecnológico [@planmun2020]. </h2>
 
 -   **Accidente tecnológico**\index{Accidente tecnológico}: eventos generados por el uso y acceso a la tecnología, originados por eventos antrópicos, naturales, socio-naturales y propios de la operación. Comprende fugas, derrames, incendios y explosiones asociados a la liberación súbita de sustancias y/o energías con características de peligrosidad. Usualmente, se suelen asociar los accidentes tecnológicos exclusivamente con las instalaciones industriales o equipamientos de alta tecnología. No obstante, la experiencia de accidentabilidad deja entrever muchos eventos en el sector residencial y a nivel de obras civiles.
 
@@ -352,121 +344,61 @@ El tema del liderazgo y voluntariado, arrojó una puntuación con un valor de 3,
 
 Finalmente se obtuvo una calificación con un nivel de 4, en donde la comunidad le otorgó la categoría de resiliencia al componente dirigido a la cohesión social y prevención de conflictos, dado a que en la Comuna 10 siempre ha existido una organización social y comunitaria, fortalecida y participativa lo que en el 2011 les permitió hacerle frente al desastre exigir a la institucionalidad una respuesta oportuna, y generar redes de apoyo para superar la crisis. Para la comunidad, este componente es el más importante y el único al que le dieron una alta puntuación, reconociendo el valor que tuvieron muchos líderes. La categoría de resiliencia hace referencia a la coherencia e integración, intervenciones amplias, cubriendo los mayores aspectos del problema y ligadas a una estrategia coherente y de largo plazo.
 
-```{ojs}
-//| echo: false
-//| label: fig-resultados-2011
-//| fig-cap: "Resultado de la evaluación de resiliencia comunitaria ante desastres del año 2011 (Gráfico radar de 30 componentes). Calificación de resiliencia 30.8% (mediana)."
+```{r}
+#| message: false
+#| label: fig-resultados-2011
+#| fig-cap: "Resultado de la evaluación de resiliencia comunitaria ante desastres del año 2011 (Gráfico radar de 30 componentes). Calificación de resiliencia 30.8% (mediana)."
+#| fig-width: 7
+#| fig-height: 7
+#| code-fold: true
+#| code-summary: "<i class='bi bi-code-slash'></i> Código"
 
-data = [
-  {axis: "1. Evaluación comunitaria", value: 3},
-  {axis: "2. Evaluación científica del riesgo", value: 2.0},
-  {axis: "3. Diseminación de información en RRD", value: 2},
-  {axis: "4. Educación de los niños en RRD", value: 2},
-  {axis: "5. RRD en la planificación del desarrollo", value: 1},
-  {axis: "6. RRD en la planificación territorial", value: 1},
-  {axis: "7. Toma comunitaria de decisiones", value: 1},
-  {axis: "8. Inclusión de grupos vulnerables", value: 2},
-  {axis: "9. Participación de las mujeres", value: 2},
-  {axis: "10. Conocimiento de derechos", value: 2},
-  {axis: "11. Alianzas para la RRD", value: 1},
-  {axis: "12. Gestión ambiental sostenible", value: 2},
-  {axis: "13. Seguridad y gestión del agua", value: 2},
-  {axis: "14. Acceso y conciencia de la salud", value: 2},
-  {axis: "15. Suministro seguro de alimentos", value: 2},
-  {axis: "16. Prácticas de medios de vida", value: 1},
-  {axis: "17. Acceso a mercado", value: 1},
-  {axis: "18. Acceso a servicios financieros", value: 1.2},
-  {axis: "19. Protección de ingresos y activos", value: 2},
-  {axis: "20. Acceso a protección social", value: 2},
-  {axis: "21. Cohesión social", value: 4},
-  {axis: "22. Infraestructura crítica", value: 1},
-  {axis: "23. Vivienda", value: 1},
-  {axis: "24. Planificación de contingencia", value: 1},
-  {axis: "25. Sistema de alerta temprana", value: 1},
-  {axis: "26. Capacidad de preparación", value: 2},
-  {axis: "27. Servicios de salud", value: 2},
-  {axis: "28. Servicios de educación", value: 2},
-  {axis: "29. Infraestructura en emergencias", value: 1},
-  {axis: "30. Liderazgo y voluntariado", value: 1}
-]
+library(plotly)
 
-// Radar chart con D3
-{
-  const width = 600, height = 700;
-  const radius = (Math.min(width, height) / 2 - 100) * 0.765;
-  const levels = 4; // número de círculos concéntricos
-  const maxValue = 4; // escala máxima
+categorias <- c(
+  "1. Evaluación comunitaria", "2. Evaluación científica del riesgo",
+  "3. Diseminación de información en RRD", "4. Educación de los niños en RRD",
+  "5. RRD en la planificación del desarrollo", "6. RRD en la planificación territorial",
+  "7. Toma comunitaria de decisiones", "8. Inclusión de grupos vulnerables",
+  "9. Participación de las mujeres", "10. Conocimiento de derechos",
+  "11. Alianzas para la RRD", "12. Gestión ambiental sostenible",
+  "13. Seguridad y gestión del agua", "14. Acceso y conciencia de la salud",
+  "15. Suministro seguro de alimentos", "16. Prácticas de medios de vida",
+  "17. Acceso a mercado", "18. Acceso a servicios financieros",
+  "19. Protección de ingresos y activos", "20. Acceso a protección social",
+  "21. Cohesión social", "22. Infraestructura crítica", "23. Vivienda",
+  "24. Planificación de contingencia", "25. Sistema de alerta temprana",
+  "26. Capacidad de preparación", "27. Servicios de salud",
+  "28. Servicios de educación", "29. Infraestructura en emergencias",
+  "30. Liderazgo y voluntariado"
+)
 
-  const angleSlice = (Math.PI * 2) / data.length;
+valores_2011 <- c(3, 2, 2, 2, 1, 1, 1, 2, 2, 2, 1, 2, 2, 2, 2, 1, 1, 1.2, 2, 2, 4, 1, 1, 1, 1, 2, 2, 2, 1, 1)
 
-  const rScale = d3.scaleLinear()
-    .domain([0, maxValue])
-    .range([0, radius]);
-
-  const svg = d3.create("svg")
-    .attr("width", width)
-    .attr("height", height);
-
-  const g = svg.append("g")
-    .attr("transform", `translate(${width/2},${height/2})`);
-
-  // Dibujar círculos concéntricos
-  for (let i = 0; i <= levels; i++) {
-    g.append("circle")
-      .attr("r", radius/levels * i)
-      .attr("fill", "none")
-      .attr("stroke", "#ccc");
-  }
-
-  // Agregar etiquetas de escala en el eje vertical superior
-  for (let i = 1; i <= levels; i++) {
-    g.append("text")
-      .attr("x", 5)
-      .attr("y", -radius/levels * i)
-      .attr("dy", "0.35em")
-      .style("font-size", "11px")
-      .style("font-family", "Arial, sans-serif")
-      .style("font-weight", "bold")
-      .style("fill", "#666")
-      .text(i);
-  }
-
-  // Ejes radiales
-  data.forEach((d, i) => {
-    const angle = angleSlice * i - Math.PI/2;
-    g.append("line")
-      .attr("x1", 0)
-      .attr("y1", 0)
-      .attr("x2", rScale(maxValue) * Math.cos(angle))
-      .attr("y2", rScale(maxValue) * Math.sin(angle))
-      .attr("stroke", "#999");
-
-    // Etiquetas
-    g.append("text")
-      .attr("x", (rScale(maxValue + 0.5)) * Math.cos(angle))
-      .attr("y", (rScale(maxValue + 0.5)) * Math.sin(angle))
-      .attr("dy", "0.35em")
-      .style("font-size", "9px")
-      .style("font-family", "Arial, sans-serif")
-      .style("text-anchor", angle > Math.PI/2 && angle < 3*Math.PI/2 ? "end" : "start")
-      .text(d.axis);
-  });
-
-  // Línea de valores
-  const line = d3.lineRadial()
-    .radius(d => rScale(d.value))
-    .angle((d,i) => i * angleSlice)
-    .curve(d3.curveLinearClosed);
-
-  g.append("path")
-    .datum(data)
-    .attr("d", line)
-    .attr("fill", "rgba(255,235,100,0.5)")
-    .attr("stroke", "goldenrod")
-    .attr("stroke-width", 2);
-
-  return svg.node();
-}
+plot_ly(
+  type = "scatterpolar",
+  r = c(valores_2011, valores_2011[1]),
+  theta = c(categorias, categorias[1]),
+  fill = "toself",
+  fillcolor = "rgba(255,235,100,0.5)",
+  line = list(color = "goldenrod", width = 2),
+  mode = "lines"
+) |>
+  layout(
+    polar = list(
+      radialaxis = list(
+        visible = TRUE,
+        range = c(0, 4),
+        tickvals = c(1, 2, 3, 4),
+        tickfont = list(size = 10, family = "Arial")
+      ),
+      angularaxis = list(
+        tickfont = list(size = 8, family = "Arial"),
+        direction = "clockwise"
+      )
+    ),
+    showlegend = FALSE
+  )
 ```
 
 ### 4.3. Evaluación de resiliencia comunitaria ante desastres Año 2011 en la Comuna 10
@@ -483,122 +415,61 @@ La comunidad le otorgó a trece componentes de la evaluación, un nivel  de  4
 
 La comunidad otorgó un valor de 5, de alta resiliencia, a la participación de la mujer en la gestión del riesgo de desastres, ya que en el año 2021 el porcentaje de mujeres que participan en la toma de decisiones aumentó significativamente.
 
-```{ojs}
-//| echo: false
-//| label: fig-resultados-2021
-//| fig-cap: "Resultado de la evaluación de resiliencia comunitaria ante desastres del año 2021 (Gráfico radar de 30 componentes). Calificación de resiliencia 60.2% (mediana)"
+```{r}
+#| message: false
+#| label: fig-resultados-2021
+#| fig-cap: "Resultado de la evaluación de resiliencia comunitaria ante desastres del año 2021 (Gráfico radar de 30 componentes). Calificación de resiliencia 60.2% (mediana)"
+#| fig-width: 7
+#| fig-height: 7
+#| code-fold: true
+#| code-summary: "<i class='bi bi-code-slash'></i> Código"
 
-// Radar chart con D3
-{
-  // Datos de evaluación 2021
-  const data = [
-    {axis: "1. Evaluación comunitaria", value: 4},
-    {axis: "2. Evaluación científica del riesgo", value: 4},
-    {axis: "3. Diseminación de información en RRD", value: 3},
-    {axis: "4. Educación de los niños en RRD", value: 4},
-    {axis: "5. RRD en la planificación del desarrollo", value: 3},
-    {axis: "6. RRD en la planificación territorial", value: 2},
-    {axis: "7. Toma comunitaria de decisiones", value: 1},
-    {axis: "8. Inclusión de grupos vulnerables", value: 4},
-    {axis: "9. Participación de las mujeres", value: 3},
-    {axis: "10. Conocimiento de derechos", value: 5},
-    {axis: "11. Alianzas para la RRD", value: 4},
-    {axis: "12. Gestión ambiental sostenible", value: 4},
-    {axis: "13. Seguridad y gestión del agua", value: 3},
-    {axis: "14. Acceso y conciencia de la salud", value: 4},
-    {axis: "15. Suministro seguro de alimentos", value: 4},
-    {axis: "16. Prácticas de medios de vida", value: 4},
-    {axis: "17. Acceso a mercado", value: 2},
-    {axis: "18. Acceso a servicios financieros", value: 3},
-    {axis: "19. Protección de ingresos y activos", value: 2},
-    {axis: "20. Acceso a protección social", value: 2},
-    {axis: "21. Cohesión social", value: 3},
-    {axis: "22. Infraestructura crítica", value: 2},
-    {axis: "23. Vivienda", value: 3},
-    {axis: "24. Planificación de contingencia", value: 3},
-    {axis: "25. Sistema de alerta temprana", value: 3},
-    {axis: "26. Capacidad de preparación", value: 4},
-    {axis: "27. Servicios de salud", value: 4},
-    {axis: "28. Servicios de educación", value: 4},
-    {axis: "29. Infraestructura en emergencias", value: 4},
-    {axis: "30. Liderazgo y voluntariado", value: 1}
-  ];
+library(plotly)
 
-  const width = 600, height = 700;
-  const radius = (Math.min(width, height) / 2 - 100) * 0.765;
-  const levels = 5; // número de círculos concéntricos (ahora 5 para escala 1-5)
-  const maxValue = 5; // escala máxima (ahora 5 porque hay valores de 5)
+categorias <- c(
+  "1. Evaluación comunitaria", "2. Evaluación científica del riesgo",
+  "3. Diseminación de información en RRD", "4. Educación de los niños en RRD",
+  "5. RRD en la planificación del desarrollo", "6. RRD en la planificación territorial",
+  "7. Toma comunitaria de decisiones", "8. Inclusión de grupos vulnerables",
+  "9. Participación de las mujeres", "10. Conocimiento de derechos",
+  "11. Alianzas para la RRD", "12. Gestión ambiental sostenible",
+  "13. Seguridad y gestión del agua", "14. Acceso y conciencia de la salud",
+  "15. Suministro seguro de alimentos", "16. Prácticas de medios de vida",
+  "17. Acceso a mercado", "18. Acceso a servicios financieros",
+  "19. Protección de ingresos y activos", "20. Acceso a protección social",
+  "21. Cohesión social", "22. Infraestructura crítica", "23. Vivienda",
+  "24. Planificación de contingencia", "25. Sistema de alerta temprana",
+  "26. Capacidad de preparación", "27. Servicios de salud",
+  "28. Servicios de educación", "29. Infraestructura en emergencias",
+  "30. Liderazgo y voluntariado"
+)
 
-  const angleSlice = (Math.PI * 2) / data.length;
+valores_2021 <- c(4, 4, 3, 4, 3, 2, 1, 4, 3, 5, 4, 4, 3, 4, 4, 4, 2, 3, 2, 2, 3, 2, 3, 3, 3, 4, 4, 4, 4, 1)
 
-  const rScale = d3.scaleLinear()
-    .domain([0, maxValue])
-    .range([0, radius]);
-
-  const svg = d3.create("svg")
-    .attr("width", width)
-    .attr("height", height);
-
-  const g = svg.append("g")
-    .attr("transform", `translate(${width/2},${height/2})`);
-
-  // Dibujar círculos concéntricos
-  for (let i = 0; i <= levels; i++) {
-    g.append("circle")
-      .attr("r", radius/levels * i)
-      .attr("fill", "none")
-      .attr("stroke", "#ccc");
-  }
-
-  // Agregar etiquetas de escala en el eje vertical superior
-  for (let i = 1; i <= levels; i++) {
-    g.append("text")
-      .attr("x", 5)
-      .attr("y", -radius/levels * i)
-      .attr("dy", "0.35em")
-      .style("font-size", "11px")
-      .style("font-family", "Arial, sans-serif")
-      .style("font-weight", "bold")
-      .style("fill", "#666")
-      .text(i);
-  }
-
-  // Ejes radiales
-  data.forEach((d, i) => {
-    const angle = angleSlice * i - Math.PI/2;
-    g.append("line")
-      .attr("x1", 0)
-      .attr("y1", 0)
-      .attr("x2", rScale(maxValue) * Math.cos(angle))
-      .attr("y2", rScale(maxValue) * Math.sin(angle))
-      .attr("stroke", "#999");
-
-    // Etiquetas
-    g.append("text")
-      .attr("x", (rScale(maxValue + 0.5)) * Math.cos(angle))
-      .attr("y", (rScale(maxValue + 0.5)) * Math.sin(angle))
-      .attr("dy", "0.35em")
-      .style("font-size", "9px")
-      .style("font-family", "Arial, sans-serif")
-      .style("text-anchor", angle > Math.PI/2 && angle < 3*Math.PI/2 ? "end" : "start")
-      .text(d.axis);
-  });
-
-  // Línea de valores
-  const line = d3.lineRadial()
-    .radius(d => rScale(d.value))
-    .angle((d,i) => i * angleSlice)
-    .curve(d3.curveLinearClosed);
-
-  g.append("path")
-    .datum(data)
-    .attr("d", line)
-    .attr("fill", "rgba(50,150,250,0.5)")
-    .attr("stroke", "steelblue")
-    .attr("stroke-width", 2);
-
-  return svg.node();
-}
+plot_ly(
+  type = "scatterpolar",
+  r = c(valores_2021, valores_2021[1]),
+  theta = c(categorias, categorias[1]),
+  fill = "toself",
+  fillcolor = "rgba(50,150,250,0.5)",
+  line = list(color = "steelblue", width = 2),
+  mode = "lines"
+) |>
+  layout(
+    polar = list(
+      radialaxis = list(
+        visible = TRUE,
+        range = c(0, 5),
+        tickvals = c(1, 2, 3, 4, 5),
+        tickfont = list(size = 10, family = "Arial")
+      ),
+      angularaxis = list(
+        tickfont = list(size = 8, family = "Arial"),
+        direction = "clockwise"
+      )
+    ),
+    showlegend = FALSE
+  )
 ```
 
 ## 5. DISCUSIÓN
@@ -615,201 +486,79 @@ En el caso de las alianzas para la reducción del riesgo de desastres y recupera
 
 Finalmente, otra de las grandes diferencias encontradas, se evidencia en el sistema de  capacidad de preparación, respuesta y recuperación temprana, pasó de una calificación de 2 a 4, ya que dichas capacidades, han mejorado notablemente en la comuna y en el municipio, viéndose reflejado en la Estrategia Municipal de Respuesta a Emergencias (EMRE) y en la organización comunitaria.
 
-```{ojs}
-//| echo: false
-//| label: fig-analisis-comparativo
-//| fig-cap: "Análisis comparativo de la evaluación de la resiliencia comunitaria ante desastres en los años 2011 y 2021."
+```{r}
+#| message: false
+#| label: fig-analisis-comparativo
+#| fig-cap: "Análisis comparativo de la evaluación de la resiliencia comunitaria ante desastres en los años 2011 y 2021."
+#| fig-width: 7
+#| fig-height: 7
+#| code-fold: true
+#| code-summary: "<i class='bi bi-code-slash'></i> Código"
 
-// Radar chart comparativo con D3
-{
-  // Datos de evaluación 2011 (amarillo)
-  const data2011 = [
-    {axis: "1. Evaluación comunitaria", value: 3},
-    {axis: "2. Evaluación científica del riesgo", value: 2.0},
-    {axis: "3. Diseminación de información en RRD", value: 2},
-    {axis: "4. Educación de los niños en RRD", value: 2},
-    {axis: "5. RRD en la planificación del desarrollo", value: 1},
-    {axis: "6. RRD en la planificación territorial", value: 1},
-    {axis: "7. Toma comunitaria de decisiones", value: 1},
-    {axis: "8. Inclusión de grupos vulnerables", value: 2},
-    {axis: "9. Participación de las mujeres", value: 2},
-    {axis: "10. Conocimiento de derechos", value: 2},
-    {axis: "11. Alianzas para la RRD", value: 1},
-    {axis: "12. Gestión ambiental sostenible", value: 2},
-    {axis: "13. Seguridad y gestión del agua", value: 2},
-    {axis: "14. Acceso y conciencia de la salud", value: 2},
-    {axis: "15. Suministro seguro de alimentos", value: 2},
-    {axis: "16. Prácticas de medios de vida", value: 1},
-    {axis: "17. Acceso a mercado", value: 1},
-    {axis: "18. Acceso a servicios financieros", value: 1.2},
-    {axis: "19. Protección de ingresos y activos", value: 2},
-    {axis: "20. Acceso a protección social", value: 2},
-    {axis: "21. Cohesión social", value: 4},
-    {axis: "22. Infraestructura crítica", value: 1},
-    {axis: "23. Vivienda", value: 1},
-    {axis: "24. Planificación de contingencia", value: 1},
-    {axis: "25. Sistema de alerta temprana", value: 1},
-    {axis: "26. Capacidad de preparación", value: 2},
-    {axis: "27. Servicios de salud", value: 2},
-    {axis: "28. Servicios de educación", value: 2},
-    {axis: "29. Infraestructura en emergencias", value: 1},
-    {axis: "30. Liderazgo y voluntariado", value: 1}
-  ];
+library(plotly)
 
-  // Datos de evaluación 2021 (azul)
-  const data2021 = [
-    {axis: "1. Evaluación comunitaria", value: 4},
-    {axis: "2. Evaluación científica del riesgo", value: 4},
-    {axis: "3. Diseminación de información en RRD", value: 3},
-    {axis: "4. Educación de los niños en RRD", value: 4},
-    {axis: "5. RRD en la planificación del desarrollo", value: 3},
-    {axis: "6. RRD en la planificación territorial", value: 2},
-    {axis: "7. Toma comunitaria de decisiones", value: 1},
-    {axis: "8. Inclusión de grupos vulnerables", value: 4},
-    {axis: "9. Participación de las mujeres", value: 3},
-    {axis: "10. Conocimiento de derechos", value: 5},
-    {axis: "11. Alianzas para la RRD", value: 4},
-    {axis: "12. Gestión ambiental sostenible", value: 4},
-    {axis: "13. Seguridad y gestión del agua", value: 3},
-    {axis: "14. Acceso y conciencia de la salud", value: 4},
-    {axis: "15. Suministro seguro de alimentos", value: 4},
-    {axis: "16. Prácticas de medios de vida", value: 4},
-    {axis: "17. Acceso a mercado", value: 2},
-    {axis: "18. Acceso a servicios financieros", value: 3},
-    {axis: "19. Protección de ingresos y activos", value: 2},
-    {axis: "20. Acceso a protección social", value: 2},
-    {axis: "21. Cohesión social", value: 3},
-    {axis: "22. Infraestructura crítica", value: 2},
-    {axis: "23. Vivienda", value: 3},
-    {axis: "24. Planificación de contingencia", value: 3},
-    {axis: "25. Sistema de alerta temprana", value: 3},
-    {axis: "26. Capacidad de preparación", value: 4},
-    {axis: "27. Servicios de salud", value: 4},
-    {axis: "28. Servicios de educación", value: 4},
-    {axis: "29. Infraestructura en emergencias", value: 4},
-    {axis: "30. Liderazgo y voluntariado", value: 1}
-  ];
+categorias <- c(
+  "1. Evaluación comunitaria", "2. Evaluación científica del riesgo",
+  "3. Diseminación de información en RRD", "4. Educación de los niños en RRD",
+  "5. RRD en la planificación del desarrollo", "6. RRD en la planificación territorial",
+  "7. Toma comunitaria de decisiones", "8. Inclusión de grupos vulnerables",
+  "9. Participación de las mujeres", "10. Conocimiento de derechos",
+  "11. Alianzas para la RRD", "12. Gestión ambiental sostenible",
+  "13. Seguridad y gestión del agua", "14. Acceso y conciencia de la salud",
+  "15. Suministro seguro de alimentos", "16. Prácticas de medios de vida",
+  "17. Acceso a mercado", "18. Acceso a servicios financieros",
+  "19. Protección de ingresos y activos", "20. Acceso a protección social",
+  "21. Cohesión social", "22. Infraestructura crítica", "23. Vivienda",
+  "24. Planificación de contingencia", "25. Sistema de alerta temprana",
+  "26. Capacidad de preparación", "27. Servicios de salud",
+  "28. Servicios de educación", "29. Infraestructura en emergencias",
+  "30. Liderazgo y voluntariado"
+)
 
-  const width = 600, height = 700;
-  const radius = Math.min(width, height) / 2 - 80;
-  const levels = 5;
-  const maxValue = 5;
+valores_2011 <- c(3, 2, 2, 2, 1, 1, 1, 2, 2, 2, 1, 2, 2, 2, 2, 1, 1, 1.2, 2, 2, 4, 1, 1, 1, 1, 2, 2, 2, 1, 1)
+valores_2021 <- c(4, 4, 3, 4, 3, 2, 1, 4, 3, 5, 4, 4, 3, 4, 4, 4, 2, 3, 2, 2, 3, 2, 3, 3, 3, 4, 4, 4, 4, 1)
 
-  const angleSlice = (Math.PI * 2) / data2011.length;
-
-  const rScale = d3.scaleLinear()
-    .domain([0, maxValue])
-    .range([0, radius]);
-
-  const svg = d3.create("svg")
-    .attr("width", width)
-    .attr("height", height);
-
-  const g = svg.append("g")
-    .attr("transform", `translate(${width/2},${height/2})`);
-
-  // Dibujar círculos concéntricos
-  for (let i = 0; i <= levels; i++) {
-    g.append("circle")
-      .attr("r", radius/levels * i)
-      .attr("fill", "none")
-      .attr("stroke", "#ddd")
-      .attr("stroke-width", i === 0 ? 0 : 1);
-  }
-
-  // Agregar etiquetas de escala
-  for (let i = 1; i <= levels; i++) {
-    g.append("text")
-      .attr("x", 5)
-      .attr("y", -radius/levels * i)
-      .attr("dy", "0.35em")
-      .style("font-size", "11px")
-      .style("font-weight", "bold")
-      .style("fill", "#666")
-      .text(i);
-  }
-
-  // Ejes radiales
-  data2011.forEach((d, i) => {
-    const angle = angleSlice * i - Math.PI/2;
-    g.append("line")
-      .attr("x1", 0)
-      .attr("y1", 0)
-      .attr("x2", rScale(maxValue) * Math.cos(angle))
-      .attr("y2", rScale(maxValue) * Math.sin(angle))
-      .attr("stroke", "#999")
-      .attr("stroke-width", 0.5);
-
-    // Etiquetas
-    g.append("text")
-      .attr("x", (rScale(maxValue + 0.5)) * Math.cos(angle))
-      .attr("y", (rScale(maxValue + 0.5)) * Math.sin(angle))
-      .attr("dy", "0.35em")
-      .style("font-size", "9px")
-      .style("text-anchor", angle > Math.PI/2 && angle < 3*Math.PI/2 ? "end" : "start")
-      .text(d.axis);
-  });
-
-  // Línea de valores 2011 (amarillo)
-  const line2011 = d3.lineRadial()
-    .radius(d => rScale(d.value))
-    .angle((d,i) => i * angleSlice)
-    .curve(d3.curveLinearClosed);
-
-  g.append("path")
-    .datum(data2011)
-    .attr("d", line2011)
-    .attr("fill", "rgba(255,235,100,0.4)")
-    .attr("stroke", "goldenrod")
-    .attr("stroke-width", 2);
-
-  // Línea de valores 2021 (azul)
-  const line2021 = d3.lineRadial()
-    .radius(d => rScale(d.value))
-    .angle((d,i) => i * angleSlice)
-    .curve(d3.curveLinearClosed);
-
-  g.append("path")
-    .datum(data2021)
-    .attr("d", line2021)
-    .attr("fill", "rgba(50,150,250,0.4)")
-    .attr("stroke", "steelblue")
-    .attr("stroke-width", 2);
-
-  // Leyenda centrada debajo del gráfico
-  const legend = svg.append("g")
-    .attr("transform", `translate(${width/2 - 100}, ${height - 20})`);
-
-  legend.append("rect")
-    .attr("x", 0)
-    .attr("y", 0)
-    .attr("width", 15)
-    .attr("height", 15)
-    .attr("fill", "rgba(255,235,100,0.6)")
-    .attr("stroke", "goldenrod");
-
-  legend.append("text")
-    .attr("x", 20)
-    .attr("y", 12)
-    .style("font-size", "12px")
-    .text("2011 (30.8%)");
-
-  legend.append("rect")
-    .attr("x", 110)
-    .attr("y", 0)
-    .attr("width", 15)
-    .attr("height", 15)
-    .attr("fill", "rgba(50,150,250,0.6)")
-    .attr("stroke", "steelblue");
-
-  legend.append("text")
-    .attr("x", 130)
-    .attr("y", 12)
-    .style("font-size", "12px")
-    .text("2021 (60.2%)");
-
-  return svg.node();
-}
+plot_ly() |>
+  add_trace(
+    type = "scatterpolar",
+    r = c(valores_2011, valores_2011[1]),
+    theta = c(categorias, categorias[1]),
+    fill = "toself",
+    fillcolor = "rgba(255,235,100,0.4)",
+    line = list(color = "goldenrod", width = 2),
+    mode = "lines",
+    name = "2011 (30.8%)"
+  ) |>
+  add_trace(
+    type = "scatterpolar",
+    r = c(valores_2021, valores_2021[1]),
+    theta = c(categorias, categorias[1]),
+    fill = "toself",
+    fillcolor = "rgba(50,150,250,0.4)",
+    line = list(color = "steelblue", width = 2),
+    mode = "lines",
+    name = "2021 (60.2%)"
+  ) |>
+  layout(
+    polar = list(
+      radialaxis = list(
+        visible = TRUE,
+        range = c(0, 5),
+        tickvals = c(1, 2, 3, 4, 5),
+        tickfont = list(size = 10, family = "Arial")
+      ),
+      angularaxis = list(
+        tickfont = list(size = 8, family = "Arial"),
+        direction = "clockwise"
+      )
+    ),
+    legend = list(
+      x = 0.5, xanchor = "center",
+      y = -0.05, yanchor = "top",
+      orientation = "h"
+    ),
+    showlegend = TRUE
+  )
 ```
 
 ## 6. CONCLUSIONES

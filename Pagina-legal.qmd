@@ -51,7 +51,11 @@ Proceso de arbitraje \| Revisión por pares doble ciega para cada capítulo
 
 Proceso editorial \| [Guía básica de procesos editoriales, 2018, Editorial UNAL](https://fadmon.unal.edu.co/fileadmin/user_upload/investigacion/centro_editorial/guia-basica-procesos-editoriales.pdf); [APA 5a ed](https://apastyle.apa.org/); [SSF-CSE Manual 9a ed.](https://www.councilscienceeditors.org/cse-manual)
 
+ISBN obra digital: 978-958-5509-45-0
+
 DOI: <https://doi.org/10.5281/zenodo.17642668>
+
+<http://repositorio.gestiondelriesgo.gov.co/handle/20.500.11762/41739>
 
 Copyright: © Unidad Nacional para la Gestión del Riesgo de Desastres, Diciembre de 2025. Bogotá, Colombia
 

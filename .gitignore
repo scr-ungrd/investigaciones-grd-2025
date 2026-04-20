@@ -12,6 +12,7 @@ capitulo-plantilla_files/
 *.log
 *.toc
 *.pdf
+!docs/**/*.pdf
 *.idx
 !cover.png
 

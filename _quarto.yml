@@ -13,6 +13,7 @@ book:
   cover-image: cover.png
   repo-url: https://github.com/scr-ungrd/investigaciones-grd-2025
   repo-actions: [source, issue]
+  downloads: [pdf]
   site-url: https://scr-ungrd.github.io/investigaciones-grd-2025
   sidebar:
     style: floating
@@ -59,10 +60,12 @@ format:
       - caption-bold.html
       - text: |
           <meta name="citation_book_title" content="Investigaciones en Gestión del Riesgo de Desastres para Colombia. Enfoque Comunitario, Territorial y Animal">
+          <meta name="citation_title" content="Investigaciones en Gestión del Riesgo de Desastres para Colombia. Enfoque Comunitario, Territorial y Animal">
           <meta name="citation_publisher" content="Unidad Nacional para la Gestión del Riesgo de Desastres - UNGRD">
           <meta name="citation_publication_date" content="2025/12/03">
           <meta name="citation_online_date" content="2025/12/03">
           <meta name="citation_language" content="es">
+          <meta name="citation_pdf_url" content="https://scr-ungrd.github.io/investigaciones-grd-2025/Investigaciones-en-Gesti%C3%B3n-del-Riesgo-de-Desastres-para-Colombia.-Enfoque-Comunitario,-Territorial-y-Animal.pdf">
           <meta name="robots" content="index, follow">
     html-math-method: katex
   pdf:
@@ -77,6 +80,12 @@ format:
       - text: |
           \usepackage{makeidx}
           \makeindex
+          \AtBeginDocument{\hypersetup{
+            pdftitle={Investigaciones en Gestión del Riesgo de Desastres para Colombia. Enfoque Comunitario, Territorial y Animal},
+            pdfauthor={Comisión Nacional Asesora para la Investigación en Gestión del Riesgo de Desastres},
+            pdfsubject={Gestión del Riesgo de Desastres, Colombia},
+            pdfkeywords={gestión del riesgo de desastres; resiliencia comunitaria; cartografía participativa; etnodiferencial; riesgo volcánico; animales de producción; Colombia}
+          }}
     include-after-body:
       - text: |
           \clearpage

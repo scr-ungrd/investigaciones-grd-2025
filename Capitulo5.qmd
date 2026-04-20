@@ -40,7 +40,7 @@ format:
           <meta name="citation_journal_title" content="Investigaciones en Gestión del Riesgo de Desastres para Colombia. Enfoque Comunitario, Territorial y Animal">
           <meta name="citation_publisher" content="Unidad Nacional para la Gestión del Riesgo de Desastres - UNGRD">
           <meta name="citation_doi" content="10.5281/zenodo.17673444">
-          <meta name="citation_pdf_url" content="https://scr-ungrd.github.io/investigaciones-grd-2025/Capitulo5.pdf">
+          <meta name="citation_pdf_url" content="https://scr-ungrd.github.io/investigaciones-grd-2025/Investigaciones-en-Gesti%C3%B3n-del-Riesgo-de-Desastres-para-Colombia.-Enfoque-Comunitario,-Territorial-y-Animal.pdf">
           <meta name="citation_abstract_html_url" content="https://scr-ungrd.github.io/investigaciones-grd-2025/Capitulo5.html">
           <meta name="citation_language" content="es">
           <meta name="citation_keywords" content="desastres; reducción de riesgo; ganadería; volcanes; animales de producción; bienestar animal; seguridad alimentaria">
