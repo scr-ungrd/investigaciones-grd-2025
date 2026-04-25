@@ -36,7 +36,7 @@ format:
           <meta name="citation_author" content="Zambrano-Hernández, Lina Andrea">
           <meta name="citation_publication_date" content="2025/12/03">
           <meta name="citation_online_date" content="2025/12/03">
-          <meta name="citation_journal_title" content="Investigaciones en Gestión del Riesgo de Desastres para Colombia. Enfoque Comunitario, Territorial y Animal">
+          <meta name="citation_book_title" content="Investigaciones en Gestión del Riesgo de Desastres para Colombia. Enfoque Comunitario, Territorial y Animal">
           <meta name="citation_publisher" content="Unidad Nacional para la Gestión del Riesgo de Desastres - UNGRD">
           <meta name="citation_doi" content="10.5281/zenodo.17673252">
           <meta name="citation_pdf_url" content="https://scr-ungrd.github.io/investigaciones-grd-2025/Investigaciones-en-Gesti%C3%B3n-del-Riesgo-de-Desastres-para-Colombia.-Enfoque-Comunitario,-Territorial-y-Animal.pdf">

@@ -7,6 +7,7 @@ capitulo-plantilla_files/
 *.html
 !docs/**/*.html
 !caption-bold.html
+!google*.html
 *.tex
 *.aux
 *.log

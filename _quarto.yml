@@ -5,6 +5,7 @@ project:
     - sitemap.xml
     - robots.txt
     - google98adae217caa0c46.html
+    - google0997b1b2df2b4162.html
 
 book:
   title: "Investigaciones en Gestión del Riesgo de Desastres para Colombia. Enfoque Comunitario, Territorial y Animal"
@@ -60,7 +61,6 @@ format:
       - caption-bold.html
       - text: |
           <meta name="citation_book_title" content="Investigaciones en Gestión del Riesgo de Desastres para Colombia. Enfoque Comunitario, Territorial y Animal">
-          <meta name="citation_title" content="Investigaciones en Gestión del Riesgo de Desastres para Colombia. Enfoque Comunitario, Territorial y Animal">
           <meta name="citation_publisher" content="Unidad Nacional para la Gestión del Riesgo de Desastres - UNGRD">
           <meta name="citation_publication_date" content="2025/12/03">
           <meta name="citation_online_date" content="2025/12/03">

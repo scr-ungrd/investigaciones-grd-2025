@@ -1,3 +1,12 @@
+---
+format:
+  html:
+    include-in-header:
+      - text: |
+          <meta name="citation_title" content="Investigaciones en Gestión del Riesgo de Desastres para Colombia. Enfoque Comunitario, Territorial y Animal">
+          <meta name="citation_author" content="Comisión Nacional Asesora para la Investigación en Gestión del Riesgo de Desastres">
+---
+
 # Inicio {.unnumbered}
 
 Bienvenidos al tercer libro sobre Investigaciones en Gestión del Riesgo de Desastres para Colombia. Este libro reúne trabajos recientes que exploran el riesgo de desastres desde una perspectiva integral reconociendo la interconexión entre comunidades, paisaje y animales y múltiples enfoques incorporando las realidades culturales, territoriales y ecológicas de nuestro país.
