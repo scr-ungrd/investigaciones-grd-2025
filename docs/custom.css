@@ -419,3 +419,59 @@ div.cell[data-language="ojs"] {
   margin-top: 0.25rem !important;
   margin-bottom: 0.25rem !important;
 }
+
+/* Index page cards */
+.card {
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  transition: box-shadow 0.2s ease;
+  border: 1px solid #e5e7eb;
+}
+
+.card:hover {
+  box-shadow: 0 6px 20px rgba(0,0,0,0.15);
+}
+
+.card-header.bg-white {
+  border-top: 4px solid #2c7bb6;
+  border-bottom: 1px solid #e5e7eb;
+  background-color: #ffffff !important;
+  padding: 0.85rem 1rem;
+}
+
+.card-header strong {
+  font-weight: 600;
+  font-size: 0.95rem;
+  line-height: 1.3;
+}
+
+.card-body img {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 4px;
+  margin-bottom: 0.75rem;
+}
+
+.card-body {
+  font-size: 0.9rem;
+  color: #4b5563;
+}
+
+/* Left sidebar: active chapter in dark blue + bold */
+#quarto-sidebar .sidebar-item-container .active,
+#quarto-sidebar .sidebar-item-container a.active,
+#quarto-sidebar .sidebar-navigation a.active {
+  color: #003A70 !important;
+  font-weight: 700 !important;
+  background-color: transparent !important;
+}
+
+/* Right TOC: active section with orange background */
+#quarto-document-toc .nav-link.active,
+nav[role="doc-toc"] .nav-link.active {
+  background-color: #efc078 !important;
+  color: #1f2937 !important;
+  border-radius: 4px;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}

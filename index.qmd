@@ -21,43 +21,80 @@ Agradecemos por difundir el libro para que crezca como un espacio de reflexión 
 
 ------------------------------------------------------------------------
 
-## [Capítulo 1: Entre el conocimiento y la acción: estrategias para la gestión del riesgo de desastres y la adaptación climática en el Valle de Aburrá](Capitulo1.html)
+::: {.d-flex .justify-content-start .mb-3}
+[← Ver colección completa de la serie](https://scr-ungrd.github.io/investigaciones-grd-colombia/){.btn .btn-outline-secondary .btn-sm}
+:::
+
+::::::::: {layout-ncol="2"}
+::::: card
+::: {.card-header .bg-white}
+**[Capítulo 1: Entre el conocimiento y la acción: estrategias para la gestión del riesgo de desastres y la adaptación climática en el Valle de Aburrá](Capitulo1.html)**
+:::
+
+::: card-body
+![](https://scr-ungrd.github.io/investigaciones-grd-2025/images/capitulo1/metodologia-scc.jpg){fig-align="left" width="250"}
 
 **Autores:** Yazmín Cardona, Adriana Carolina Herrera-López, María Alejandra Parra-Góez, Olga Ramírez, Julián Sepúlveda, Esneider Zapata
 
-Este estudio analiza el papel del proyecto SIATA frente a la apropiación social del conocimiento y el fortalecimiento ciudadano en la gestión del riesgo de desastres y la adaptación climática en el Valle de Aburrá.
+Aquí se analiza el papel del proyecto SIATA frente a la apropiación social del conocimiento y el fortalecimiento ciudadano en la gestión del riesgo de desastres y la adaptación climática en el Valle de Aburrá.
+:::
+:::::
 
-------------------------------------------------------------------------
+::::: card
+::: {.card-header .bg-white}
+**[Capítulo 2: Enfoque etnodiferencial y riesgo de desastre en Colombia: líneas de fuga para una digna vida](Capitulo2.html)**
+:::
 
-## [Capítulo 2: Enfoque etnodiferencial y riesgo de desastre en Colombia: líneas de fuga para una digna vida](Capitulo2.html)
-
+::: card-body
 **Autores:** William Oswaldo Gaviria-Gutiérrez, Lina Andrea Zambrano-Hernández
 
 Este estudio explora las posibilidades de articulación del enfoque etnodiferencial en la gestión del riesgo de desastres en Colombia, buscando superar la subalternidad histórica de las voces comunitarias.
+:::
+:::::
 
-------------------------------------------------------------------------
+::::: card
+::: {.card-header .bg-white}
+**[Capítulo 3: Gestión del Riesgo de Desastres Comunitario a través de Cartografía Participativa y Tecnologías Abiertas en San Antonio del Prado, Colombia](Capitulo3.html)**
+:::
 
-## [Capítulo 3: Gestión del Riesgo de Desastres Comunitario a través de Cartografía Participativa y Tecnologías Abiertas en San Antonio del Prado, Colombia](Capitulo3.html)
+::: card-body
+![](https://scr-ungrd.github.io/investigaciones-grd-2025/images/capitulo3/tipos-monitoreo-comunitario.png){fig-align="left" width="250"}
 
 **Autores:** Yessica De los ríos Olarte, Ana Milena Prada Uribe, Céline Jacquin
 
 Este capítulo explora el potencial de aplicaciones y tecnologías abiertas a través de la exposición de un caso de estudio en Medellín, San Antonio de Prado, Colombia.
+:::
+:::::
 
-------------------------------------------------------------------------
+::::: card
+::: {.card-header .bg-white}
+**[Capítulo 4: Evaluación multitemporal de la resiliencia comunitaria ante eventos tecnológicos en la Comuna 10 del municipio de Dosquebradas](Capitulo4.html)**
+:::
 
-## [Capítulo 4: Evaluación multitemporal de la resiliencia comunitaria ante eventos tecnológicos en la Comuna 10 del municipio de Dosquebradas](Capitulo4.html)
+::: card-body
+![](https://scr-ungrd.github.io/investigaciones-grd-2025/images/capitulo4/Figura%201.%20Mapa%20de%20localizaci%C3%B3n%20del%20municipio%20de%20Dosquebradas.png){fig-align="left" width="250"}
 
 **Autores:** Evelin Langebeck Cuéllar, Nicolás Giraldo Hernández
 
 Aquí se mide y evalúa la resiliencia comunitaria ante desastres empleando la aplicación de la herramienta ARC-D en una población del municipio de Dosquebradas, Risaralda (barrio Villa Carola).
+:::
+:::::
 
-------------------------------------------------------------------------
+::::: card
+::: {.card-header .bg-white}
+**[Capítulo 5: Avances y desafíos del manejo de desastres y gestión del riesgo volcánico con animales de producción](Capitulo5.html)**
+:::
 
-## [Capítulo 5: Avances y desafíos del manejo de desastres y gestión del riesgo volcánico con animales de producción](Capitulo5.html)
+::: card-body
+![](https://scr-ungrd.github.io/investigaciones-grd-2025/images/capitulo5/ganado_henolaje_ceniza.jpg){fig-align="left" width="250"}
 
 **Autores:** Diego Hernández Pulido, Julia Inés Lema Vélez
 
 Los animales sufren consecuencias crónicas como enfermedades, inanición o muerte por ingesta de ceniza volcánica, lo que amenaza la seguridad alimentaria y la salud pública.
+:::
+:::::
+
+:::::::::
 
 ------------------------------------------------------------------------
 
