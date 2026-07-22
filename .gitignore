@@ -1,7 +1,5 @@
 /.quarto/
 _book/
-docs/
-site_libs/
 capitulo-plantilla_files/
 .DS_Store
 *.html
