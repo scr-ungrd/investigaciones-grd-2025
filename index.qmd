@@ -22,7 +22,7 @@ Agradecemos por difundir el libro para que crezca como un espacio de reflexión 
 ------------------------------------------------------------------------
 
 ::: {.d-flex .justify-content-start .mb-3}
-[← Ver colección completa de la serie](https://scr-ungrd.github.io/investigaciones-grd-colombia/){.btn .btn-outline-secondary .btn-sm}
+[← Ver colección completa de la serie](https://scr-ungrd.github.io/investigaciones-grd-colombia/){.ungrd-btn}
 :::
 
 ::::::::: {layout-ncol="2"}
