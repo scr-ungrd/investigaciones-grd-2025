@@ -6,8 +6,11 @@ format:
           <meta name="citation_title" content="Investigaciones en Gestión del Riesgo de Desastres para Colombia. Enfoque Comunitario, Territorial y Animal">
           <meta name="citation_author" content="Comisión Nacional Asesora para la Investigación en Gestión del Riesgo de Desastres">
 ---
-
 # Inicio {.unnumbered}
+::: {.d-flex .justify-content-start .mb-3}
+[← Ver colección completa de la serie](https://scr-ungrd.github.io/investigaciones-grd-colombia/){.ungrd-btn}
+:::
+
 
 Bienvenidos al tercer libro sobre Investigaciones en Gestión del Riesgo de Desastres para Colombia. Este libro reúne trabajos recientes que exploran el riesgo de desastres desde una perspectiva integral reconociendo la interconexión entre comunidades, paisaje y animales y múltiples enfoques incorporando las realidades culturales, territoriales y ecológicas de nuestro país.
 
@@ -20,10 +23,6 @@ Agradecemos por difundir el libro para que crezca como un espacio de reflexión 
 **Ana Milena Prada Uribe**, Subdirectora para el Conocimiento del Riesgo de Desastres
 
 ------------------------------------------------------------------------
-
-::: {.d-flex .justify-content-start .mb-3}
-[← Ver colección completa de la serie](https://scr-ungrd.github.io/investigaciones-grd-colombia/){.ungrd-btn}
-:::
 
 ::::::::: {layout-ncol="2"}
 ::::: card
