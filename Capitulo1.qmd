@@ -97,6 +97,8 @@ El Sistema de Alerta Temprana del Valle de Aburrá (SIATA) es un proyecto estrat
 
 ## 1. INTRODUCCIÓN
 
+------------------------------------------------------------------------
+
 Los habitantes de Colombia enfrentan una creciente exposición a amenazas derivadas de la crisis climática, lo que hace imperativa la preparación y capacitación ciudadana para enfrentar y mitigar sus potenciales impactos adversos. Para que la gestión del riesgo de desastres (GRD) y la adaptación al cambio climático\index{adaptación al cambio climático} (ACC) contribuyan de manera efectiva a la construcción de sociedades resilientes\index{Resiliencia}, es necesario articular el conocimiento científico con la apropiación social del conocimiento (ASC). Esta integración permite que la ciudadanía comprenda su territorio, identifique las amenazas que lo afectan y tome decisiones informadas y contextualizadas. En este contexto, el Sistema de Alerta Temprana del Valle de Aburrá (SIATA) se consolida como un proyecto estratégico liderado por la autoridad ambiental del Área Metropolitana del Valle de Aburrá (AMVA). El SIATA articula ciencia, tecnología e innovación mediante el monitoreo continuo de variables ambientales, el desarrollo de investigación aplicada, y el fortalecimiento de procesos de ASC.
 
 Este estudio de naturaleza cualitativa tiene como objetivo analizar el desarrollo de capacidades de dos comunidades del Valle de Aburrá antes y después de su participación en estrategias de ASC lideradas por el proyecto SIATA, tales como los Sistemas de Alerta Temprana Comunitaria y Semilleros de Ciudadanos Científicos.
@@ -177,6 +179,8 @@ En un entorno de creciente complejidad y frecuencia de desastres, la participaci
 
 ## 2. ESTRATEGIAS SIATA
 
+------------------------------------------------------------------------
+
 En el proyecto SIATA, con enfoques pedagógicos y didácticos\index{Enfoques pedagógicos y didácticos} se desarrollan estrategias de ASC en cuatro líneas: comunicación de la ciencia, gestión social, formación de públicos, y gestión del conocimiento, que favorecen la enseñanza y el aprendizaje científico a partir del contexto local. A continuación, se describen dos de las estrategias, teniendo en cuenta los objetivos de la actual investigación.
 
 ### 2.1 Semilleros de ciudadanos científicos(SCC)
@@ -226,6 +230,8 @@ La estrategia social del proyecto comprende además de los SATC, otros públicos
 :::
 
 ## 3. MATERIALES Y MÉTODOS
+
+------------------------------------------------------------------------
 
 Para establecer cómo influyen las estrategias educativas en la gestión del riesgo de desastres en la apropiación social del conocimiento de los sistemas de alerta temprana comunitarios y las comunidades educativas, se analizaron dos casos: una comunidad SATC y una comunidad educativa del territorio metropolitano. El enfoque del estudio es de naturaleza cualitativa siguiendo a Patton [@patton1980], Hernández et al. [@hernandez2006] y Galeano [@galeano2004], con un método de estudio de caso [@saldana2015; @stake1999].
 
@@ -332,6 +338,8 @@ En la @tbl-codigos se presentan los códigos y su significado. Finalmente, los d
 : Códigos de análisis. {#tbl-codigos}
 
 ## 4. RESULTADOS
+
+------------------------------------------------------------------------
 
 A continuación, se presentan los resultados del estudio, donde se describen los hallazgos antes y después del proceso formativo del proyecto SIATA. En la @tbl-categoria1, @tbl-subcategoria1.2, @tbl-categoria2, @tbl-subcategoria2 se muestra la información a partir del diario de campo de acuerdo con el sistema de categorías.
 
@@ -458,6 +466,8 @@ En la @fig-segm-codif se observa que antes del proceso de formación ambas comun
 ![En la parte superior se presenta el porcentaje de los segmentos codificados para los diarios de campo (panel superior izquierdo) y las entrevistas (panel superior derecho), donde se contrasta el porcentaje de codificaciones entre las comunidades estudiadas. Asimismo, se muestra en la parte inferior la comparación de las unidades codificadas antes y después del proceso de formación, tanto para la comunidad 1 (panel inferior izquierdo) como para la comunidad 2 (panel inferior derecho).](images/capitulo1/fases-satc.png){#fig-segm-codif width="600"}
 
 ## 5. CONCLUSIONES
+
+------------------------------------------------------------------------
 
 La experiencia del proyecto SIATA destaca la apropiación social del conocimiento para la gestión del riesgo de desastres y la adaptación al cambio climático como herramienta para fortalecer la resiliencia de los habitantes del Valle de Aburrá. Este enfoque involucra a la comunidad en la comprensión activa de su entorno y en la adopción de herramientas prácticas para abordar sus desafíos ambientales. Las metodologías aplicadas en las estrategias de ASC fueron efectivas para integrar conocimientos científicos y populares, garantizando la inclusión de múltiples actores de la comunidad, independientemente de su nivel educativo o edad. Asimismo, permitió el empoderamiento de la comunidad y que los participantes directos e indirectos se convirtieran en agentes activos en la gestión del riesgo de desastres y la adaptación al cambio climático.
 

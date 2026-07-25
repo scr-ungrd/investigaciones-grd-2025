@@ -82,6 +82,8 @@ En Colombia, la gestión del riesgo de desastres ha reflejado la subalternizaci�
 
 ## 1. INTRODUCCIÓN
 
+------------------------------------------------------------------------
+
 El desastre es una ruptura de la cotidianidad. En un territorio específico, las interacciones socioambientales que se han venido configurando se fracturan, lo que genera un profundo sufrimiento para el cuerpo subjetivo, político y territorial. Evitar este dolor representa un acto de justicia\index{justicia} con la digna vida\index{digna vida}, en tanto aquel padecimiento es evitable. Así, en clave de promoción de la digna vida y evitación de sufrimientos emerge la gestión del riesgo de desastres (GRD), concebida como un proceso social orientado a la transformación de las relaciones entre los seres humanos y la naturaleza [@narvaez2009].
 
 Ahora bien, aun cuando su horizonte es loable, la GRD se ha visto inmersa en una tensión discursiva desde hace varios años. Por un lado, encontramos el enfoque que comprende el desastre desde una perspectiva fisicalista\index{enfoque fisicalista}, que privilegia el estudio de las amenazas por encima de cualquier otro factor [@torrico2008]. Por otro lado, existen los planteamientos construccionistas, que interpretan el riesgo y el desastre como fenómenos emergentes de la compleja red de interacciones humanas [@maskrey1998; @alcantara2025].
@@ -124,6 +126,8 @@ Por lo tanto, la incorporación del enfoque etnodiferencial\index{enfoque etnodi
 
 ## 2. METODOLOGÍA
 
+------------------------------------------------------------------------
+
 La investigación adelantada fue de tipo cualitativa, estructurada mediante fases polifónicas. Esta noción hace referencia a estadios de diálogo que reúnen diversas voces, permitiendo que emerja un discurso generativo [@guzman2020; @lastra2020] en clave de las categorías etnodiferencial y GRD, seguidas por la pregunta amplia: ¿Cuáles son las posibilidades de articulación del enfoque etnodiferencial a la GRD en Colombia? Estas fases se complementaron con un proceso de acuerdos narrativos [@sciurano2022], mediante el cual se armonizan los tonos discursivos y operativos en colaboración con las instancias responsables del proyecto. En consecuencia, las fases polifónicas se desarrollaron de la siguiente manera:
 
 **Fase polifónica I.** Esta fase implicó la revisión de documentos sobre el enfoque etnodiferencial en la GRD en Latinoamérica, con énfasis en Colombia. Se exploraron Google Académico, Redalyc, Scielo, Ebsco, CEPAL, Dialnet, Tesis Doctorales en Red y UNESCO, utilizando palabras clave como "etnodiferencial", "diversidad", "desastres", "riesgos", "recuperación", "rehabilitación" y "reconstrucción", en el rango temporal 2016--2021. De 213 textos iniciales, se eliminaron duplicados y no relevantes, quedando 80; la saturación categorial redujo la unidad de trabajo a 50. Este proceso aseguró una base sólida para analizar el componente étnico en la GRD. La metodología de selección aplicada refleja un enfoque transparente, alineado con los estándares de revisión, facilitando futuras investigaciones y aplicaciones prácticas en contextos étnicos diversos.
@@ -135,6 +139,8 @@ La selección de participantes se basó en un muestreo a conveniencia [@reales20
 **Fase polifónica III.** Consistió en el análisis y triangulación de la información obtenida en la Fase I y la Fase II, para esto se estructuró una matriz de doble entrada o matriz de consistencia cualitativa, siguiendo los planteamientos de Giesecke [@giesecke2020], en tanto esta herramienta permite organizar, relacionar y entender los datos obtenidos. Esto se complementó aplicando el criterio de saturación categorial, consistente en la no obtención de más información nueva luego de realizado el análisis [@alaggia2020].
 
 ## 3. RESULTADOS
+
+------------------------------------------------------------------------
 
 Los resultados han de presentarse en virtud de cuatro acápites: (1) Participación comunitaria en la GRD, (2) Conocimiento del riesgo y enfoque etnodiferencial, (3) Reducción del riesgo y enfoque etnodiferencial, (4) Manejo de desastres y enfoque etnodiferencial.
 
@@ -223,6 +229,8 @@ La recuperación se transforma en un proceso de múltiples trayectorias, donde l
 **Ejecución de la respuesta y la recuperación**\index{Ejecución de la respuesta y la recuperación}. La atención de emergencias y desastres, junto con la recuperación posterior, es un proceso altamente complejo y dinámico, donde las circunstancias pueden cambiar rápidamente. Estas disyuntivas requieren que las instancias de coordinación territorial garanticen que las comunidades tengan una representación activa en todos los niveles de toma de decisiones, desde el Comando Único y el Comando Unificado hasta los comités de recuperación. El reconocimiento de las diversas formas de organización comunitaria y la articulación con sus procesos de autogestión son esenciales para mantener un enfoque centrado en las necesidades y perspectivas de las comunidades. Este enfoque genera espacios donde la diversidad cultural y las prácticas tradicionales guían la toma de decisiones, permitiendo una respuesta y recuperación más inclusivas y acordes con las sensibilidades locales.
 
 ## 4. DISCUSIÓN Y CONCLUSIONES
+
+------------------------------------------------------------------------
 
 El enfoque etnodiferencial presenta una multiplicidad de alternativas que convocan caminos para otras formas de sentipensar la GRD en Colombia. Al considerar las tensiones que emergen, se permite una interacción entre los saberes ancestrales y las estructuras modernas de GRD, así como un replanteamiento de la participación comunitaria, la articulación interinstitucional y el papel de los saberes comunitarios en la construcción del conocimiento.
 

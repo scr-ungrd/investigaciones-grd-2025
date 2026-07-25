@@ -84,11 +84,15 @@ Las laderas volcánicas son zonas fértiles ideales para la agricultura y ganade
 
 ## 1. INTRODUCCIÓN
 
+------------------------------------------------------------------------
+
 Las erupciones volcánicas pueden ocasionar pérdidas económicas para los pequeños agricultores y productores pecuarios que dependen de sus animales de producción\index{Animales de producción}. Estos animales son un medio de subsistencia, además de ser fuente de proteína animal (leche, carne y huevos) indispensable para una buena nutrición; también son animales de trabajo, carga y transporte, y para millones de familias rurales, los sistemas de producción animal son su "banco en pie", fuente de ingreso y ahorro [@legs2023].
 
 La caída de cenizas puede tener graves efectos perjudiciales en los cultivos y en los animales. Dependiendo del grosor de las cenizas y la presencia de fluoruro soluble, el momento y la intensidad de la precipitación, se afectan la salud de los animales, las condiciones de crecimiento de los cultivos y la disponibilidad de agua y alimento no contaminados. Por otro lado, después de una erupción volcánica, la recuperación del componente animal y vegetal depende de la cantidad de ceniza, lava fluida, flujos piroclásticos y los gases emitidos. Debemos tener en cuenta que las erupciones pueden desencadenar otros fenómenos como lo son los incendios forestales, terremotos y tsunamis, lo que hará más difícil la recuperación. La caída del contenido volcánico en las aguas aumenta la acidez, turbidez y temperatura. Las erupciones pueden influir en la migración de los animales, el descanso de pasturas, y la alimentación de los animales [@peckyno2010].
 
 ## 2. CONOCIMIENTO DEL RIESGO VOLCÁNICO EN ANIMALES DE PRODUCCIÓN
+
+------------------------------------------------------------------------
 
 Fenómenos geológicos como terremotos, volcanes, tsunamis e hidrometeorológicos como tormentas de viento, sequías, nevadas e inundaciones continúan impactando a las personas y los bienes expuestos de la sociedad. Durante la última década, los desastres han provocado un aumento de las pérdidas económicas y sociales, generando desplazamientos y sufrimiento, esta tendencia ha llevado a una creciente dependencia de la ayuda humanitaria [@sawyer2018]. En el caso de los animales que pastan en libertad, el aislamiento por fenómenos como erupciones volcánicas puede provocarles inanición y debilitar su sistema general de su salud. Si bien el colapso de infraestructuras, los daños causados a los pastos por la caída o saturación de cenizas pueden generar otras complicaciones [@irvine2009].
 
@@ -210,6 +214,8 @@ En la @tbl-tabla1 se describen los efectos directos sobre los sistemas de produc
 
 ## 3. MEDIDAS DE GESTIÓN DEL RIESGO DE DESASTRES
 
+------------------------------------------------------------------------
+
 La gestión del riesgo de desastres en escenarios provocados por una erupción volcánica implica la planificación, preparación y ejecución de medidas para garantizar la seguridad y el bienestar del ganado en zonas afectadas por erupciones volcánicas. Esto incluye:
 
 **Evacuación**\index{Evacuación de animales de producción}: Evacuación de animales de producción de zonas que corren el riesgo de afectarse por una erupción volcánica. Esto puede implicar el traslado de los animales a zonas seguras que estén fuera de la zona de peligro o proporcionarles refugio temporal.
@@ -292,6 +298,8 @@ Los impactos en los cultivos herbáceos dependen del tipo de cultivo, la fase de
 
 ## 4. REDUCCIÓN DEL RIESGO VOLCÁNICO EN ANIMALES DE PRODUCCIÓN\index{Reducción del riesgo vulcánico en animales de producción}
 
+------------------------------------------------------------------------
+
 ### 4.1 Preparación humana frente a la preparación animal
 
 Las personas pueden encontrar dificultades a la hora de prepararse o reaccionar ante un peligro, pero es importante tener en cuenta que a menudo tienen más opciones. Las comunidades pueden huir o ser ayudadas a huir por otros, mientras que los animales domésticos están en muchos casos confinados. Preparando a las personas, se logrará mitigar algunas de las consecuencias de muchos desastres. En la actualidad, y según el nuevo Marco de Sendai para la Reducción del Riesgo de Desastres de la Oficina de las Naciones Unidas para la Reducción del Riesgo de Desastres (UNDRR por sus siglas en inglés) los animales de granja y de trabajo se consideran y nombran activos esenciales para la protección de los medios de vida de sus propietarios, como parte de la Prioridad 3: Invertir en la reducción del riesgo de desastres (Tema 30, subtema P y Tema 31, subtema f). A la larga, esto deberá contar con el apoyo y la orientación de las estructuras comunitarias y sectoriales y de los marcos políticos institucionales, tanto jurídicos como presupuestarios [@furness2011].
@@ -303,6 +311,8 @@ Pero aparte del imperativo humanitario, es importante pensar en la necesidad ind
 ![Evacuación y movilización de ganado vacuno durante la erupción del volcán Chaitén, Chile 2008. Fuente: Diego Hernández Pulido.](images/capitulo5/evacuacion-ganado-chaitén.jpg){#fig-evacuacion width="450"}
 
 ## 5. MANEJO DE DESASTRES EN ANIMALES DE PRODUCCIÓN\index{Manejo de desastres en animales de producción}
+
+------------------------------------------------------------------------
 
 Uno de los contrastes más evidentes entre la preparación humana y la de los animales se refiere a los elementos y procedimientos de prevención y preparación de emergencias. En el caso del rescate humano, no se escatiman recursos y se aceptan mayores niveles de riesgo para los equipos de rescate durante erupciones volcánicas. En el caso de los animales puede ser diferente, ya que el riesgo humano apenas se tolerará, mientras que los recursos siempre se medirán en función del valor que tengan los animales para sus dueños, ya sea económico o sentimental [@garden2013].
 
@@ -378,6 +388,8 @@ En las zonas en las que la ceniza ha contaminado el paisaje, el ganado necesitar
 La cobertura de ceniza puede hacer que los animales dejen de alimentarse y beber. Si es posible, reubique a los animales en lugares con agua limpia y acceso a alimento (Heno - henolaje) y agua suplementaria limpios. El alimento almacenado debe protegerse cubriéndolo y asegurándose de que ningún otro animal pueda acceder a él. Aunque la ceniza suele afectar físicamente a los animales, su composición química puede repercutir en su salud general. Contiene minerales y elementos como el flúor, el selenio y el azufre que pueden causar problemas de salud. El flúor es el problema más común. Los síntomas incluyen colapso de los animales, convulsiones, caída del pelo alrededor de la boca y lesiones alrededor de la nariz y la boca. La concentración elevada de azufre en las cenizas también puede inducir deficiencias de cobre y cobalto. La escasez de alimento y forraje supone una amenaza grave e indirecta para los animales. Se debe sugerir una opción de alimentación que tenga el potencial de hacer frente al desafío en cierta medida. La alimentación durante los desastres puede reducir la carga de los ya escasos recursos forrajeros sin comprometer el rendimiento de la producción, y también se sugiere el uso de bloques minerales de melaza con urea como opción viable de alimentación durante estos escenarios [@legs2022].
 
 ## 6. CONCLUSIONES
+
+------------------------------------------------------------------------
 
 Los procesos de conocimiento y reducción del riesgo, y manejo de desastres no pueden limitarse a salvar vidas humanas. También hay que contemplar la protección y reforzar los medios de subsistencia de las poblaciones animales que se impactan seriamente. Con ello no solamente se fomenta su recuperación inmediata, sino que se puede aumentar su capacidad de resistir y su recuperación a largo plazo, reducir su vulnerabilidad y disminuir también, la posibilidad de que se generen nuevos escenarios de riesgo antrópicos o generados por la naturaleza.
 

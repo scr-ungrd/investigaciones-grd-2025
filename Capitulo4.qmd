@@ -73,6 +73,8 @@ La resiliencia comunitaria es la capacidad de una población a enfrentar, respon
 
 ## 1. INTRODUCCIÓN
 
+------------------------------------------------------------------------
+
 La resiliencia comunitaria es la capacidad de las comunidades y hogares que viven dentro de sistemas complejos para anticiparse y adaptarse a los riesgos, para absorber, responder y recuperarse de las amenazas y estresores de una manera oportuna y efectiva sin comprometer sus posibilidades a largo plazo, mejorando finalmente su bienestar [@cruzroja2006]. Este definición sigue la del grupo de trabajo intergubernamental de expertos de composición abierta sobre los indicadores mundiales para las metas mundiales del Marco de Sendai que define la resiliencia como "la capacidad que tiene un sistema, una comunidad o una sociedad expuestos a una amenaza para resistir, absorber, adaptarse, transformarse y recuperarse de sus efectos de manera oportuna y eficiente, en particular mediante la preservación y la restauración de sus estructuras y funciones básicas por conducto de la gestión de riesgos" [@onu2016]. Otras aproximaciones definen la resiliencia comunitaria como la capacidad de los sistemas para hacer frente y adaptarse a eventos extremos, sin perder su estructura básica, y hace énfasis en que la cultura de la resiliencia permite reducir pérdidas humanas, socioeconómicas y ambientales [@ciccotti2020].
 
 La resiliencia comunitaria\index{Resiliencia comunitaria} tiene dos componentes. Primero, la capacidad de adaptación, que se define como las condiciones que permiten a las personas y/o comunidades anticipar y responder al cambio, minimizar las consecuencias, recuperarse y aprovechar las nuevas oportunidades [@pérez2018]. Segundo, la percepción del riesgo, en el cual las comunidades perciben el riesgo basado en procesos cognitivos influidos por diversos factores, tales como las características y la gravedad del riesgo, experiencias previas, la cantidad y calidad de la información disponible, así como los valores individuales y sociales y el conocimiento sobre el fenómeno que genera el riesgo [@sandoval2022].
@@ -102,6 +104,8 @@ La atención inmediata contó con la participación de la comunidad, organismos 
 :::
 
 ## 2. METODOLOGÍA
+
+------------------------------------------------------------------------
 
 ### 2.1. Municipio de Dosquebradas y contexto de la Comuna 10
 
@@ -168,6 +172,8 @@ Los componentes de las áreas temáticas de la evaluación de resiliencia comuni
 :::
 
 ## 3. RECOLECCIÓN Y PROCESAMIENTO DE DATOS DE PERCEPCIÓN DEL RIESGO COMUNITARIO
+
+------------------------------------------------------------------------
 
 ### 3.1 Reconocimiento de la Comuna 10 y sus líderes
 
@@ -252,6 +258,8 @@ Para realizar la evaluación de los componentes de la resiliencia en la Comuna 1
 ![Características comunitarias de la Comuna 10 de Dosquebradas. La conforman los barrios: Carlos Ariel Escobar, La Romelia Alta y Baja, La Divisa, Galaxia, Las Acacias, Los Pinos, Los Guamos, El Bosque Carbonero, La Floresta, Estación Gutiérrez, Villa Carola, Bosques de la Acuarela, Lara Bonilla, El Rosal, El Chicó, Villa Colombia, La Semilla, Tejares de la Loma, Nuevo Bosque.](images/capitulo4/Figura%206.%20Características%20comunitarias%20de%20la%20comuna%2010.png){#fig-caracteristicas-comuna width="400"}
 
 ## 4. RESULTADOS
+
+------------------------------------------------------------------------
 
 ### 4.1 Evaluación de los componentes de resiliencia comunitaria ante desastres
 
@@ -474,6 +482,8 @@ plot_ly(
 
 ## 5. DISCUSIÓN
 
+------------------------------------------------------------------------
+
 En la **Figura 8** se evidencian los contrastes entre las dos evaluaciones, hallando contrastes significativos en ciertos componentes como la diseminación de la información de reducción del riesgo de desastres, el cual pasó de un nivel 1 a 4, debido al proceso que ha surgido con la comunidad, sobre capacitación, formación y sensibilización en materia de reducción del riesgo de desastres. Esto ha permitido que hoy en día se cuente con procesos sociales, organizaciones y veedurías ciudadanas en la gestión del riesgo de desastres. 
 
 Lo anterior está muy relacionado con la toma de decisiones comunitaria, esto se evidencia, del paso de 1 a 4, en dónde la comunidad ha tenido un nivel de empoderamiento en las decisiones que se tomen en su territorio, participando en las instancias dónde se toman decisiones y se puede incidir para mejorar las condiciones de vida de las personas.
@@ -562,6 +572,8 @@ plot_ly() |>
 ```
 
 ## 6. CONCLUSIONES
+
+------------------------------------------------------------------------
 
 El estudio tuvo como objetivo general evaluar la resiliencia comunitaria frente a desastres de tipo tecnológico en la Comuna 10 de Dosquebradas, mediante la aplicación de la herramienta ARC-D en dos momentos temporales, 2011 y 2021. Esta comparación multitemporal permitió identificar avances y limitaciones en las capacidades comunitarias, evidenciando una transición de baja a mediana resiliencia en el periodo de análisis frente a estresores de tipo tecnológico.
 

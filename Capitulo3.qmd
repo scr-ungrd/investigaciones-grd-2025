@@ -87,6 +87,8 @@ Desde los años 90, América Latina ha experimentado un auge en cartografía par
 
 ## 1. INTRODUCCIÓN
 
+------------------------------------------------------------------------
+
 Desde la década de los noventa en América Latina, ha surgido una variedad de experiencias de cartografía participativa\index{Cartografía participativa} impulsadas por colectivos compuestos por investigadores, activistas, militantes y pueblos étnicos [@basualdo2023]. Se han realizado numerosos proyectos de mapeo bajo distintas modalidades y nombres, como "cartografía social", "mapeo colectivo" o "mapeo participativo". Estas iniciativas cartográficas han sido parte integral de las luchas territoriales e identitarias de comunidades indígenas y campesinas principalmente, y han sido promovidas tanto por organizaciones comunitarias como por otros actores sociales y humanitarios.
 
 Estas experiencias se desarrollan dentro de los marcos internacionales, las leyes nacionales y regulaciones emergentes, así como en línea con las mejores prácticas en materia de derechos humanos, que exigen una evaluación proactiva de los impactos potenciales de los proyectos en los derechos colectivos y territoriales. Esto implica implementar medidas para prevenir, mitigar y remediar posibles daños y pérdidas. Por ejemplo, en Europa, instrumentos como el Convenio de Aarhus y la Directiva sobre inundaciones 2007/60/CE destacan la relevancia de la participación pública y el monitoreo comunitario en la toma de decisiones y la gestión de riesgos ambientales.
@@ -142,6 +144,8 @@ El objetivo de este capítulo aborda de manera integral los conceptos de mapeo y
 Este estudio destaca el potencial transformador de estas tecnologías cuando son utilizadas directamente por comunidades y movimientos sociales en diversos contextos, incluyendo zonas rurales, periurbanas, urbanas, así como comunidades indígenas, agrícolas y afrodescendientes, entre otros.
 
 ## 2. ¿A QUÉ NOS REFERIMOS CON MAPEO ABIERTO Y MONITOREO PARTICIPATIVO COMUNITARIO?
+
+------------------------------------------------------------------------
 
 Numerosas organizaciones desarrollan experiencias que combinan enfoques participativos y tecnológicos para fortalecer la autonomía territorial de las comunidades. Desde la experiencia de HOT, el mapeo y el monitoreo comunitario se entienden como procesos autónomos y periódicos, en los cuales individuos o grupos comunitarios reciben capacitaciones para el uso de aplicaciones abiertas de mapeo, y recolectan datos, información o conocimientos basados en sus propias necesidades y visiones del territorio.
 
@@ -222,6 +226,8 @@ Estas cuestiones son fundamentales para garantizar la continuidad y la efectivid
 Aunque OSM cuenta con una comunidad sólida de usuarios regionales y finales, con miles de voluntarios regulares, persiste la necesidad de motivar constantemente el esfuerzo de mapeo remoto en OSM. Cuando se trata de trabajar en países en vías de desarrollo, este problema se agudiza aún más por la brecha técnica y de conectividad en estas regiones, además de la limitada capacidad de voluntariado en contexto de relativa pobreza.
 
 ## 3. CASO DE ESTUDIO: SAN ANTONIO, TECNOLOGÍAS ABIERTAS Y DRONES\index{Drones}
+
+------------------------------------------------------------------------
 
 San Antonio de Prado es un corregimiento municipal (división rural de un municipio) ubicado al suroccidente de la ciudad de Medellín, caracterizado por frecuentes reportes de amenazas naturales [@alcaldiamedellin2024planeacion; @espectador2022mayo; @espectador2022julio; @telemedellin2022mayo; @telemedellin2022septiembre]. Recientemente, el Departamento Administrativo de Gestión del Riesgo (DAGRD) lo ha reconocido como uno de los sectores de la ciudad con alta vulnerabilidad a deslizamientos [@dagrd2022].
 
@@ -419,6 +425,8 @@ La información generada fue presentada al DAGRD para demostrar la pertinencia d
 Este tipo de programas, orientados a fomentar la autogestión comunitaria del riesgo, pueden fortalecerse mediante procesos como los implementados en este proyecto, a través del uso de cartografía abierta, y además, asegurar y maximizar el alcance de los componentes programáticos tanto del Plan de Gestión del Riesgo de Medellín [@planmunicipalriesgo2024] como del Plan Nacional de Gestión del Riesgo de Desastres [@plannacionalriesgo2022].
 
 ## 4. CONCLUSIONES
+
+------------------------------------------------------------------------
 
 Desarrollar estrategias integrales y efectivas para la reducción y gestión del riesgo de desastres requiere la combinación armoniosa de enfoques que aprovechen tanto la experiencia de los expertos como el conocimiento territorial arraigado en las comunidades locales, por principio de integralidad del conocimiento como base de la toma de decisiones, y principio de inclusión y justicia espacial y ambiental. Los expertos, con su dominio técnico especializado, ofrecen una comprensión de los peligros y riesgos específicos, así como de sus posibles repercusiones, a la vez que proponen soluciones innovadoras y eficaces para hacer frente a estos desafíos, todo ello desde las condiciones y sesgos propios de sus profesiones.
 
