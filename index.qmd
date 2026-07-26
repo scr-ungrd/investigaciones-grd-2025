@@ -31,7 +31,7 @@ Agradecemos por difundir el libro para que crezca como un espacio de reflexión 
 :::
 
 ::: card-body
-![](https://scr-ungrd.github.io/investigaciones-grd-2025/images/capitulo1/metodologia-scc.jpg){fig-align="left" width="250"}
+![](images/capitulo1/metodologia-scc.jpg){fig-align="left" width="250"}
 
 **Autores:** Yazmín Cardona, Adriana Carolina Herrera-López, María Alejandra Parra-Góez, Olga Ramírez, Julián Sepúlveda, Esneider Zapata
 :::
@@ -53,7 +53,7 @@ Agradecemos por difundir el libro para que crezca como un espacio de reflexión 
 :::
 
 ::: card-body
-![](https://scr-ungrd.github.io/investigaciones-grd-2025/images/capitulo3/tipos-monitoreo-comunitario.png){fig-align="left" width="250"}
+![](images/capitulo3/tipos-monitoreo-comunitario.png){fig-align="left" width="250"}
 
 **Autores:** Yessica De los ríos Olarte, Ana Milena Prada Uribe, Céline Jacquin
 :::
@@ -65,7 +65,7 @@ Agradecemos por difundir el libro para que crezca como un espacio de reflexión 
 :::
 
 ::: card-body
-![](https://scr-ungrd.github.io/investigaciones-grd-2025/images/capitulo4/Figura%201.%20Mapa%20de%20localizaci%C3%B3n%20del%20municipio%20de%20Dosquebradas.png){fig-align="left" width="250"}
+![](images/capitulo4/Figura%201.%20Mapa%20de%20localizaci%C3%B3n%20del%20municipio%20de%20Dosquebradas.png){fig-align="left" width="250"}
 
 **Autores:** Evelin Langebeck Cuéllar, Nicolás Giraldo Hernández
 :::
@@ -77,7 +77,7 @@ Agradecemos por difundir el libro para que crezca como un espacio de reflexión 
 :::
 
 ::: card-body
-![](https://scr-ungrd.github.io/investigaciones-grd-2025/images/capitulo5/ganado_henolaje_ceniza.jpg){fig-align="left" width="250"}
+![](images/capitulo5/ganado_henolaje_ceniza.jpg){fig-align="left" width="250"}
 
 **Autores:** Diego Hernández Pulido, Julia Inés Lema Vélez
 :::
