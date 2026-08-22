@@ -622,17 +622,25 @@ Recomendaciones para tomar decisiones
 
 ## CONFLICTO DE INTERESES
 
+------------------------------------------------------------------------
+
 Los autores no declaran conflicto de intereses.
 
 ## USO DE HERRAMIENTAS DE INTELIGENCIA ARTIFICIAL
+
+------------------------------------------------------------------------
 
 Durante la preparación de este capítulo, los autores utilizaron ChatGPT versión GPT-4o (https://chatgpt.com) con el fin de recibir sugerencias de redacción y corrección del estilo científico. Los revisores expresan que no utilizaron herramientas de IA en el proceso de evaluación del manuscrito.
 
 ## AGRADECIMIENTOS
 
+------------------------------------------------------------------------
+
 Queremos agradecer a los líderes de la Comuna 10 del municipio de Dosquebradas, por su apoyo y participación en las reuniones previas y grupo focal, lo cual fue de vital importancia para la obtención de los resultados. Especialmente, queremos agradecer a Don Elmer Castañeda y Diego Buitrago, líderes y expertos comunitarios en la gestión del riesgo de desastres en la Comuna 10, los cuales apoyaron de manera desinteresada esta evaluación de resiliencia comunitaria, viéndola como una oportunidad para el proceso de la gestión de riesgo.
 
 ## IDENTIFICACIÓN DE AUTORES
+
+------------------------------------------------------------------------
 
 **Evelin Langebeck Cuéllar**
 
@@ -644,6 +652,35 @@ Queremos agradecer a los líderes de la Comuna 10 del municipio de Dosquebradas,
 
 ## DECLARACIÓN DE AUTORÍA CRediT
 
+------------------------------------------------------------------------
+
 Todos los autores contribuyeron a la conceptualización y desarrollo de este proyecto. Evelin Langebeck Cuéllar lideró la metodología y la recolección de datos comunitarios. Nicolás Giraldo Hernández coordinó el análisis de datos y la interpretación de resultados. Ambos autores revisaron críticamente y aprobaron la versión final del manuscrito.
 
+## ACERCA DE ESTE CAPÍTULO
+
+------------------------------------------------------------------------
+
+**Cítese como:**
+
+Langebeck Cuéllar, E., & Giraldo Hernández, N. (2025). Evaluación multitemporal de la resiliencia comunitaria ante eventos tecnológicos en la Comuna 10 del municipio de Dosquebradas. En Comisión Nacional Asesora para la Investigación en Gestión del Riesgo de Desastres (Ed.), *Investigaciones en gestión del riesgo de desastres para Colombia. Enfoque comunitario, territorial y animal* (Cap. 4). Unidad Nacional para la Gestión del Riesgo de Desastres. https://doi.org/10.5281/zenodo.17673426
+
+**Importar cita (BibTeX)**
+
+``` bibtex
+@incollection{langebeck2025,
+  author    = {Langebeck Cuéllar, Evelin and Giraldo Hernández, Nicolás},
+  title     = {Evaluación Multitemporal de la Resiliencia Comunitaria ante Eventos Tecnológicos en la Comuna 10 del Municipio de Dosquebradas},
+  booktitle = {Investigaciones en Gestión del Riesgo de Desastres para Colombia. Enfoque Comunitario, Territorial y Animal},
+  editor    = {{Comisión Nacional Asesora para la Investigación en Gestión del Riesgo de Desastres (CNAIGRD)}},
+  publisher = {Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD)},
+  address   = {Bogotá, Colombia},
+  year      = {2025},
+  chapter   = {4},
+  doi       = {10.5281/zenodo.17673426},
+  url       = {https://scr-ungrd.github.io/investigaciones-grd-2025/Capitulo4.html}
+}
+```
+
 ## BIBLIOGRAFÍA
+
+------------------------------------------------------------------------

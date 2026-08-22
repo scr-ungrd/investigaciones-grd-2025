@@ -27,6 +27,41 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 /* CSS for citations */
 div.csl-bib-body { }
 div.csl-entry {
@@ -238,7 +273,8 @@ background-size: cover;
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
     <div class="sidebar-title mb-0 py-0">
       <a href="./">Investigaciones en Gestión del Riesgo de Desastres para Colombia. Enfoque Comunitario, Territorial y Animal</a> 
-        <div class="sidebar-tools-main">
+        <div class="sidebar-tools-main tools-wide">
+    <a href="https://scr-ungrd.github.io/hub/" rel="noopener noreferrer" title="" class="quarto-navigation-tool px-1" aria-label="HUB SCR — portal de proyectos" target="_blank"><i class="bi bi-diagram-3-fill"></i></a>
     <a href="https://github.com/scr-ungrd/investigaciones-grd-2025" title="Ejecutar el código" class="quarto-navigation-tool px-1" aria-label="Ejecutar el código"><i class="bi bi-github"></i></a>
     <a href="./Investigaciones-en-Gestión-del-Riesgo-de-Desastres-para-Colombia.-Enfoque-Comunitario,-Territorial-y-Animal.pdf" title="Descargar PDF" class="quarto-navigation-tool px-1" aria-label="Descargar PDF"><i class="bi bi-file-pdf"></i></a>
 </div>
@@ -327,6 +363,7 @@ background-size: cover;
   <li><a href="#uso-de-herramientas-de-inteligencia-artificial" id="toc-uso-de-herramientas-de-inteligencia-artificial" class="nav-link" data-scroll-target="#uso-de-herramientas-de-inteligencia-artificial">USO DE HERRAMIENTAS DE INTELIGENCIA ARTIFICIAL</a></li>
   <li><a href="#identificación-de-autores" id="toc-identificación-de-autores" class="nav-link" data-scroll-target="#identificación-de-autores">IDENTIFICACIÓN DE AUTORES</a></li>
   <li><a href="#declaración-de-autoría-credit" id="toc-declaración-de-autoría-credit" class="nav-link" data-scroll-target="#declaración-de-autoría-credit">DECLARACIÓN DE AUTORÍA CRediT</a></li>
+  <li><a href="#acerca-de-este-capítulo" id="toc-acerca-de-este-capítulo" class="nav-link" data-scroll-target="#acerca-de-este-capítulo">ACERCA DE ESTE CAPÍTULO</a></li>
   <li><a href="#bibliografía" id="toc-bibliografía" class="nav-link" data-scroll-target="#bibliografía">BIBLIOGRAFÍA</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/scr-ungrd/investigaciones-grd-2025/blob/main/Capitulo3.qmd" class="toc-action"><i class="bi bi-github"></i>Ver el código</a></li><li><a href="https://github.com/scr-ungrd/investigaciones-grd-2025/issues/new" class="toc-action"><i class="bi empty"></i>Informar sobre problema</a></li></ul></div></nav>
@@ -352,6 +389,7 @@ background-size: cover;
 </div>
 <section id="introducción" class="level2">
 <h2 class="anchored" data-anchor-id="introducción">1. INTRODUCCIÓN</h2>
+<hr>
 <p>Desde la década de los noventa en América Latina, ha surgido una variedad de experiencias de cartografía participativa impulsadas por colectivos compuestos por investigadores, activistas, militantes y pueblos étnicos <span class="citation" data-cites="basualdo2023">[<a href="#ref-basualdo2023" role="doc-biblioref">1</a>]</span>. Se han realizado numerosos proyectos de mapeo bajo distintas modalidades y nombres, como “cartografía social”, “mapeo colectivo” o “mapeo participativo”. Estas iniciativas cartográficas han sido parte integral de las luchas territoriales e identitarias de comunidades indígenas y campesinas principalmente, y han sido promovidas tanto por organizaciones comunitarias como por otros actores sociales y humanitarios.</p>
 <p>Estas experiencias se desarrollan dentro de los marcos internacionales, las leyes nacionales y regulaciones emergentes, así como en línea con las mejores prácticas en materia de derechos humanos, que exigen una evaluación proactiva de los impactos potenciales de los proyectos en los derechos colectivos y territoriales. Esto implica implementar medidas para prevenir, mitigar y remediar posibles daños y pérdidas. Por ejemplo, en Europa, instrumentos como el Convenio de Aarhus y la Directiva sobre inundaciones 2007/60/CE destacan la relevancia de la participación pública y el monitoreo comunitario en la toma de decisiones y la gestión de riesgos ambientales.</p>
 <p>Asimismo, en América Latina, el Acuerdo de Escazú está siendo adoptado por varios países para garantizar desde sus marcos legales el acceso a la información, la participación ciudadana y la justicia en asuntos ambientales. En noviembre del año pasado, el Congreso de la República de Colombia aprobó la Ley 2273 de 2022, ratificando así el acuerdo.</p>
@@ -391,6 +429,7 @@ Caja 1: Glosario
 </section>
 <section id="a-qué-nos-referimos-con-mapeo-abierto-y-monitoreo-participativo-comunitario" class="level2">
 <h2 class="anchored" data-anchor-id="a-qué-nos-referimos-con-mapeo-abierto-y-monitoreo-participativo-comunitario">2. ¿A QUÉ NOS REFERIMOS CON MAPEO ABIERTO Y MONITOREO PARTICIPATIVO COMUNITARIO?</h2>
+<hr>
 <p>Numerosas organizaciones desarrollan experiencias que combinan enfoques participativos y tecnológicos para fortalecer la autonomía territorial de las comunidades. Desde la experiencia de HOT, el mapeo y el monitoreo comunitario se entienden como procesos autónomos y periódicos, en los cuales individuos o grupos comunitarios reciben capacitaciones para el uso de aplicaciones abiertas de mapeo, y recolectan datos, información o conocimientos basados en sus propias necesidades y visiones del territorio.</p>
 <section id="objetivo-del-mapeo-y-monitoreo-comunitario" class="level3">
 <h3 class="anchored" data-anchor-id="objetivo-del-mapeo-y-monitoreo-comunitario">2.1 Objetivo del mapeo y monitoreo comunitario</h3>
@@ -452,6 +491,7 @@ Figura&nbsp;1: Tipos de monitoreo y mapeo comunitario identificados, según el t
 </section>
 <section id="caso-de-estudio-san-antonio-tecnologías-abiertas-y-drones" class="level2">
 <h2 class="anchored" data-anchor-id="caso-de-estudio-san-antonio-tecnologías-abiertas-y-drones">3. CASO DE ESTUDIO: SAN ANTONIO, TECNOLOGÍAS ABIERTAS Y DRONES</h2>
+<hr>
 <p>San Antonio de Prado es un corregimiento municipal (división rural de un municipio) ubicado al suroccidente de la ciudad de Medellín, caracterizado por frecuentes reportes de amenazas naturales <span class="citation" data-cites="alcaldiamedellin2024planeacion espectador2022mayo espectador2022julio telemedellin2022mayo telemedellin2022septiembre">[<a href="#ref-alcaldiamedellin2024planeacion" role="doc-biblioref">12</a>–<a href="#ref-telemedellin2022septiembre" role="doc-biblioref">16</a>]</span>. Recientemente, el Departamento Administrativo de Gestión del Riesgo (DAGRD) lo ha reconocido como uno de los sectores de la ciudad con alta vulnerabilidad a deslizamientos <span class="citation" data-cites="dagrd2022">[<a href="#ref-dagrd2022" role="doc-biblioref">17</a>]</span>.</p>
 <p>Este corregimiento, conformado por ocho veredas, presenta más de una cuarta parte de su extensión en categoría de amenaza alta o media por movimientos en masa, según datos de información geográfica abierta extraídos del Catálogo Geográfico de Medellín <span class="citation" data-cites="catalogomedellin2024">[<a href="#ref-catalogomedellin2024" role="doc-biblioref">18</a>]</span> (<a href="#fig-amenazas-medellin" class="quarto-xref">Figura&nbsp;<span>2</span></a>).</p>
 <p>A pesar de este panorama, la gestión del riesgo por parte de las entidades responsables no parece alcanzar la cobertura ni la atención necesarias, lo que evidencia la importancia de implementar herramientas culturalmente pertinentes y de libre acceso, que contribuyan y presionen positivamente la toma de decisiones en este contexto.</p>
@@ -647,6 +687,7 @@ Figura&nbsp;9: Caracterización de la localidad en relación con su topografía.
 </section>
 <section id="conclusiones" class="level2">
 <h2 class="anchored" data-anchor-id="conclusiones">4. CONCLUSIONES</h2>
+<hr>
 <p>Desarrollar estrategias integrales y efectivas para la reducción y gestión del riesgo de desastres requiere la combinación armoniosa de enfoques que aprovechen tanto la experiencia de los expertos como el conocimiento territorial arraigado en las comunidades locales, por principio de integralidad del conocimiento como base de la toma de decisiones, y principio de inclusión y justicia espacial y ambiental. Los expertos, con su dominio técnico especializado, ofrecen una comprensión de los peligros y riesgos específicos, así como de sus posibles repercusiones, a la vez que proponen soluciones innovadoras y eficaces para hacer frente a estos desafíos, todo ello desde las condiciones y sesgos propios de sus profesiones.</p>
 <p>Por otro lado, las comunidades locales son depositarias de un conocimiento íntimamente conectado con su entorno y su dinámica social, cultural y económica. Son el único actor capaz de aportar información sobre la experiencia directa e indirecta, además de multidimensional e histórica, de los impactos de los desastres. También poseen una comprensión única de cómo estos riesgos evolucionan y cambian con el tiempo en su contexto particular, lo que permite un monitoreo constante de la amenaza y proyecciones a futuro. Por lo tanto, su participación activa en la identificación, evaluación y respuesta a los riesgos es esencial para el diseño de estrategias verdaderamente efectivas y adaptadas a las necesidades locales.</p>
 <p>Además de proporcionar una fuente continua de información sobre los riesgos, las comunidades desempeñan un papel crucial en la promoción de la adopción y la implementación de medidas de reducción y gestión del riesgo. Su compromiso y empoderamiento en el proceso de toma de decisiones, por ser las principales involucradas e impactadas, no solo garantizan la concreción del foco que toma todo el ciclo de creación y uso de datos para la toma de decisiones, sino que también fortalecen la resiliencia local, fomentando un sentido de responsabilidad compartida y una mayor capacidad de respuesta ante desastres.</p>
@@ -698,19 +739,23 @@ Figura&nbsp;9: Caracterización de la localidad en relación con su topografía.
 </section>
 <section id="agradecimientos" class="level2">
 <h2 class="anchored" data-anchor-id="agradecimientos">AGRADECIMIENTOS</h2>
+<hr>
 <p>Este proyecto no habría sido posible sin el compromiso y la dedicación de quienes aportaron su conocimiento, experiencia y trabajo en campo. Agradecemos profundamente a Sara Berrío Monroy, Paulina Rendón Jaramillo y Sebastián Agudelo Higuita (Universidad de Antioquia), y Ana Carolina Restrepo (Instituto Tecnológico Metropolitano), por su valioso apoyo técnico y humano en los procesos de mapeo y gestión comunitaria. Extendemos también un reconocimiento especial al Voluntariado Ambiental y de Emergencias de San Antonio de Prado (VAPES) y a Luisa Agudelo, líder social, consejera ambiental y coordinadora de VAPES, por su liderazgo y articulación territorial.</p>
 <p>La coordinación, edición y redacción final de este artículo estuvo a cargo de Mariana Marín Villagrana, Especialista Sénior de Comunicación para América Latina y el Caribe, a quien agradecemos su apoyo a lo largo de la redacción de este capítulo.</p>
 </section>
 <section id="conflicto-de-intereses" class="level2">
 <h2 class="anchored" data-anchor-id="conflicto-de-intereses">CONFLICTO DE INTERESES</h2>
+<hr>
 <p>Los autores no declaran conflicto de intereses.</p>
 </section>
 <section id="uso-de-herramientas-de-inteligencia-artificial" class="level2">
 <h2 class="anchored" data-anchor-id="uso-de-herramientas-de-inteligencia-artificial">USO DE HERRAMIENTAS DE INTELIGENCIA ARTIFICIAL</h2>
+<hr>
 <p>Los autores utilizaron herramientas de inteligencia artificial (IA) en el proceso de redacción previo al envío, exclusivamente con el propósito de mejorar el lenguaje y la legibilidad de su capítulo. Los revisores expresan que no utilizaron herramientas de IA en el proceso de evaluación del manuscrito.</p>
 </section>
 <section id="identificación-de-autores" class="level2">
 <h2 class="anchored" data-anchor-id="identificación-de-autores">IDENTIFICACIÓN DE AUTORES</h2>
+<hr>
 <ul>
 <li>Yessica De los ríos Olarte: <a href="https://orcid.org/0009-0009-1797-3451" class="uri">https://orcid.org/0009-0009-1797-3451</a></li>
 <li>Ana Milena Prada Uribe: N/A</li>
@@ -719,10 +764,31 @@ Figura&nbsp;9: Caracterización de la localidad en relación con su topografía.
 </section>
 <section id="declaración-de-autoría-credit" class="level2">
 <h2 class="anchored" data-anchor-id="declaración-de-autoría-credit">DECLARACIÓN DE AUTORÍA CRediT</h2>
+<hr>
 <p><strong>Conceptualización:</strong> Y. De los ríos Olarte, A.M. Prada Uribe, C. Jacquin. <strong>Metodología:</strong> Y. De los ríos Olarte, A.M. Prada Uribe, C. Jacquin. <strong>Investigación:</strong> Y. De los ríos Olarte, A.M. Prada Uribe. <strong>Recursos:</strong> HOT, GeoLab Universidad de Antioquia. <strong>Curación de datos:</strong> Y. De los ríos Olarte, A.M. Prada Uribe. <strong>Redacción - borrador original:</strong> Y. De los ríos Olarte, A.M. Prada Uribe, C. Jacquin. <strong>Redacción - revisión y edición:</strong> Y. De los ríos Olarte, A.M. Prada Uribe, C. Jacquin, Mariana Marín Villagrana. <strong>Visualización:</strong> Y. De los ríos Olarte, A.M. Prada Uribe. <strong>Supervisión:</strong> C. Jacquin, HOT. <strong>Administración del proyecto:</strong> C. Jacquin, HOT, GeoLab. <strong>Adquisición de fondos:</strong> HOT.</p>
+</section>
+<section id="acerca-de-este-capítulo" class="level2">
+<h2 class="anchored" data-anchor-id="acerca-de-este-capítulo">ACERCA DE ESTE CAPÍTULO</h2>
+<hr>
+<p><strong>Cítese como:</strong></p>
+<p>De los Ríos Olarte, Y., Prada Uribe, A. M., &amp; Jacquin, C. (2025). Gestión del riesgo de desastres comunitario a través de cartografía participativa y tecnologías abiertas en San Antonio del Prado, Colombia. En Comisión Nacional Asesora para la Investigación en Gestión del Riesgo de Desastres (Ed.), <em>Investigaciones en gestión del riesgo de desastres para Colombia. Enfoque comunitario, territorial y animal</em> (Cap. 3). Unidad Nacional para la Gestión del Riesgo de Desastres. https://doi.org/10.5281/zenodo.17673402</p>
+<p><strong>Importar cita (BibTeX)</strong></p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="va">@incollection</span>{<span class="ot">delosrios2025</span>,</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>  <span class="dt">author</span>    = {De los Ríos Olarte, Yessica and Prada Uribe, Ana Milena and Jacquin, Céline},</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>  <span class="dt">title</span>     = {Gestión del Riesgo de Desastres Comunitario a través de Cartografía Participativa y Tecnologías Abiertas en San Antonio del Prado, Colombia},</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>  <span class="dt">booktitle</span> = {Investigaciones en Gestión del Riesgo de Desastres para Colombia. Enfoque Comunitario, Territorial y Animal},</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>  <span class="dt">editor</span>    = {{Comisión Nacional Asesora para la Investigación en Gestión del Riesgo de Desastres (CNAIGRD)}},</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>  <span class="dt">publisher</span> = {Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD)},</span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>  <span class="dt">address</span>   = {Bogotá, Colombia},</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>  <span class="dt">year</span>      = {2025},</span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>  <span class="dt">chapter</span>   = {3},</span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>  <span class="dt">doi</span>       = {10.5281/zenodo.17673402},</span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>  <span class="dt">url</span>       = {https://scr-ungrd.github.io/investigaciones-grd-2025/Capitulo3.html}</span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>}</span></code></pre></div><button title="Copiar al portapapeles" class="code-copy-button"><i class="bi"></i></button></div>
 </section>
 <section id="bibliografía" class="level2">
 <h2 class="anchored" data-anchor-id="bibliografía">BIBLIOGRAFÍA</h2>
+<hr>
 
 
 <div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">

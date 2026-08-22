@@ -290,13 +290,19 @@ Para finalizar, la presente investigación nos permite afirmar que el enfoque et
 
 ## AGRADECIMIENTOS
 
+------------------------------------------------------------------------
+
 Agradecemos especialmente a los líderes y lideresas comunitarios, así como a los representantes institucionales que compartieron sus ideas durante esta investigación. Su valiosa colaboración fue fundamental para llevarla a cabo. También agradecemos a Humanity & Inclusion Colombia por financiar el proyecto, identificado con el código C61-SER0301. Finalmente, expresamos nuestra sincera gratitud a la Unidad Nacional para la Gestión del Riesgo de Desastres -Presidencia de la República de Colombia-, cuyo apoyo nos permitió establecer contacto con representantes comunitarios e instituciones para el desarrollo de las conversaciones.
 
 ## CONFLICTO DE INTERESES
 
+------------------------------------------------------------------------
+
 El autor y la autora no declaran conflicto de intereses.
 
 ## USO DE HERRAMIENTAS DE INTELIGENCIA ARTIFICIAL
+
+------------------------------------------------------------------------
 
 Durante la preparación de este capítulo, los autores utilizaron ChatGTP versión 3.5 (https://chat.openai.com/) con el fin de recibir sugerencias de redacción y corrección del estilo científico.
 
@@ -304,11 +310,42 @@ Los revisores expresan que no utilizaron herramientas de IA en el proceso de eva
 
 ## IDENTIFICACIÓN DE AUTORES
 
+------------------------------------------------------------------------
+
 -   William Oswaldo Gaviria Gutiérrez: <https://orcid.org/0000-0003-4228-4665>
 -   Lina Andrea Zambrano Hernández: <https://scholar.google.es/citations?user=KHLJGVwAAAAJ&hl=es>
 
 ## DECLARACIÓN DE AUTORÍA CRediT
 
+------------------------------------------------------------------------
+
 **Conceptualización:** William Oswaldo Gaviria Gutiérrez y Lina Andrea Zambrano Hernández. **Metodología:** William Oswaldo Gaviria Gutiérrez y Lina Andrea Zambrano Hernández. **Redacción - borrador original:** William Oswaldo Gaviria Gutiérrez. **Administración del proyecto:** Lina Andrea Zambrano Hernández. **Búsqueda de evidencia:** William Oswaldo Gaviria Gutiérrez.
 
+## ACERCA DE ESTE CAPÍTULO
+
+------------------------------------------------------------------------
+
+**Cítese como:**
+
+Gaviria-Gutiérrez, W. O., & Zambrano-Hernández, L. A. (2025). Enfoque etnodiferencial y riesgo de desastre en Colombia: líneas de fuga para una digna vida. En Comisión Nacional Asesora para la Investigación en Gestión del Riesgo de Desastres (Ed.), *Investigaciones en gestión del riesgo de desastres para Colombia. Enfoque comunitario, territorial y animal* (Cap. 2). Unidad Nacional para la Gestión del Riesgo de Desastres. https://doi.org/10.5281/zenodo.17673252
+
+**Importar cita (BibTeX)**
+
+``` bibtex
+@incollection{gaviria2025,
+  author    = {Gaviria-Gutiérrez, William Oswaldo and Zambrano-Hernández, Lina Andrea},
+  title     = {Enfoque Etnodiferencial y Riesgo de Desastre en Colombia: Líneas de Fuga para una Digna Vida},
+  booktitle = {Investigaciones en Gestión del Riesgo de Desastres para Colombia. Enfoque Comunitario, Territorial y Animal},
+  editor    = {{Comisión Nacional Asesora para la Investigación en Gestión del Riesgo de Desastres (CNAIGRD)}},
+  publisher = {Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD)},
+  address   = {Bogotá, Colombia},
+  year      = {2025},
+  chapter   = {2},
+  doi       = {10.5281/zenodo.17673252},
+  url       = {https://scr-ungrd.github.io/investigaciones-grd-2025/Capitulo2.html}
+}
+```
+
 ## BIBLIOGRAFÍA
+
+------------------------------------------------------------------------

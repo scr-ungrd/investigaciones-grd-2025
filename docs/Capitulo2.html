@@ -26,6 +26,41 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 /* CSS for citations */
 div.csl-bib-body { }
 div.csl-entry {
@@ -225,7 +260,8 @@ background-size: cover;
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
     <div class="sidebar-title mb-0 py-0">
       <a href="./">Investigaciones en Gestión del Riesgo de Desastres para Colombia. Enfoque Comunitario, Territorial y Animal</a> 
-        <div class="sidebar-tools-main">
+        <div class="sidebar-tools-main tools-wide">
+    <a href="https://scr-ungrd.github.io/hub/" rel="noopener noreferrer" title="" class="quarto-navigation-tool px-1" aria-label="HUB SCR — portal de proyectos" target="_blank"><i class="bi bi-diagram-3-fill"></i></a>
     <a href="https://github.com/scr-ungrd/investigaciones-grd-2025" title="Ejecutar el código" class="quarto-navigation-tool px-1" aria-label="Ejecutar el código"><i class="bi bi-github"></i></a>
     <a href="./Investigaciones-en-Gestión-del-Riesgo-de-Desastres-para-Colombia.-Enfoque-Comunitario,-Territorial-y-Animal.pdf" title="Descargar PDF" class="quarto-navigation-tool px-1" aria-label="Descargar PDF"><i class="bi bi-file-pdf"></i></a>
 </div>
@@ -312,6 +348,7 @@ background-size: cover;
   <li><a href="#uso-de-herramientas-de-inteligencia-artificial" id="toc-uso-de-herramientas-de-inteligencia-artificial" class="nav-link" data-scroll-target="#uso-de-herramientas-de-inteligencia-artificial">USO DE HERRAMIENTAS DE INTELIGENCIA ARTIFICIAL</a></li>
   <li><a href="#identificación-de-autores" id="toc-identificación-de-autores" class="nav-link" data-scroll-target="#identificación-de-autores">IDENTIFICACIÓN DE AUTORES</a></li>
   <li><a href="#declaración-de-autoría-credit" id="toc-declaración-de-autoría-credit" class="nav-link" data-scroll-target="#declaración-de-autoría-credit">DECLARACIÓN DE AUTORÍA CRediT</a></li>
+  <li><a href="#acerca-de-este-capítulo" id="toc-acerca-de-este-capítulo" class="nav-link" data-scroll-target="#acerca-de-este-capítulo">ACERCA DE ESTE CAPÍTULO</a></li>
   <li><a href="#bibliografía" id="toc-bibliografía" class="nav-link" data-scroll-target="#bibliografía">BIBLIOGRAFÍA</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/scr-ungrd/investigaciones-grd-2025/blob/main/Capitulo2.qmd" class="toc-action"><i class="bi bi-github"></i>Ver el código</a></li><li><a href="https://github.com/scr-ungrd/investigaciones-grd-2025/issues/new" class="toc-action"><i class="bi empty"></i>Informar sobre problema</a></li></ul></div></nav>
@@ -337,6 +374,7 @@ background-size: cover;
 </div>
 <section id="introducción" class="level2">
 <h2 class="anchored" data-anchor-id="introducción">1. INTRODUCCIÓN</h2>
+<hr>
 <p>El desastre es una ruptura de la cotidianidad. En un territorio específico, las interacciones socioambientales que se han venido configurando se fracturan, lo que genera un profundo sufrimiento para el cuerpo subjetivo, político y territorial. Evitar este dolor representa un acto de justicia con la digna vida, en tanto aquel padecimiento es evitable. Así, en clave de promoción de la digna vida y evitación de sufrimientos emerge la gestión del riesgo de desastres (GRD), concebida como un proceso social orientado a la transformación de las relaciones entre los seres humanos y la naturaleza <span class="citation" data-cites="narvaez2009">[<a href="#ref-narvaez2009" role="doc-biblioref">1</a>]</span>.</p>
 <p>Ahora bien, aun cuando su horizonte es loable, la GRD se ha visto inmersa en una tensión discursiva desde hace varios años. Por un lado, encontramos el enfoque que comprende el desastre desde una perspectiva fisicalista, que privilegia el estudio de las amenazas por encima de cualquier otro factor <span class="citation" data-cites="torrico2008">[<a href="#ref-torrico2008" role="doc-biblioref">2</a>]</span>. Por otro lado, existen los planteamientos construccionistas, que interpretan el riesgo y el desastre como fenómenos emergentes de la compleja red de interacciones humanas <span class="citation" data-cites="maskrey1998 alcantara2025">[<a href="#ref-maskrey1998" role="doc-biblioref">3</a>,<a href="#ref-alcantara2025" role="doc-biblioref">4</a>]</span>.</p>
 <p>Esta tensión no es menor, en tanto el ángulo de colocación-acción que soportan determinará los procesos que han de llevarse a cabo. Al elegir una visión fisicalista, se podría desatender el diálogo sobre el desarrollo social, aunque se logren avances significativos en la comprensión de los procesos naturales subyacentes. En contraste, optar por un enfoque construccionista puede llevar a una menor atención a los procesos físicos, pero proporciona un marco más rico para entender cuestiones de desigualdad social, exclusión, segregación, vulnerabilidad y desarrollo de capacidades.</p>
@@ -369,6 +407,7 @@ Caja 1. Avances en Colombia hacia una GRD participativa, inclusiva y diversa
 </section>
 <section id="metodología" class="level2">
 <h2 class="anchored" data-anchor-id="metodología">2. METODOLOGÍA</h2>
+<hr>
 <p>La investigación adelantada fue de tipo cualitativa, estructurada mediante fases polifónicas. Esta noción hace referencia a estadios de diálogo que reúnen diversas voces, permitiendo que emerja un discurso generativo <span class="citation" data-cites="guzman2020 lastra2020">[<a href="#ref-guzman2020" role="doc-biblioref">15</a>,<a href="#ref-lastra2020" role="doc-biblioref">16</a>]</span> en clave de las categorías etnodiferencial y GRD, seguidas por la pregunta amplia: ¿Cuáles son las posibilidades de articulación del enfoque etnodiferencial a la GRD en Colombia? Estas fases se complementaron con un proceso de acuerdos narrativos <span class="citation" data-cites="sciurano2022">[<a href="#ref-sciurano2022" role="doc-biblioref">17</a>]</span>, mediante el cual se armonizan los tonos discursivos y operativos en colaboración con las instancias responsables del proyecto. En consecuencia, las fases polifónicas se desarrollaron de la siguiente manera:</p>
 <p><strong>Fase polifónica I.</strong> Esta fase implicó la revisión de documentos sobre el enfoque etnodiferencial en la GRD en Latinoamérica, con énfasis en Colombia. Se exploraron Google Académico, Redalyc, Scielo, Ebsco, CEPAL, Dialnet, Tesis Doctorales en Red y UNESCO, utilizando palabras clave como “etnodiferencial”, “diversidad”, “desastres”, “riesgos”, “recuperación”, “rehabilitación” y “reconstrucción”, en el rango temporal 2016–2021. De 213 textos iniciales, se eliminaron duplicados y no relevantes, quedando 80; la saturación categorial redujo la unidad de trabajo a 50. Este proceso aseguró una base sólida para analizar el componente étnico en la GRD. La metodología de selección aplicada refleja un enfoque transparente, alineado con los estándares de revisión, facilitando futuras investigaciones y aplicaciones prácticas en contextos étnicos diversos.</p>
 <p><strong>Fase polifónica II.</strong> En esta fase se desarrollaron narrativas generativas, donde las voces de miembros de comunidades e instituciones, sus experiencias cotidianas y sus formas de vida contribuyeron a la construcción de líneas de fuga para la incorporación del enfoque diferencial en la gestión del riesgo de desastres. Este proceso incluyó: 6 grupos focales en modalidad virtual (3 con instituciones y 3 con comunidades) y 14 entrevistas individuales en modalidad virtual (6 con representantes institucionales y 8 con representantes comunitarios).</p>
@@ -377,6 +416,7 @@ Caja 1. Avances en Colombia hacia una GRD participativa, inclusiva y diversa
 </section>
 <section id="resultados" class="level2">
 <h2 class="anchored" data-anchor-id="resultados">3. RESULTADOS</h2>
+<hr>
 <p>Los resultados han de presentarse en virtud de cuatro acápites: (1) Participación comunitaria en la GRD, (2) Conocimiento del riesgo y enfoque etnodiferencial, (3) Reducción del riesgo y enfoque etnodiferencial, (4) Manejo de desastres y enfoque etnodiferencial.</p>
 <section id="participación-comunitaria-en-la-gestión-del-riesgo-de-desastres" class="level3">
 <h3 class="anchored">3.1 Participación comunitaria en la Gestión del Riesgo de Desastres</h3>
@@ -440,6 +480,7 @@ Caja 2. Elementos mínimos que la articulación debe favorecer
 </section>
 <section id="discusión-y-conclusiones" class="level2">
 <h2 class="anchored" data-anchor-id="discusión-y-conclusiones">4. DISCUSIÓN Y CONCLUSIONES</h2>
+<hr>
 <p>El enfoque etnodiferencial presenta una multiplicidad de alternativas que convocan caminos para otras formas de sentipensar la GRD en Colombia. Al considerar las tensiones que emergen, se permite una interacción entre los saberes ancestrales y las estructuras modernas de GRD, así como un replanteamiento de la participación comunitaria, la articulación interinstitucional y el papel de los saberes comunitarios en la construcción del conocimiento.</p>
 <p>El discurso predominante en la GRD ha sido históricamente monolítico, estructurado desde una visión occidental y tecnocrática que, al mismo tiempo, margina las experiencias y conocimientos de las comunidades. Ante este panorama, se presenta una línea de fuga fundamental: la reconstrucción del espacio discursivo para reconocer la voz a las cosmovisiones, cosmogonías y prácticas ancestrales que han sido sistemáticamente silenciadas. Este enfoque etnodiferencial busca descentralizar el conocimiento hegemónico y colocar en primer plano las voces de las comunidades negras, afrocolombianas, raizales, palenqueras, gitanas (o Rrom) e indígenas, redefiniendo su papel de la periferia al centro de la acción.</p>
 <p>Tal como lo expresan Amorim et al. <span class="citation" data-cites="amorim2022">[<a href="#ref-amorim2022" role="doc-biblioref">25</a>]</span>, un giro conceptual es indispensable para desafiar el planeamiento excluyente. Su propuesta de un enfoque basado en el lugar (place-based and place-making) es relevante para reconocer y valorar el conocimiento tradicional y local que ha sido invisibilizado. Los autores argumentan que los enfoques convencionales de adaptación son fragmentados y tecnocráticos, pasando por alto las vulnerabilidades superpuestas de los habitantes históricamente marginados. De este modo, la justicia climática interseccional que defienden demanda la integración del conocimiento, alejándose de los modelos impulsados por expertos. Esta idea respalda directamente la necesidad de un enfoque etnodiferencial, ya que el lugar saca a la luz las complejidades de las geografías racializadas, formadas por historias de (neo)colonialismo y racismo contemporáneo.</p>
@@ -497,19 +538,23 @@ Recomendaciones para tomar decisiones
 </section>
 <section id="agradecimientos" class="level2">
 <h2 class="anchored" data-anchor-id="agradecimientos">AGRADECIMIENTOS</h2>
+<hr>
 <p>Agradecemos especialmente a los líderes y lideresas comunitarios, así como a los representantes institucionales que compartieron sus ideas durante esta investigación. Su valiosa colaboración fue fundamental para llevarla a cabo. También agradecemos a Humanity &amp; Inclusion Colombia por financiar el proyecto, identificado con el código C61-SER0301. Finalmente, expresamos nuestra sincera gratitud a la Unidad Nacional para la Gestión del Riesgo de Desastres -Presidencia de la República de Colombia-, cuyo apoyo nos permitió establecer contacto con representantes comunitarios e instituciones para el desarrollo de las conversaciones.</p>
 </section>
 <section id="conflicto-de-intereses" class="level2">
 <h2 class="anchored" data-anchor-id="conflicto-de-intereses">CONFLICTO DE INTERESES</h2>
+<hr>
 <p>El autor y la autora no declaran conflicto de intereses.</p>
 </section>
 <section id="uso-de-herramientas-de-inteligencia-artificial" class="level2">
 <h2 class="anchored" data-anchor-id="uso-de-herramientas-de-inteligencia-artificial">USO DE HERRAMIENTAS DE INTELIGENCIA ARTIFICIAL</h2>
+<hr>
 <p>Durante la preparación de este capítulo, los autores utilizaron ChatGTP versión 3.5 (https://chat.openai.com/) con el fin de recibir sugerencias de redacción y corrección del estilo científico.</p>
 <p>Los revisores expresan que no utilizaron herramientas de IA en el proceso de evaluación del manuscrito.</p>
 </section>
 <section id="identificación-de-autores" class="level2">
 <h2 class="anchored" data-anchor-id="identificación-de-autores">IDENTIFICACIÓN DE AUTORES</h2>
+<hr>
 <ul>
 <li>William Oswaldo Gaviria Gutiérrez: <a href="https://orcid.org/0000-0003-4228-4665" class="uri">https://orcid.org/0000-0003-4228-4665</a></li>
 <li>Lina Andrea Zambrano Hernández: <a href="https://scholar.google.es/citations?user=KHLJGVwAAAAJ&amp;hl=es" class="uri">https://scholar.google.es/citations?user=KHLJGVwAAAAJ&amp;hl=es</a></li>
@@ -517,10 +562,31 @@ Recomendaciones para tomar decisiones
 </section>
 <section id="declaración-de-autoría-credit" class="level2">
 <h2 class="anchored" data-anchor-id="declaración-de-autoría-credit">DECLARACIÓN DE AUTORÍA CRediT</h2>
+<hr>
 <p><strong>Conceptualización:</strong> William Oswaldo Gaviria Gutiérrez y Lina Andrea Zambrano Hernández. <strong>Metodología:</strong> William Oswaldo Gaviria Gutiérrez y Lina Andrea Zambrano Hernández. <strong>Redacción - borrador original:</strong> William Oswaldo Gaviria Gutiérrez. <strong>Administración del proyecto:</strong> Lina Andrea Zambrano Hernández. <strong>Búsqueda de evidencia:</strong> William Oswaldo Gaviria Gutiérrez.</p>
+</section>
+<section id="acerca-de-este-capítulo" class="level2">
+<h2 class="anchored" data-anchor-id="acerca-de-este-capítulo">ACERCA DE ESTE CAPÍTULO</h2>
+<hr>
+<p><strong>Cítese como:</strong></p>
+<p>Gaviria-Gutiérrez, W. O., &amp; Zambrano-Hernández, L. A. (2025). Enfoque etnodiferencial y riesgo de desastre en Colombia: líneas de fuga para una digna vida. En Comisión Nacional Asesora para la Investigación en Gestión del Riesgo de Desastres (Ed.), <em>Investigaciones en gestión del riesgo de desastres para Colombia. Enfoque comunitario, territorial y animal</em> (Cap. 2). Unidad Nacional para la Gestión del Riesgo de Desastres. https://doi.org/10.5281/zenodo.17673252</p>
+<p><strong>Importar cita (BibTeX)</strong></p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="va">@incollection</span>{<span class="ot">gaviria2025</span>,</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>  <span class="dt">author</span>    = {Gaviria-Gutiérrez, William Oswaldo and Zambrano-Hernández, Lina Andrea},</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>  <span class="dt">title</span>     = {Enfoque Etnodiferencial y Riesgo de Desastre en Colombia: Líneas de Fuga para una Digna Vida},</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>  <span class="dt">booktitle</span> = {Investigaciones en Gestión del Riesgo de Desastres para Colombia. Enfoque Comunitario, Territorial y Animal},</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>  <span class="dt">editor</span>    = {{Comisión Nacional Asesora para la Investigación en Gestión del Riesgo de Desastres (CNAIGRD)}},</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>  <span class="dt">publisher</span> = {Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD)},</span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>  <span class="dt">address</span>   = {Bogotá, Colombia},</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>  <span class="dt">year</span>      = {2025},</span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>  <span class="dt">chapter</span>   = {2},</span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>  <span class="dt">doi</span>       = {10.5281/zenodo.17673252},</span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>  <span class="dt">url</span>       = {https://scr-ungrd.github.io/investigaciones-grd-2025/Capitulo2.html}</span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>}</span></code></pre></div><button title="Copiar al portapapeles" class="code-copy-button"><i class="bi"></i></button></div>
 </section>
 <section id="bibliografía" class="level2">
 <h2 class="anchored" data-anchor-id="bibliografía">BIBLIOGRAFÍA</h2>
+<hr>
 
 
 <div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">

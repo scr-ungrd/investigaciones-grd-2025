@@ -425,13 +425,19 @@ Considerar la elaboración de un plan de emergencia bien elaborado es importante
 
 ## MATERIALES Y MÉTODOS
 
+------------------------------------------------------------------------
+
 La recopilación de material bibliográfico, su búsqueda selectiva, selección y filtración de información se determinaron a partir de los documentos técnicos, académicos, oficiales, tanto digitales como escritos, clasificados mediante un formato de revisión crítica como herramienta cualitativa para filtrar información nacional e internacional. Los criterios de búsqueda fueron: *animals in disasters, livestock in volcanic eruptions, animal livelihood in disasters, impact of ashfall in livestock, animal welfare in disasters, volcanic eruptions, disasters management, animales en la gestión del riesgo de los desastres y su papel en la sociedad.* Se prioriza el análisis frente al contenido asociado a conocimiento, reducción y manejo de desastres en erupciones volcánicas. Se organiza y prepara el contenido de forma significativa y se agrega el contenido relevante por parte de cada uno de los autores.
 
 ## CONFLICTO DE INTERESES
 
+------------------------------------------------------------------------
+
 Los autores declaran no tener conflicto de interés alguno en la publicación de este capítulo y agradecen a la Fundación Universitaria Agraria de Colombia UNIAGRARIA.
 
 ## USO DE HERRAMIENTAS DE INTELIGENCIA ARTIFICIAL
+
+------------------------------------------------------------------------
 
 Los autores utilizaron herramientas de inteligencia artificial (IA) en el proceso de redacción previo al envío, exclusivamente con el propósito de mejorar el lenguaje y la legibilidad de su capítulo.
 
@@ -439,12 +445,43 @@ Los revisores expresan que no utilizaron herramientas de IA en el proceso de eva
 
 ## CONTRIBUCIÓN DE AUTORÍA CREDIT
 
+------------------------------------------------------------------------
+
 Conceptualización: DAH, JLV. Metodología: DAH, JLV. Redacción de primera versión: DAH, JLV. Revisión y edición de segunda versión: DAH, JLV. Curación de contenidos: DAH, JLV.
 
 ## IDENTIFICACIÓN DE AUTORES
+
+------------------------------------------------------------------------
 
 Diego Alexander Hernández Pulido: <https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001613874>
 
 Julia Inés Lema Vélez: <https://orcid.org/0009-0009-2178-8400>
 
+## ACERCA DE ESTE CAPÍTULO
+
+------------------------------------------------------------------------
+
+**Cítese como:**
+
+Hernández Pulido, D., & Lema Vélez, J. I. (2025). Gestión del riesgo volcánico con animales de producción. En Comisión Nacional Asesora para la Investigación en Gestión del Riesgo de Desastres (Ed.), *Investigaciones en gestión del riesgo de desastres para Colombia. Enfoque comunitario, territorial y animal* (Cap. 5). Unidad Nacional para la Gestión del Riesgo de Desastres. https://doi.org/10.5281/zenodo.17673444
+
+**Importar cita (BibTeX)**
+
+``` bibtex
+@incollection{hernandezpulido2025,
+  author    = {Hernández Pulido, Diego and Lema Vélez, Julia Inés},
+  title     = {Gestión del Riesgo Volcánico con Animales de Producción},
+  booktitle = {Investigaciones en Gestión del Riesgo de Desastres para Colombia. Enfoque Comunitario, Territorial y Animal},
+  editor    = {{Comisión Nacional Asesora para la Investigación en Gestión del Riesgo de Desastres (CNAIGRD)}},
+  publisher = {Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD)},
+  address   = {Bogotá, Colombia},
+  year      = {2025},
+  chapter   = {5},
+  doi       = {10.5281/zenodo.17673444},
+  url       = {https://scr-ungrd.github.io/investigaciones-grd-2025/Capitulo5.html}
+}
+```
+
 ## BIBLIOGRAFÍA
+
+------------------------------------------------------------------------

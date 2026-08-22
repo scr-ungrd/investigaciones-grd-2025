@@ -30,6 +30,41 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 /* CSS for citations */
 div.csl-bib-body { }
 div.csl-entry {
@@ -253,7 +288,8 @@ background-size: cover;
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
     <div class="sidebar-title mb-0 py-0">
       <a href="./">Investigaciones en Gestión del Riesgo de Desastres para Colombia. Enfoque Comunitario, Territorial y Animal</a> 
-        <div class="sidebar-tools-main">
+        <div class="sidebar-tools-main tools-wide">
+    <a href="https://scr-ungrd.github.io/hub/" rel="noopener noreferrer" title="" class="quarto-navigation-tool px-1" aria-label="HUB SCR — portal de proyectos" target="_blank"><i class="bi bi-diagram-3-fill"></i></a>
     <a href="https://github.com/scr-ungrd/investigaciones-grd-2025" title="Ejecutar el código" class="quarto-navigation-tool px-1" aria-label="Ejecutar el código"><i class="bi bi-github"></i></a>
     <a href="./Investigaciones-en-Gestión-del-Riesgo-de-Desastres-para-Colombia.-Enfoque-Comunitario,-Territorial-y-Animal.pdf" title="Descargar PDF" class="quarto-navigation-tool px-1" aria-label="Descargar PDF"><i class="bi bi-file-pdf"></i></a>
 </div>
@@ -348,6 +384,7 @@ background-size: cover;
   <li><a href="#uso-de-herramientas-de-inteligencia-artificial" id="toc-uso-de-herramientas-de-inteligencia-artificial" class="nav-link" data-scroll-target="#uso-de-herramientas-de-inteligencia-artificial">USO DE HERRAMIENTAS DE INTELIGENCIA ARTIFICIAL</a></li>
   <li><a href="#identificación-de-autores" id="toc-identificación-de-autores" class="nav-link" data-scroll-target="#identificación-de-autores">IDENTIFICACIÓN DE AUTORES</a></li>
   <li><a href="#declaración-de-autoría-credit" id="toc-declaración-de-autoría-credit" class="nav-link" data-scroll-target="#declaración-de-autoría-credit">DECLARACIÓN DE AUTORÍA CRediT</a></li>
+  <li><a href="#acerca-de-este-capítulo" id="toc-acerca-de-este-capítulo" class="nav-link" data-scroll-target="#acerca-de-este-capítulo">ACERCA DE ESTE CAPÍTULO</a></li>
   <li><a href="#bibliografía" id="toc-bibliografía" class="nav-link" data-scroll-target="#bibliografía">BIBLIOGRAFÍA</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/scr-ungrd/investigaciones-grd-2025/blob/main/Capitulo1.qmd" class="toc-action"><i class="bi bi-github"></i>Ver el código</a></li><li><a href="https://github.com/scr-ungrd/investigaciones-grd-2025/issues/new" class="toc-action"><i class="bi empty"></i>Informar sobre problema</a></li></ul></div></nav>
@@ -373,6 +410,7 @@ background-size: cover;
 </div>
 <section id="introducción" class="level2">
 <h2 class="anchored" data-anchor-id="introducción">1. INTRODUCCIÓN</h2>
+<hr>
 <p>Los habitantes de Colombia enfrentan una creciente exposición a amenazas derivadas de la crisis climática, lo que hace imperativa la preparación y capacitación ciudadana para enfrentar y mitigar sus potenciales impactos adversos. Para que la gestión del riesgo de desastres (GRD) y la adaptación al cambio climático (ACC) contribuyan de manera efectiva a la construcción de sociedades resilientes, es necesario articular el conocimiento científico con la apropiación social del conocimiento (ASC). Esta integración permite que la ciudadanía comprenda su territorio, identifique las amenazas que lo afectan y tome decisiones informadas y contextualizadas. En este contexto, el Sistema de Alerta Temprana del Valle de Aburrá (SIATA) se consolida como un proyecto estratégico liderado por la autoridad ambiental del Área Metropolitana del Valle de Aburrá (AMVA). El SIATA articula ciencia, tecnología e innovación mediante el monitoreo continuo de variables ambientales, el desarrollo de investigación aplicada, y el fortalecimiento de procesos de ASC.</p>
 <p>Este estudio de naturaleza cualitativa tiene como objetivo analizar el desarrollo de capacidades de dos comunidades del Valle de Aburrá antes y después de su participación en estrategias de ASC lideradas por el proyecto SIATA, tales como los Sistemas de Alerta Temprana Comunitaria y Semilleros de Ciudadanos Científicos.</p>
 <div id="box1" class="callout callout-style-simple callout-important no-icon" style="background-color: #e3f0fbff; border-left: 4px solid #d4e8f9ff;">
@@ -382,7 +420,7 @@ background-size: cover;
 </div>
 <div class="callout-body-container">
 <h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;" class="anchored">
-Caja 1. Ciencia y desarrollo local al servicio de la ciudadanía
+<p>Caja 1. Ciencia y desarrollo local al servicio de la ciudadanía</p>
 </h2>
 <p>Durante más de 10 años, la experiencia del proyecto SIATA en el Valle de Aburrá ha permitido a la ciudadanía contar con una herramienta de monitoreo en tiempo real para comprender los fenómenos amenazantes a través de la investigación de las variables ambientales y del desarrollo de tecnologías adaptadas al territorio. SIATA brinda a la ciudadanía y los actores clave en la gestión del riesgo de desastres la capacidad de tomar decisiones oportunas ante la posible materialización de un evento. A su vez, la ASC es fundamental en el proyecto al fomentar la democratización de la ciencia y el empoderamiento ciudadano.</p>
 <div class="quarto-figure quarto-figure-center">
@@ -408,7 +446,7 @@ Caja 1. Ciencia y desarrollo local al servicio de la ciudadanía
 </div>
 <div class="callout-body-container">
 <h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;" class="anchored" data-anchor-id="contexto-del-territorio-climatológico-e-hidrográfico">
-Caja 2: ¿Qué es un evento de precipitación extremo?
+<p>Caja 2: ¿Qué es un evento de precipitación extremo?</p>
 </h2>
 <p><strong>Evento meteorológico extremo</strong>: Se refiere a un evento que es inusual en un lugar y época del año determinados. Las definiciones de “inusual” pueden variar, pero normalmente se considera un evento meteorológico extremo aquel cuya ocurrencia es tan rara como, o más rara que, el percentil 10 o 90 de una función de densidad de probabilidad estimada a partir de observaciones. Por definición, las características de lo que se denomina meteorología extrema varian de un lugar a otro en un sentido absoluto <span class="citation" data-cites="ipcc2012">[<a href="#ref-ipcc2012" role="doc-biblioref">3</a>]</span>.</p>
 </div>
@@ -462,6 +500,7 @@ Figura&nbsp;2: Monitoreo hidrometeorológico en la red de drenaje del Valle de A
 </section>
 <section id="estrategias-siata" class="level2">
 <h2 class="anchored" data-anchor-id="estrategias-siata">2. ESTRATEGIAS SIATA</h2>
+<hr>
 <p>En el proyecto SIATA, con enfoques pedagógicos y didácticos se desarrollan estrategias de ASC en cuatro líneas: comunicación de la ciencia, gestión social, formación de públicos, y gestión del conocimiento, que favorecen la enseñanza y el aprendizaje científico a partir del contexto local. A continuación, se describen dos de las estrategias, teniendo en cuenta los objetivos de la actual investigación.</p>
 <section id="semilleros-de-ciudadanos-científicosscc" class="level3">
 <h3 class="anchored">2.1 Semilleros de ciudadanos científicos(SCC)</h3>
@@ -484,7 +523,7 @@ Figura&nbsp;3: El panel izquierdo explica la metodología de la estrategia de Se
 </div>
 <div class="callout-body-container">
 <h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;" class="anchored" data-anchor-id="semilleros-de-ciudadanos-científicosscc">
-Caja 3: Así como semilleros de ciudadanos científicos , existen otras estrategias que se abordan desde la línea educativa del proyecto, estas son:
+<p>Caja 3: Así como semilleros de ciudadanos científicos , existen otras estrategias que se abordan desde la línea educativa del proyecto, estas son:</p>
 </h2>
 <p><strong>Red de Educadores Científicos (REC).</strong> Es una estrategia que busca articular el conocimiento científico local para la GRD en diferentes contextos del Valle de Aburrá, a partir de actores sociales interesados por la educación. Esta se encuentra conformada por educadores del contexto educativo formal e informal; participan profesores de educación básica, profesores universitarios, organismos de socorro y otros ciudadanos que ejercen prácticas educativas en diferentes contextos. Con esta comunidad se genera una interacción continua y un diálogo de saberes con el fin de fortalecer y mejorar los procesos de enseñanza y aprendizaje basados en la ciencia local.</p>
 <p><strong>SIATA para la Escuela</strong>. Es una estrategia de divulgación y apropiación social de la ciencia y la tecnología, con la que se busca ofrecer a la ciudadanía material educativo que le permita comprender fenómenos hidrometeorológicos, geofísicos y de calidad del aire, asociados a la GRD en el territorio metropolitano. Para ello, se desarrollan herramientas en formatos donde se encuentran experiencias, juegos, cuentos, piezas gráficas, experimentos y videos cortos desde un enfoque de ciencia local.</p>
@@ -519,7 +558,7 @@ Figura&nbsp;4: Formación de comunidades del Sistema de Alerta Temprana Comunita
 </div>
 <div class="callout-body-container">
 <h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;" class="anchored" data-anchor-id="sistemas-de-alerta-temprana-comunitarios">
-Caja 4. Estrategia social y cifras del proyecto.
+<p>Caja 4. Estrategia social y cifras del proyecto.</p>
 </h2>
 <p>La estrategia social del proyecto comprende además de los SATC, otros públicos con quienes se realiza el proceso formativo en temas científicos y de articulación en aspectos relacionados con la GRD. Estos son:</p>
 <ul>
@@ -540,6 +579,7 @@ Caja 4. Estrategia social y cifras del proyecto.
 </section>
 <section id="materiales-y-métodos" class="level2">
 <h2 class="anchored" data-anchor-id="materiales-y-métodos">3. MATERIALES Y MÉTODOS</h2>
+<hr>
 <p>Para establecer cómo influyen las estrategias educativas en la gestión del riesgo de desastres en la apropiación social del conocimiento de los sistemas de alerta temprana comunitarios y las comunidades educativas, se analizaron dos casos: una comunidad SATC y una comunidad educativa del territorio metropolitano. El enfoque del estudio es de naturaleza cualitativa siguiendo a Patton <span class="citation" data-cites="patton1980">[<a href="#ref-patton1980" role="doc-biblioref">21</a>]</span>, Hernández et al. <span class="citation" data-cites="hernandez2006">[<a href="#ref-hernandez2006" role="doc-biblioref">22</a>]</span> y Galeano <span class="citation" data-cites="galeano2004">[<a href="#ref-galeano2004" role="doc-biblioref">23</a>]</span>, con un método de estudio de caso <span class="citation" data-cites="saldana2015 stake1999">[<a href="#ref-saldana2015" role="doc-biblioref">24</a>,<a href="#ref-stake1999" role="doc-biblioref">25</a>]</span>.</p>
 <p>Los instrumentos utilizados para la recopilación de información fueron los diarios de campo registrados antes de iniciar el proceso, y la entrevista semiestructurada con una líder comunitaria y una profesora que residen y trabajan en las comunidades seleccionadas para la presente investigación. A través de estos instrumentos, se logró obtener una comprensión profunda de las experiencias y una identificación acerca de la percepción del conocimiento de las comunidades. Las perspectivas y conocimientos de estas personas son fundamentales para entender cómo la ciudadanía enfrenta y se adapta a los fenómenos ambientales, así como para identificar posibles estrategias de mitigación y preparación ante eventos hidrometeorológicos extremos. Esta investigación se desarrolló entre enero y abril de 2024; sin embargo, no solo se basa en los datos recopilados durante este periodo, sino también en años anteriores; específicamente desde el año 2017 hasta el 2024 para la comunidad SATC y los años 2023 y 2024 para la comunidad educativa. Este enfoque integral asegura una comprensión de la dinámica y su evolución.</p>
 <section id="descripción-del-contexto-de-las-comunidades" class="level3">
@@ -554,7 +594,7 @@ Caja 4. Estrategia social y cifras del proyecto.
 </div>
 <div class="callout-body-container">
 <h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;" class="anchored" data-anchor-id="descripción-del-contexto-de-las-comunidades">
-Caja 5: Objetivos de encuentros de SATC
+<p>Caja 5: Objetivos de encuentros de SATC</p>
 </h2>
 <p><strong>Reconocimiento y socialización SIATA:</strong> Dar a conocer que es un Sistema de Alerta Temprana Comunitaria SATC, funciones e importancia y generalidades del proyecto SIATA.</p>
 <p><strong>Imaginarios de la quebrada y mapa:</strong> Reconocer el significado que tiene la quebrada o río para la comunidad a partir de un ejercicio de memoria colectiva.</p>
@@ -572,14 +612,9 @@ Caja 5: Objetivos de encuentros de SATC
 </section>
 <section id="categorías-de-análisis" class="level3">
 <h3 class="anchored" data-anchor-id="categorías-de-análisis">3.2 Categorías de análisis</h3>
-<p>Se definieron tres dimensiones con diferentes grados de complejidad, basadas y adaptadas a partir de los trabajos de Vázquez-Bernal <span class="citation" data-cites="vazquez2005">[<a href="#ref-vazquez2005" role="doc-biblioref">26</a>]</span>, Vázquez-Bernal et al. <span class="citation" data-cites="vazquez2007a vazquez2007b vazquez2010 vazquez2012">[<a href="#ref-vazquez2007a" role="doc-biblioref">27</a>–<a href="#ref-vazquez2012" role="doc-biblioref">30</a>]</span> y Wamba <span class="citation" data-cites="wamba2001">[<a href="#ref-wamba2001" role="doc-biblioref">31</a>]</span>, que sirvieron para determinar el nivel de desarrollo alcanzado. Dichas dimensiones se identifican como Técnica, la cual, puede limitar el desarrollo del conocimiento debido a obstáculos que influyen en la comprensión del riesgo; Práctica, que promueve una reflexión orientada a la resolución de problemas, ampliando la comprensión; y Crítica, que extiende el impacto de la educación más allá, permitiendo que el conocimiento se desarrolle y aplique al contexto social, siendo transformador, otorgándole un carácter emancipador. Estas dos últimas dimensiones permiten una retroalimentación dialógica. En la <a href="#tbl-sistema-categorias" class="quarto-xref">Tabla&nbsp;<span>1</span></a> se presenta el sistema de categorías.</p>
-<div id="tbl-sistema-categorias" class="quarto-float quarto-figure quarto-figure-center anchored">
-<figure class="quarto-float quarto-float-tbl figure">
-<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-sistema-categorias-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Tabla&nbsp;1: Sistema de categorías. Los códigos se componen de una letra inicial que indica cada dimensión (T para técnica, P para práctica y C para crítica), seguida de un par de letras que representan la categoría o subcategoría correspondiente.
-</figcaption>
-<div aria-describedby="tbl-sistema-categorias-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<p>Se definieron tres dimensiones con diferentes grados de complejidad, basadas y adaptadas a partir de los trabajos de Vázquez-Bernal <span class="citation" data-cites="vazquez2005">[<a href="#ref-vazquez2005" role="doc-biblioref">26</a>]</span>, Vázquez-Bernal et al. <span class="citation" data-cites="vazquez2007a vazquez2007b vazquez2010 vazquez2012">[<a href="#ref-vazquez2007a" role="doc-biblioref">27</a>–<a href="#ref-vazquez2012" role="doc-biblioref">30</a>]</span> y Wamba <span class="citation" data-cites="wamba2001">[<a href="#ref-wamba2001" role="doc-biblioref">31</a>]</span>, que sirvieron para determinar el nivel de desarrollo alcanzado. Dichas dimensiones se identifican como Técnica, la cual, puede limitar el desarrollo del conocimiento debido a obstáculos que influyen en la comprensión del riesgo; Práctica, que promueve una reflexión orientada a la resolución de problemas, ampliando la comprensión; y Crítica, que extiende el impacto de la educación más allá, permitiendo que el conocimiento se desarrolle y aplique al contexto social, siendo transformador, otorgándole un carácter emancipador. Estas dos últimas dimensiones permiten una retroalimentación dialógica. En la <span class="quarto-unresolved-ref">?tbl-sistema-categorias</span> se presenta el sistema de categorías.</p>
 <table class="caption-top table">
+<caption>Sistema de categorías. Los códigos se componen de una letra inicial que indica cada dimensión (T para técnica, P para práctica y C para crítica), seguida de un par de letras que representan la categoría o subcategoría correspondiente.</caption>
 <colgroup>
 <col style="width: 31%">
 <col style="width: 12%">
@@ -669,17 +704,9 @@ Tabla&nbsp;1: Sistema de categorías. Los códigos se componen de una letra inic
 </tr>
 </tbody>
 </table>
-</div>
-</figure>
-</div>
-<p>En la <a href="#tbl-codigos" class="quarto-xref">Tabla&nbsp;<span>2</span></a> se presentan los códigos y su significado. Finalmente, los datos registrados se analizan y codifican con el programa MAXQDA.</p>
-<div id="tbl-codigos" class="quarto-float quarto-figure quarto-figure-center anchored">
-<figure class="quarto-float quarto-float-tbl figure">
-<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-codigos-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Tabla&nbsp;2: Códigos de análisis.
-</figcaption>
-<div aria-describedby="tbl-codigos-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<p>En la <span class="quarto-unresolved-ref">?tbl-codigos</span> se presentan los códigos y su significado. Finalmente, los datos registrados se analizan y codifican con el programa MAXQDA.</p>
 <table class="caption-top table">
+<caption>Códigos de análisis.</caption>
 <colgroup>
 <col style="width: 49%">
 <col style="width: 26%">
@@ -769,21 +796,14 @@ Tabla&nbsp;2: Códigos de análisis.
 </tr>
 </tbody>
 </table>
-</div>
-</figure>
-</div>
 </section>
 </section>
 <section id="resultados" class="level2">
 <h2 class="anchored" data-anchor-id="resultados">4. RESULTADOS</h2>
-<p>A continuación, se presentan los resultados del estudio, donde se describen los hallazgos antes y después del proceso formativo del proyecto SIATA. En la <a href="#tbl-categoria1" class="quarto-xref">Tabla&nbsp;<span>3</span></a>, <a href="#tbl-subcategoria1.2" class="quarto-xref">Tabla&nbsp;<span>8</span></a>, <a href="#tbl-categoria2" class="quarto-xref">Tabla&nbsp;<span>5</span></a>, <a href="#tbl-subcategoria2" class="quarto-xref">Tabla&nbsp;<span>6</span></a> se muestra la información a partir del diario de campo de acuerdo con el sistema de categorías.</p>
-<div id="tbl-categoria1" class="quarto-float quarto-figure quarto-figure-center anchored">
-<figure class="quarto-float quarto-float-tbl figure">
-<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-categoria1-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Tabla&nbsp;3: Categoría 1. Apropiación social del conocimiento para la GRD y la adaptación al cambio climático.&nbsp; Subcategoría 1.1: Comprensión de conceptos y fenómenos.
-</figcaption>
-<div aria-describedby="tbl-categoria1-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<hr>
+<p>A continuación, se presentan los resultados del estudio, donde se describen los hallazgos antes y después del proceso formativo del proyecto SIATA. En la <span class="quarto-unresolved-ref">?tbl-categoria1</span>, <span class="quarto-unresolved-ref">?tbl-subcategoria1.2</span>, <span class="quarto-unresolved-ref">?tbl-categoria2</span>, <span class="quarto-unresolved-ref">?tbl-subcategoria2</span> se muestra la información a partir del diario de campo de acuerdo con el sistema de categorías.</p>
 <table class="caption-top table">
+<caption>Categoría 1. Apropiación social del conocimiento para la GRD y la adaptación al cambio climático.&nbsp; Subcategoría 1.1: Comprensión de conceptos y fenómenos.</caption>
 <colgroup>
 <col style="width: 66%">
 <col style="width: 33%">
@@ -806,16 +826,8 @@ Tabla&nbsp;3: Categoría 1. Apropiación social del conocimiento para la GRD y l
 </tr>
 </tbody>
 </table>
-</div>
-</figure>
-</div>
-<div id="tbl-subcategoria1.2" class="quarto-float quarto-figure quarto-figure-center anchored">
-<figure class="quarto-float quarto-float-tbl figure">
-<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-subcategoria1.2-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Tabla&nbsp;4: Subcategoría 1.2. Aplicación del conocimiento a las necesidades del contexto.
-</figcaption>
-<div aria-describedby="tbl-subcategoria1.2-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <table class="caption-top table">
+<caption>Subcategoría 1.2. Aplicación del conocimiento a las necesidades del contexto.</caption>
 <colgroup>
 <col style="width: 56%">
 <col style="width: 43%">
@@ -831,16 +843,8 @@ Tabla&nbsp;4: Subcategoría 1.2. Aplicación del conocimiento a las necesidades 
 </tr>
 </tbody>
 </table>
-</div>
-</figure>
-</div>
-<div id="tbl-categoria2" class="quarto-float quarto-figure quarto-figure-center anchored">
-<figure class="quarto-float quarto-float-tbl figure">
-<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-categoria2-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Tabla&nbsp;5: Categoría 2: Fortalecimiento ciudadano. Subcategoría 2.1. Comunicación, preparación y respuesta.
-</figcaption>
-<div aria-describedby="tbl-categoria2-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <table class="caption-top table">
+<caption>Categoría 2: Fortalecimiento ciudadano. Subcategoría 2.1. Comunicación, preparación y respuesta.</caption>
 <colgroup>
 <col style="width: 63%">
 <col style="width: 36%">
@@ -862,16 +866,8 @@ Tabla&nbsp;5: Categoría 2: Fortalecimiento ciudadano. Subcategoría 2.1. Comuni
 </tr>
 </tbody>
 </table>
-</div>
-</figure>
-</div>
-<div id="tbl-subcategoria2" class="quarto-float quarto-figure quarto-figure-center anchored">
-<figure class="quarto-float quarto-float-tbl figure">
-<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-subcategoria2-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Tabla&nbsp;6: Subcategoría 2.2. Participación Ciudadana.
-</figcaption>
-<div aria-describedby="tbl-subcategoria2-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <table class="caption-top table">
+<caption>Subcategoría 2.2. Participación Ciudadana.</caption>
 <colgroup>
 <col style="width: 59%">
 <col style="width: 40%">
@@ -887,17 +883,9 @@ Tabla&nbsp;6: Subcategoría 2.2. Participación Ciudadana.
 </tr>
 </tbody>
 </table>
-</div>
-</figure>
-</div>
-<p>Una vez implementadas las estrategias de ASC y después de un periodo de acompañamiento en ambas comunidades, se realizó una entrevista a las líderes que acompañan esta apuesta. En la <a href="#tbl-categoria1.1.1" class="quarto-xref">Tabla&nbsp;<span>7</span></a>, <a href="#tbl-subcategoria1.2" class="quarto-xref">Tabla&nbsp;<span>8</span></a>, <a href="#tbl-categoria2.1" class="quarto-xref">Tabla&nbsp;<span>9</span></a>, y <a href="#tbl-subcategoria2.2" class="quarto-xref">Tabla&nbsp;<span>10</span></a> se presentan los resultados.</p>
-<div id="tbl-categoria1.1.1" class="quarto-float quarto-figure quarto-figure-center anchored">
-<figure class="quarto-float quarto-float-tbl figure">
-<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-categoria1.1.1-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Tabla&nbsp;7: Categoría 1: Apropiación social del conocimiento para la GRD y la adaptación al cambio climático.
-</figcaption>
-<div aria-describedby="tbl-categoria1.1.1-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<p>Una vez implementadas las estrategias de ASC y después de un periodo de acompañamiento en ambas comunidades, se realizó una entrevista a las líderes que acompañan esta apuesta. En la <span class="quarto-unresolved-ref">?tbl-categoria1.1.1</span>, <span class="quarto-unresolved-ref">?tbl-subcategoria1.2</span>, <span class="quarto-unresolved-ref">?tbl-categoria2.1</span>, y <span class="quarto-unresolved-ref">?tbl-subcategoria2.2</span> se presentan los resultados.</p>
 <table class="caption-top table">
+<caption>Categoría 1: Apropiación social del conocimiento para la GRD y la adaptación al cambio climático.</caption>
 <colgroup>
 <col style="width: 61%">
 <col style="width: 38%">
@@ -925,16 +913,8 @@ Tabla&nbsp;7: Categoría 1: Apropiación social del conocimiento para la GRD y l
 </tr>
 </tbody>
 </table>
-</div>
-</figure>
-</div>
-<div id="tbl-subcategoria1.2" class="quarto-float quarto-figure quarto-figure-center anchored">
-<figure class="quarto-float quarto-float-tbl figure">
-<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-subcategoria1.2-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Tabla&nbsp;8: Subcategoría 1.2. Aplicación del conocimiento a las necesidades del contexto.
-</figcaption>
-<div aria-describedby="tbl-subcategoria1.2-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <table class="caption-top table">
+<caption>Subcategoría 1.2. Aplicación del conocimiento a las necesidades del contexto.</caption>
 <colgroup>
 <col style="width: 42%">
 <col style="width: 57%">
@@ -953,16 +933,8 @@ Tabla&nbsp;8: Subcategoría 1.2. Aplicación del conocimiento a las necesidades 
 </tr>
 </tbody>
 </table>
-</div>
-</figure>
-</div>
-<div id="tbl-categoria2.1" class="quarto-float quarto-figure quarto-figure-center anchored">
-<figure class="quarto-float quarto-float-tbl figure">
-<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-categoria2.1-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Tabla&nbsp;9: Categoría 2: Fortalecimiento ciudadano. Subcategoría 2.1. Comunicación, preparación y respuesta.&nbsp;
-</figcaption>
-<div aria-describedby="tbl-categoria2.1-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <table class="caption-top table">
+<caption>Categoría 2: Fortalecimiento ciudadano. Subcategoría 2.1. Comunicación, preparación y respuesta.&nbsp;</caption>
 <colgroup>
 <col style="width: 45%">
 <col style="width: 54%">
@@ -993,16 +965,8 @@ Tabla&nbsp;9: Categoría 2: Fortalecimiento ciudadano. Subcategoría 2.1. Comuni
 </tr>
 </tbody>
 </table>
-</div>
-</figure>
-</div>
-<div id="tbl-subcategoria2.2" class="quarto-float quarto-figure quarto-figure-center anchored">
-<figure class="quarto-float quarto-float-tbl figure">
-<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-subcategoria2.2-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Tabla&nbsp;10: Subcategoría 2.2. Participación Ciudadana.
-</figcaption>
-<div aria-describedby="tbl-subcategoria2.2-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <table class="caption-top table">
+<caption>Subcategoría 2.2. Participación Ciudadana.</caption>
 <colgroup>
 <col style="width: 54%">
 <col style="width: 45%">
@@ -1030,9 +994,6 @@ Tabla&nbsp;10: Subcategoría 2.2. Participación Ciudadana.
 </tr>
 </tbody>
 </table>
-</div>
-</figure>
-</div>
 <p>En la <a href="#fig-segm-codif" class="quarto-xref">Figura&nbsp;<span>5</span></a> se observa que antes del proceso de formación ambas comunidades se ubicaron entre las dimensiones Técnica y Práctica en temas de conocimiento, aplicación de conocimiento, comunicación, preparación y respuesta, y participación ciudadana. Esto sugería la necesidad de favorecer espacios de fortalecimiento en torno a la GRD. Después del proceso de formación, en ambos casos se evidencian cambios importantes que posicionan a las comunidades en la dimensión crítica, lo que permite inferir la influencia de los procesos de formación del proyecto SIATA.</p>
 <div id="fig-segm-codif" class="quarto-float quarto-figure quarto-figure-center anchored">
 <figure class="quarto-float quarto-float-fig figure">
@@ -1047,6 +1008,7 @@ Figura&nbsp;5: En la parte superior se presenta el porcentaje de los segmentos c
 </section>
 <section id="conclusiones" class="level2">
 <h2 class="anchored" data-anchor-id="conclusiones">5. CONCLUSIONES</h2>
+<hr>
 <p>La experiencia del proyecto SIATA destaca la apropiación social del conocimiento para la gestión del riesgo de desastres y la adaptación al cambio climático como herramienta para fortalecer la resiliencia de los habitantes del Valle de Aburrá. Este enfoque involucra a la comunidad en la comprensión activa de su entorno y en la adopción de herramientas prácticas para abordar sus desafíos ambientales. Las metodologías aplicadas en las estrategias de ASC fueron efectivas para integrar conocimientos científicos y populares, garantizando la inclusión de múltiples actores de la comunidad, independientemente de su nivel educativo o edad. Asimismo, permitió el empoderamiento de la comunidad y que los participantes directos e indirectos se convirtieran en agentes activos en la gestión del riesgo de desastres y la adaptación al cambio climático.</p>
 <p>La comprensión de conceptos y fenómenos en gestión del riesgo de desastres y cambio climático fortalece la resiliencia comunitaria. Inicialmente, las comunidades mostraban un bajo nivel de conocimiento, lo que afectó su preparación ante eventos extremos. Con la llegada de SIATA, esta dinámica cambió: la ciudadanía empezó a integrar herramientas del proyecto, mejorando su comprensión del territorio y su capacidad de respuesta.</p>
 <p>Para la aplicación del conocimiento a las necesidades del contexto, es claro que la falta de saberes frente a un tema puede generar dificultades para aplicar soluciones adecuadas a situaciones cotidianas, especialmente en contextos donde la gestión del riesgo de desastres y la adaptación al cambio climático son vitales. Participar en los procesos de ASC del proyecto SIATA ha favorecido la capacidad instalada de las comunidades, esto sugiere una mejora en la comprensión de los riesgos ambientales y la adopción de medidas preventivas y adaptativas.</p>
@@ -1088,18 +1050,22 @@ Figura&nbsp;5: En la parte superior se presenta el porcentaje de los segmentos c
 </section>
 <section id="agradecimientos" class="level2">
 <h2 class="anchored" data-anchor-id="agradecimientos">AGRADECIMIENTOS</h2>
+<hr>
 <p>Los autores agradecen al Área Metropolitana del Valle de Aburrá por el apoyo institucional y financiero al proyecto SIATA. Expresamos nuestro agradecimiento especial a las comunidades que participaron en este estudio por su disposición, tiempo y valiosos aportes. Este trabajo no hubiera sido posible sin el compromiso de los líderes comunitarios y docentes que facilitan los procesos de apropiación social del conocimiento en el territorio metropolitano.</p>
 </section>
 <section id="conflicto-de-intereses" class="level2">
 <h2 class="anchored" data-anchor-id="conflicto-de-intereses">CONFLICTO DE INTERESES</h2>
+<hr>
 <p>Los autores no declaran conflicto de intereses.</p>
 </section>
 <section id="uso-de-herramientas-de-inteligencia-artificial" class="level2">
 <h2 class="anchored" data-anchor-id="uso-de-herramientas-de-inteligencia-artificial">USO DE HERRAMIENTAS DE INTELIGENCIA ARTIFICIAL</h2>
+<hr>
 <p>Durante la preparación de este capítulo, los autores utilizaron ChatGPT versión 3.5 (https://chatgpt.com/) para mejorar la redacción y corrección del estilo científico. Los revisores expresan que no utilizaron herramientas de IA en el proceso de evaluación del manuscrito.</p>
 </section>
 <section id="identificación-de-autores" class="level2">
 <h2 class="anchored" data-anchor-id="identificación-de-autores">IDENTIFICACIÓN DE AUTORES</h2>
+<hr>
 <ul>
 <li>Yazmín Cardona: <a href="https://orcid.org/0000-0002-9864-0254" class="uri">https://orcid.org/0000-0002-9864-0254</a></li>
 <li>Adriana Carolina Herrera-López: <a href="https://orcid.org/0000-0002-3898-862X" class="uri">https://orcid.org/0000-0002-3898-862X</a></li>
@@ -1111,10 +1077,31 @@ Figura&nbsp;5: En la parte superior se presenta el porcentaje de los segmentos c
 </section>
 <section id="declaración-de-autoría-credit" class="level2">
 <h2 class="anchored" data-anchor-id="declaración-de-autoría-credit">DECLARACIÓN DE AUTORÍA CRediT</h2>
+<hr>
 <p><strong>Conceptualización:</strong> Y. Cardona, A.C. Herrera-López, O. Ramírez. <strong>Metodología:</strong> Y. Cardona, M.A.&nbsp;Parra-Góez. <strong>Investigación:</strong> Y. Cardona, A.C. Herrera-López, M.A.&nbsp;Parra-Góez. <strong>Recursos:</strong> J. Sepúlveda, E. Zapata. <strong>Curación de datos:</strong> Y. Cardona, M.A.&nbsp;Parra-Góez. <strong>Redacción - borrador original:</strong> Y. Cardona, A.C. Herrera-López, M.A.&nbsp;Parra-Góez. <strong>Redacción - revisión y edición:</strong> Y. Cardona, A.C. Herrera-López, O. Ramírez, J. Sepúlveda, E. Zapata. <strong>Visualización:</strong> M.A.&nbsp;Parra-Góez. <strong>Supervisión:</strong> O. Ramírez, J. Sepúlveda, E. Zapata. <strong>Administración del proyecto:</strong> J. Sepúlveda, E. Zapata. <strong>Adquisición de fondos:</strong> J. Sepúlveda, E. Zapata.</p>
+</section>
+<section id="acerca-de-este-capítulo" class="level2">
+<h2 class="anchored" data-anchor-id="acerca-de-este-capítulo">ACERCA DE ESTE CAPÍTULO</h2>
+<hr>
+<p><strong>Cítese como:</strong></p>
+<p>Cardona, Y., Herrera-López, A. C., Parra-Góez, M. A., Ramírez, O., Sepúlveda, J., &amp; Zapata, E. (2025). Entre el conocimiento y la acción: estrategias para la gestión del riesgo de desastres y la adaptación climática en el Valle de Aburrá. En Comisión Nacional Asesora para la Investigación en Gestión del Riesgo de Desastres (Ed.), <em>Investigaciones en gestión del riesgo de desastres para Colombia. Enfoque comunitario, territorial y animal</em> (Cap. 1). Unidad Nacional para la Gestión del Riesgo de Desastres. https://doi.org/10.5281/zenodo.17650160</p>
+<p><strong>Importar cita (BibTeX)</strong></p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="va">@incollection</span>{<span class="ot">cardona2025</span>,</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>  <span class="dt">author</span>    = {Cardona, Yazmín and Herrera-López, Adriana Carolina and Parra-Góez, María Alejandra and Ramírez, Olga and Sepúlveda, Julián and Zapata, Esneider},</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>  <span class="dt">title</span>     = {Entre el Conocimiento y la Acción: Estrategias para la Gestión del Riesgo de Desastres y la Adaptación climática en el Valle de Aburrá},</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>  <span class="dt">booktitle</span> = {Investigaciones en Gestión del Riesgo de Desastres para Colombia. Enfoque Comunitario, Territorial y Animal},</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>  <span class="dt">editor</span>    = {{Comisión Nacional Asesora para la Investigación en Gestión del Riesgo de Desastres (CNAIGRD)}},</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>  <span class="dt">publisher</span> = {Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD)},</span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>  <span class="dt">address</span>   = {Bogotá, Colombia},</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>  <span class="dt">year</span>      = {2025},</span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>  <span class="dt">chapter</span>   = {1},</span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>  <span class="dt">doi</span>       = {10.5281/zenodo.17650160},</span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>  <span class="dt">url</span>       = {https://scr-ungrd.github.io/investigaciones-grd-2025/Capitulo1.html}</span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>}</span></code></pre></div><button title="Copiar al portapapeles" class="code-copy-button"><i class="bi"></i></button></div>
 </section>
 <section id="bibliografía" class="level2">
 <h2 class="anchored" data-anchor-id="bibliografía">BIBLIOGRAFÍA</h2>
+<hr>
 
 
 <div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">
@@ -1173,7 +1160,7 @@ Figura&nbsp;5: En la parte superior se presenta el porcentaje de los segmentos c
 18. López-García, J. D., Carvajal-Escobar, Y., &amp; Enciso-Arango, A. M. (2017). Sistemas de alerta temprana con enfoque participativo: un desafío para la gestión del riesgo en Colombia. <em>Revista Luna Azul</em>, <em>44</em>, 231-246 <a href="https://doi.org/10.17151/luaz.2017.44.14">https://doi.org/10.17151/luaz.2017.44.14</a>
 </div>
 <div id="ref-ley1523" class="csl-entry" role="listitem">
-19. Congreso de Colombia (2012). Ley 1523: Por la cual se adopta la política nacional de gestión del riesgo de desastres y se establece el Sistema Nacional de Gestión del Riesgo de Desastres y se dictan otras disposiciones.
+19. Congreso de la República de Colombia (2012). Ley 1523 de 2012: Por la cual se adopta la Política Nacional de Gestión del Riesgo de Desastres y se establece el Sistema Nacional de Gestión del Riesgo de Desastres y se dictan otras disposiciones. <em>Diario Oficial</em>.
 </div>
 <div id="ref-amva2019" class="csl-entry" role="listitem">
 20. Área Metropolitana del Valle de Aburrá (AMVA) (2019). Sistema de Alerta Temprana Comunitario (SATC). <a href="https://www.metropol.gov.co/ambiental/siata/Paginas/SATC.aspx">https://www.metropol.gov.co/ambiental/siata/Paginas/SATC.aspx</a>

@@ -474,19 +474,27 @@ Preguntas por resolver
 
 ## AGRADECIMIENTOS
 
+------------------------------------------------------------------------
+
 Este proyecto no habría sido posible sin el compromiso y la dedicación de quienes aportaron su conocimiento, experiencia y trabajo en campo. Agradecemos profundamente a Sara Berrío Monroy, Paulina Rendón Jaramillo y Sebastián Agudelo Higuita (Universidad de Antioquia), y Ana Carolina Restrepo (Instituto Tecnológico Metropolitano), por su valioso apoyo técnico y humano en los procesos de mapeo y gestión comunitaria. Extendemos también un reconocimiento especial al Voluntariado Ambiental y de Emergencias de San Antonio de Prado (VAPES) y a Luisa Agudelo, líder social, consejera ambiental y coordinadora de VAPES, por su liderazgo y articulación territorial.
 
 La coordinación, edición y redacción final de este artículo estuvo a cargo de Mariana Marín Villagrana, Especialista Sénior de Comunicación para América Latina y el Caribe, a quien agradecemos su apoyo a lo largo de la redacción de este capítulo.
 
 ## CONFLICTO DE INTERESES
 
+------------------------------------------------------------------------
+
 Los autores no declaran conflicto de intereses.
 
 ## USO DE HERRAMIENTAS DE INTELIGENCIA ARTIFICIAL
 
+------------------------------------------------------------------------
+
 Los autores utilizaron herramientas de inteligencia artificial (IA) en el proceso de redacción previo al envío, exclusivamente con el propósito de mejorar el lenguaje y la legibilidad de su capítulo. Los revisores expresan que no utilizaron herramientas de IA en el proceso de evaluación del manuscrito.
 
 ## IDENTIFICACIÓN DE AUTORES
+
+------------------------------------------------------------------------
 
 -   Yessica De los ríos Olarte: <https://orcid.org/0009-0009-1797-3451>
 -   Ana Milena Prada Uribe: N/A
@@ -494,6 +502,35 @@ Los autores utilizaron herramientas de inteligencia artificial (IA) en el proces
 
 ## DECLARACIÓN DE AUTORÍA CRediT
 
+------------------------------------------------------------------------
+
 **Conceptualización:** Y. De los ríos Olarte, A.M. Prada Uribe, C. Jacquin. **Metodología:** Y. De los ríos Olarte, A.M. Prada Uribe, C. Jacquin. **Investigación:** Y. De los ríos Olarte, A.M. Prada Uribe. **Recursos:** HOT, GeoLab Universidad de Antioquia. **Curación de datos:** Y. De los ríos Olarte, A.M. Prada Uribe. **Redacción - borrador original:** Y. De los ríos Olarte, A.M. Prada Uribe, C. Jacquin. **Redacción - revisión y edición:** Y. De los ríos Olarte, A.M. Prada Uribe, C. Jacquin, Mariana Marín Villagrana. **Visualización:** Y. De los ríos Olarte, A.M. Prada Uribe. **Supervisión:** C. Jacquin, HOT. **Administración del proyecto:** C. Jacquin, HOT, GeoLab. **Adquisición de fondos:** HOT.
 
+## ACERCA DE ESTE CAPÍTULO
+
+------------------------------------------------------------------------
+
+**Cítese como:**
+
+De los Ríos Olarte, Y., Prada Uribe, A. M., & Jacquin, C. (2025). Gestión del riesgo de desastres comunitario a través de cartografía participativa y tecnologías abiertas en San Antonio del Prado, Colombia. En Comisión Nacional Asesora para la Investigación en Gestión del Riesgo de Desastres (Ed.), *Investigaciones en gestión del riesgo de desastres para Colombia. Enfoque comunitario, territorial y animal* (Cap. 3). Unidad Nacional para la Gestión del Riesgo de Desastres. https://doi.org/10.5281/zenodo.17673402
+
+**Importar cita (BibTeX)**
+
+``` bibtex
+@incollection{delosrios2025,
+  author    = {De los Ríos Olarte, Yessica and Prada Uribe, Ana Milena and Jacquin, Céline},
+  title     = {Gestión del Riesgo de Desastres Comunitario a través de Cartografía Participativa y Tecnologías Abiertas en San Antonio del Prado, Colombia},
+  booktitle = {Investigaciones en Gestión del Riesgo de Desastres para Colombia. Enfoque Comunitario, Territorial y Animal},
+  editor    = {{Comisión Nacional Asesora para la Investigación en Gestión del Riesgo de Desastres (CNAIGRD)}},
+  publisher = {Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD)},
+  address   = {Bogotá, Colombia},
+  year      = {2025},
+  chapter   = {3},
+  doi       = {10.5281/zenodo.17673402},
+  url       = {https://scr-ungrd.github.io/investigaciones-grd-2025/Capitulo3.html}
+}
+```
+
 ## BIBLIOGRAFÍA
+
+------------------------------------------------------------------------
